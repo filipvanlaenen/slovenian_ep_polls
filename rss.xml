@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Apr 2018 14:56:12 +0200</pubDate>
+    <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 25 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-25-Mediana.html#seats</link>
@@ -99,6 +99,36 @@
       <pubDate>Fri, 13 Apr 2018 14:56:12 +0200</pubDate>
       <dc:date>2018-04-13T14:56:12.194458+02:00</dc:date>
     </item>
-    <dc:date>2018-04-13T14:56:12.194458+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Delo Stik for Delo, 1–8 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik-seats.png"
+        length="288972"
+        type="image/png"/>
+      <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
+      <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Delo Stik for Delo, 1–8 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik-coalitions-seats.png"
+        length="160208"
+        type="image/png"/>
+      <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
+      <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Delo Stik for Delo, 1–8 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 15.7–21.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 6.0–9.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 14.9–20.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.9–8.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.6–9.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 3.0–5.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 1.3–3.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.2–4.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 22.0–28.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik.png"
+        length="303106"
+        type="image/png"/>
+      <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
+      <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
+    </item>
+    <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
   </channel>
 </rss>
