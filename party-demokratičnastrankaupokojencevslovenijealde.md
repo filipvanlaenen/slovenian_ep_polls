@@ -11,7 +11,7 @@ Last result: **8.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 3.6–8.5% | 3.3–9.2% | 3.0–9.9% | 2.5–11.0% |
-| [22 April 2018](2018-04-22-Mediana.html) | Mediana <br> POP TV | 4.1% | 3.1–5.6% | 2.9–6.0% | 2.6–6.4% | 2.2–7.2% |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 4.1% | 3.1–5.6% | 2.9–6.0% | 2.6–6.4% | 2.2–7.2% |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 5.7% | 4.5–7.4% | 4.2–7.9% | 3.9–8.3% | 3.4–9.2% |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 7.9% | 6.5–9.9% | 6.1–10.4% | 5.7–10.9% | 5.1–11.9% |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.2% | 5.3–7.5% | 5.0–7.9% | 4.8–8.2% | 4.3–8.8% |
@@ -47,7 +47,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22 April 2018](2018-04-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -11,7 +11,7 @@ Last result: **16.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.0–3.9% | 1.7–4.2% | 1.5–4.4% | 1.2–4.9% |
-| [22 April 2018](2018-04-22-Mediana.html) | Mediana <br> POP TV | 2.3% | 1.6–3.5% | 1.4–3.8% | 1.3–4.2% | 1.0–4.8% |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 2.3% | 1.6–3.5% | 1.4–3.8% | 1.3–4.2% | 1.0–4.8% |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 1.1% | 0.7–2.1% | 0.6–2.4% | 0.5–2.7% | 0.4–3.2% |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 2.8% | 2.2–3.7% | 2.0–4.0% | 1.9–4.2% | 1.6–4.7% |
@@ -52,7 +52,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [22 April 2018](2018-04-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik |  |  |  |  |  |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
