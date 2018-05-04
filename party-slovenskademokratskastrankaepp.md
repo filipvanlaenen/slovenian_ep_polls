@@ -10,8 +10,10 @@ Last result: **24.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 17.4–24.3% | 16.7–25.1% | 16.2–25.7% | 15.2–26.9% |
+| N/A | [Poll Average](average.html) | 20.5% | 16.8–24.3% | 16.2–25.1% | 15.7–25.7% | 14.7–26.9% |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21.9% | 19.5–24.6% | 18.9–25.4% | 18.3–26.0% | 17.2–27.4% |
+| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 19.0% | 16.7–21.6% | 16.1–22.3% | 15.5–23.0% | 14.5–24.3% |
+| [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 17.5% | 15.9–19.3% | 15.5–19.8% | 15.1–20.3% | 14.3–21.1% |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 18.9% | 16.7–21.5% | 16.1–22.3% | 15.5–22.9% | 14.5–24.2% |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 19.2% | 16.9–21.8% | 16.2–22.5% | 15.7–23.2% | 14.7–24.5% |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 23.3% | 21.5–25.4% | 21.0–25.9% | 20.5–26.4% | 19.6–27.4% |
@@ -24,16 +26,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 0.8% | 99.9% |  |
-| 15.5–16.5% | 3% | 99.1% |  |
-| 16.5–17.5% | 8% | 96% |  |
-| 17.5–18.5% | 12% | 88% |  |
-| 18.5–19.5% | 13% | 76% |  |
-| 19.5–20.5% | 11% | 63% |  |
-| 20.5–21.5% | 11% | 51% | Median |
-| 21.5–22.5% | 12% | 40% |  |
-| 22.5–23.5% | 11% | 29% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 2% | 99.7% |  |
+| 15.5–16.5% | 6% | 98% |  |
+| 16.5–17.5% | 10% | 92% |  |
+| 17.5–18.5% | 12% | 82% |  |
+| 18.5–19.5% | 11% | 70% |  |
+| 19.5–20.5% | 10% | 59% |  |
+| 20.5–21.5% | 10% | 50% | Median |
+| 21.5–22.5% | 11% | 40% |  |
+| 22.5–23.5% | 11% | 28% |  |
 | 23.5–24.5% | 9% | 17% |  |
 | 24.5–25.5% | 5% | 8% | Last Result |
 | 25.5–26.5% | 2% | 3% |  |
@@ -50,8 +52,10 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 2 | 2 | 2 | 2 | 2 |
+| [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 2 | 2 | 2 | 2 | 1–2 |
 | [25 March 2018](2018-03-25-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [13–15 March 2018](2018-03-15-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [10–14 March 2018](2018-03-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -65,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 71% | 98% | Median |
+| 1 | 0.2% | 100% |  |
+| 2 | 73% | 99.8% | Median |
 | 3 | 27% | 27% | Last Result |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% | Majority |
