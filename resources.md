@@ -12,7 +12,7 @@ The following resources have been consulted in order to create this site:
 The following websites provide similar information to this website:
 
 + [Electograph – Slovenia](http://www.electograph.com/search/label/Slovenia)
-+ [Sondaże24 – Słowenia](https://sondaze24.eu/kategorie/slowenia/)
++ [Sondaże24 – Słowenia](https://sondaze24.eu/panstwo/slowenia/)
 + [Twitter Search: EuropeElects Slovenia](https://twitter.com/search?f=tweets&vertical=default&q=europeelects%20slovenia&src=typd)
 
 ## Other Resources
