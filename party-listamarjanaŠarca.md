@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.8% | 18.4–23.2% | 17.7–23.9% | 17.0–24.6% | 15.8–26.1% |
+| [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 19.4% | 17.8–21.3% | 17.3–21.8% | 16.9–22.3% | 16.1–23.2% |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 21.7% | 19.3–24.4% | 18.7–25.1% | 18.1–25.8% | 17.0–27.1% |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 19.4% | 17.1–22.1% | 16.5–22.8% | 16.0–23.5% | 14.9–24.8% |
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 20.8% | 19.1–22.7% | 18.6–23.2% | 18.1–23.7% | 17.3–24.6% |
@@ -66,6 +67,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 2 | 2 | 2 | 2–3 | 2–3 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [29 March–5 April 2018](2018-04-05-DeloStik.html) | Delo Stik <br> Delo | 2 | 2 | 2 | 2 | 2–3 |
