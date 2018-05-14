@@ -52,8 +52,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
-| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
