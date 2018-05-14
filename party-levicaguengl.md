@@ -11,6 +11,9 @@ Last result: **5.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.7% | 4.0–8.9% | 3.6–9.6% | 3.3–10.2% | 2.9–11.4% |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6.6% | 5.6–7.9% | 5.3–8.3% | 5.1–8.6% | 4.6–9.3% |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 9.3% | 8.1–10.8% | 7.8–11.2% | 7.5–11.5% | 7.0–12.3% |
+| [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 9.0% | 8.5–9.5% | 8.4–9.6% | 8.2–9.8% | 8.0–10.0% |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.2% | 6.0–10.9% |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 6.6% | 5.3–8.4% | 5.0–8.9% | 4.6–9.4% | 4.1–10.3% |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 8.2% | 6.7–10.2% | 6.3–10.7% | 6.0–11.2% | 5.3–12.2% |
@@ -51,6 +54,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 1 | 1 | 1 | 1 | 1 |
 | [2–5 May 2018](2018-05-05-DeloStik.html) | Delo Stik <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–19 April 2018](2018-04-19-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–11 April 2018](2018-04-11-Ninamedia.html) | Ninamedia <br> RTV Slovenija–Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
