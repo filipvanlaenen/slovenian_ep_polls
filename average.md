@@ -58,7 +58,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#državljanska-lista-(alde)">Državljanska lista (ALDE)</a> | 1.1% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije-(*)">Glas za otroke in družine–Nova ljudska stranka Slovenije (*)</a> | 0.0% | 0.9% | 0.4–1.6% |0.4–1.8% | 0.3–2.1% | 0.2–2.6% |
-| <a href="#lista-marjana-Šarca-(*)">Lista Marjana Šarca (*)</a> | 0.0% | 20.8% | 18.4–23.2% |17.7–23.9% | 17.0–24.6% | 15.8–26.1% |
+| <a href="#lista-marjana-šarca-(*)">Lista Marjana Šarca (*)</a> | 0.0% | 20.8% | 18.4–23.2% |17.7–23.9% | 17.0–24.6% | 15.8–26.1% |
 | <a href="#nova-ljudska-stranka-slovenije-(*)">Nova ljudska stranka Slovenije (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-modernega-centra-(alde)">Stranka modernega centra (ALDE)</a> | 0.0% | 9.2% | 5.1–12.7% |4.6–13.4% | 4.3–14.0% | 3.8–15.1% |
 | <a href="#stranka-alenke-bratušek-(alde)">Stranka Alenke Bratušek (ALDE)</a> | 0.0% | 2.1% | 0.3–4.0% |0.2–4.4% | 0.1–4.7% | 0.1–5.3% |
@@ -289,7 +289,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca (*)
 
-*For a full overview of the results for this party, see the [Lista Marjana Šarca (*)](party-listamarjanaŠarca.html) page.*
+*For a full overview of the results for this party, see the [Lista Marjana Šarca (*)](party-listamarjanašarca.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -344,7 +344,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#državljanska-lista-(alde)">Državljanska lista (ALDE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije-(*)">Glas za otroke in družine–Nova ljudska stranka Slovenije (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#lista-marjana-Šarca-(*)">Lista Marjana Šarca (*)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
+| <a href="#lista-marjana-šarca-(*)">Lista Marjana Šarca (*)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
 | <a href="#nova-ljudska-stranka-slovenije-(*)">Nova ljudska stranka Slovenije (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-modernega-centra-(alde)">Stranka modernega centra (ALDE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#stranka-alenke-bratušek-(alde)">Stranka Alenke Bratušek (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -480,9 +480,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Lista Marjana Šarca (*)
 
-*For a full overview of the results for this party, see the [Lista Marjana Šarca (*)](party-listamarjanaŠarca.html) page.*
+*For a full overview of the results for this party, see the [Lista Marjana Šarca (*)](party-listamarjanašarca.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-listamarjanaŠarca.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-listamarjanašarca.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
