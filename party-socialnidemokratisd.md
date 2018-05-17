@@ -11,6 +11,7 @@ Last result: **8.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.6% | 13.4–20.5% | 12.5–21.7% | 11.8–22.5% | 10.7–24.2% |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 12.2% | 10.5–14.3% | 10.0–14.9% | 9.6–15.4% | 8.8–16.5% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 15.3% | 13.7–17.0% | 13.2–17.6% | 12.9–18.0% | 12.1–18.9% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 15.2% | 13.7–17.0% | 13.3–17.4% | 12.9–17.9% | 12.2–18.7% |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 18.0% | 17.3–18.7% | 17.1–18.9% | 17.0–19.0% | 16.7–19.3% |
@@ -60,6 +61,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 1 | 1 | 1 | 1 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 May 2018](2018-05-07-Valicon.html) | Valicon | 2 | 2 | 2 | 2 | 2 |
