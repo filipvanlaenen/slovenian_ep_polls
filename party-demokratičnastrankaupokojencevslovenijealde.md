@@ -10,7 +10,7 @@ Last result: **8.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 3.7–7.7% | 3.4–8.3% | 3.1–8.9% | 2.6–10.0% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.5–7.8% | 4.1–8.4% | 3.8–8.9% | 3.3–10.0% |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7.3% | 6.0–9.1% | 5.7–9.6% | 5.3–10.0% | 4.8–10.9% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6.4% | 5.3–7.7% | 5.1–8.0% | 4.8–8.4% | 4.4–9.0% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 5.5% | 4.6–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
@@ -30,14 +30,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 7% | 99.5% |  |
-| 3.5–4.5% | 22% | 93% |  |
-| 4.5–5.5% | 23% | 71% | Median |
-| 5.5–6.5% | 21% | 49% |  |
-| 6.5–7.5% | 16% | 28% |  |
-| 7.5–8.5% | 8% | 12% | Last Result |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 1.1% | 100% |  |
+| 3.5–4.5% | 10% | 98.9% |  |
+| 4.5–5.5% | 23% | 89% |  |
+| 5.5–6.5% | 30% | 66% | Median |
+| 6.5–7.5% | 22% | 35% |  |
+| 7.5–8.5% | 10% | 14% | Last Result |
 | 8.5–9.5% | 3% | 4% |  |
 | 9.5–10.5% | 0.8% | 1.0% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -74,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Median |
-| 1 | 11% | 11% | Last Result |
+| 0 | 81% | 100% | Median |
+| 1 | 19% | 19% | Last Result |
 | 2 | 0% | 0% |  |
 
 

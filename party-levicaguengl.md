@@ -10,7 +10,7 @@ Last result: **5.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 4.0–8.9% | 3.6–9.6% | 3.3–10.2% | 2.9–11.4% |
+| N/A | [Poll Average](average.html) | 7.6% | 4.2–9.8% | 3.7–10.3% | 3.4–10.8% | 2.9–11.6% |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 7.9% | 6.6–9.7% | 6.2–10.2% | 5.9–10.7% | 5.3–11.6% |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 6.6% | 5.6–7.9% | 5.3–8.3% | 5.1–8.6% | 4.6–9.3% |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 9.3% | 8.1–10.8% | 7.8–11.2% | 7.5–11.5% | 7.0–12.3% |
@@ -30,18 +30,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 5% | 99.9% |  |
-| 3.5–4.5% | 14% | 95% |  |
-| 4.5–5.5% | 11% | 82% | Last Result |
-| 5.5–6.5% | 18% | 71% |  |
-| 6.5–7.5% | 23% | 53% | Median |
-| 7.5–8.5% | 16% | 30% |  |
-| 8.5–9.5% | 9% | 14% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 1.2% | 2% |  |
-| 11.5–12.5% | 0.3% | 0.4% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 11% | 96% |  |
+| 4.5–5.5% | 7% | 86% | Last Result |
+| 5.5–6.5% | 10% | 79% |  |
+| 6.5–7.5% | 17% | 69% |  |
+| 7.5–8.5% | 21% | 52% | Median |
+| 8.5–9.5% | 18% | 31% |  |
+| 9.5–10.5% | 9% | 13% |  |
+| 10.5–11.5% | 3% | 4% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -54,7 +53,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 May 2018](2018-05-15-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 May 2018](2018-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–9 May 2018](2018-05-09-Valicon.html) | Valicon | 1 | 1 | 1 | 1 | 0–1 |
@@ -76,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
+| 0 | 46% | 100% | Last Result |
+| 1 | 54% | 54% | Median |
 | 2 | 0% | 0% |  |
 
 
