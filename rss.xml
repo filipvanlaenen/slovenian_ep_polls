@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 15:22:10 +0200</pubDate>
+    <pubDate>Sat, 19 May 2018 12:50:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana-seats.png"
+        length="279568"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 12:50:16 +0200</pubDate>
+      <dc:date>2018-05-19T12:50:16.617229+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana-coalitions-seats.png"
+        length="177126"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 12:50:16 +0200</pubDate>
+      <dc:date>2018-05-19T12:50:16.617229+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.5–27.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 5.3–9.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.8–13.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.5–10.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.6–7.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 3.7–7.6%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 2.9–6.5%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.9–4.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 2.9–6.5%&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0.1–1.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 13.6–20.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana.png"
+        length="379023"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 12:50:16 +0200</pubDate>
+      <dc:date>2018-05-19T12:50:16.617229+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for Planet TV and Siol.net, 9–15 May 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-15-Mediana.html#seats</link>
@@ -369,6 +399,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T15:22:10.056571+02:00</dc:date>
+    <dc:date>2018-05-19T12:50:16.617229+02:00</dc:date>
   </channel>
 </rss>
