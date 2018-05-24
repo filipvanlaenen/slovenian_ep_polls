@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 9.3–16.2% | 8.6–16.8% | 8.2–17.4% | 7.4–18.3% |
+| N/A | [Poll Average](average.html) | 13.2% | 8.8–16.2% | 8.3–16.8% | 7.8–17.4% | 7.1–18.3% |
+| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 9.1% | 7.8–10.7% | 7.5–11.1% | 7.2–11.5% | 6.6–12.3% |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 9.9% | 8.4–11.8% | 7.9–12.3% | 7.6–12.8% | 6.9–13.8% |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10.2% | 8.6–12.2% | 8.2–12.8% | 7.8–13.2% | 7.1–14.3% |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 10.1% | 8.6–12.0% | 8.2–12.5% | 7.8–13.0% | 7.1–13.9% |
@@ -33,14 +34,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 0.7% | 99.9% |  |
-| 7.5–8.5% | 4% | 99.3% | Last Result |
-| 8.5–9.5% | 9% | 96% |  |
-| 9.5–10.5% | 11% | 87% |  |
-| 10.5–11.5% | 10% | 75% |  |
-| 11.5–12.5% | 9% | 65% |  |
-| 12.5–13.5% | 11% | 57% | Median |
+| 6.5–7.5% | 1.3% | 99.9% |  |
+| 7.5–8.5% | 6% | 98.6% | Last Result |
+| 8.5–9.5% | 11% | 93% |  |
+| 9.5–10.5% | 11% | 82% |  |
+| 10.5–11.5% | 8% | 71% |  |
+| 11.5–12.5% | 7% | 63% |  |
+| 12.5–13.5% | 10% | 56% | Median |
 | 13.5–14.5% | 14% | 46% |  |
 | 14.5–15.5% | 14% | 32% |  |
 | 15.5–16.5% | 11% | 18% |  |
@@ -58,7 +60,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 0–2 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 1 | 1–2 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 1 | 1 | 1 | 1 | 0–1 |
@@ -83,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 74% | 99.6% | Last Result, Median |
+| 0 | 0.7% | 100% |  |
+| 1 | 74% | 99.3% | Last Result, Median |
 | 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
