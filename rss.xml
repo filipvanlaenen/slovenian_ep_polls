@@ -8,9 +8,19 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 May 2018 14:43:58 +0200</pubDate>
+    <pubDate>Thu, 24 May 2018 17:26:17 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 20 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Mediana for Planet TV and Siol.net, 12–22 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-22-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 24.0–30.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 6.8–11.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.2–11.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.6–9.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.3–9.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 5.1–8.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 4.2–7.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.4–5.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 4.1–7.6%&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0.2–1.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 15.3–21.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-22-Mediana.png"
+        length="363766"
+        type="image/png"/>
+      <pubDate>Thu, 24 May 2018 17:26:17 +0200</pubDate>
+      <dc:date>2018-05-24T17:26:17.223398+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 20 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-20-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-20-Mediana-seats.png"
@@ -40,7 +50,7 @@
       <dc:date>2018-05-21T14:14:34.219772+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Parsifal SC for Nova24TV, 14–17 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Parsifal SC for Nova24TV, 14–17 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-ParsifalSC.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Državljanska lista (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-ParsifalSC-seats.png"
@@ -70,7 +80,7 @@
       <dc:date>2018-05-21T14:43:58.558084+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Mediana for RTV Slovenija, 11–17 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-17-Mediana-seats.png"
@@ -100,7 +110,7 @@
       <dc:date>2018-05-19T12:50:16.617229+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Planet TV and Siol.net, 9–15 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Mediana for Planet TV and Siol.net, 9–15 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-15-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-15-Mediana-seats.png"
@@ -130,7 +140,7 @@
       <dc:date>2018-05-18T15:22:10.056571+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 7–10 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 7–10 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-10-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-10-Ninamedia-seats.png"
@@ -160,7 +170,7 @@
       <dc:date>2018-05-14T11:59:56.433103+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Valicon, 8–9 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Valicon, 8–9 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-09-Valicon.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-09-Valicon-seats.png"
@@ -190,7 +200,7 @@
       <dc:date>2018-05-14T11:20:50.452164+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Valicon, 4–7 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Valicon, 4–7 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-07-Valicon.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-07-Valicon-seats.png"
@@ -220,7 +230,7 @@
       <dc:date>2018-05-14T12:42:51.409397+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Delo Stik for Delo, 2–5 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-05-DeloStik.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-05-DeloStik-seats.png"
@@ -250,7 +260,7 @@
       <dc:date>2018-05-12T09:56:06.365838+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 11–19 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by Mediana for POP TV, 11–19 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-19-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Pozitivna Slovenija (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-19-Mediana-seats.png"
@@ -280,7 +290,7 @@
       <dc:date>2018-04-24T09:08:39.946375+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV Slovenija–Dnevnik, 9–11 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ninamedia for RTV Slovenija–Dnevnik, 9–11 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-11-Ninamedia-seats.png"
@@ -310,7 +320,7 @@
       <dc:date>2018-05-06T12:37:23.460757+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Delo Stik for Delo, 29 March–5 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by Delo Stik for Delo, 29 March–5 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-05-DeloStik.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-04-05-DeloStik-seats.png"
@@ -340,7 +350,7 @@
       <dc:date>2018-05-06T16:19:58.109785+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 25 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Mediana for POP TV, 25 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-25-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Pozitivna Slovenija (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-25-Mediana-seats.png"
@@ -370,7 +380,7 @@
       <dc:date>2018-04-13T09:16:29.229869+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV Slovenija–Dnevnik, 13–15 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ninamedia for RTV Slovenija–Dnevnik, 13–15 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-15-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-15-Ninamedia-seats.png"
@@ -400,7 +410,7 @@
       <dc:date>2018-04-13T08:58:41.292093+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Parsifal SC for Nova24TV, 10–14 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Parsifal SC for Nova24TV, 10–14 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-14-ParsifalSC.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Pozitivna Slovenija (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-14-ParsifalSC-seats.png"
@@ -430,7 +440,7 @@
       <dc:date>2018-04-13T14:56:12.194458+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Delo Stik for Delo, 1–8 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Delo Stik for Delo, 1–8 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-03-08-DeloStik-seats.png"
@@ -459,6 +469,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-05-21T14:43:58.558084+02:00</dc:date>
+    <dc:date>2018-05-24T17:26:17.223398+02:00</dc:date>
   </channel>
 </rss>
