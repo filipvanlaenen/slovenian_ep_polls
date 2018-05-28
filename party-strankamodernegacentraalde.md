@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 5.9–10.3% | 5.5–10.9% | 5.1–11.4% | 4.6–12.4% |
+| N/A | [Poll Average](average.html) | 7.5% | 5.7–10.2% | 5.3–10.8% | 5.0–11.3% | 4.5–12.4% |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 9.0% | 7.7–10.7% | 7.3–11.2% | 7.0–11.6% | 6.4–12.4% |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 6.6% | 5.6–8.0% | 5.3–8.3% | 5.0–8.7% | 4.6–9.4% |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 9.4% | 8.0–11.2% | 7.6–11.8% | 7.2–12.2% | 6.6–13.1% |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 9.9% | 8.3–11.9% | 7.8–12.5% | 7.4–13.0% | 6.7–14.0% |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 8.7% | 7.4–10.2% | 7.1–10.6% | 6.8–11.0% | 6.2–11.8% |
@@ -41,15 +42,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 5% | 99.5% |  |
-| 5.5–6.5% | 15% | 94% |  |
-| 6.5–7.5% | 18% | 80% |  |
-| 7.5–8.5% | 20% | 62% | Median |
-| 8.5–9.5% | 21% | 42% |  |
-| 9.5–10.5% | 14% | 22% |  |
-| 10.5–11.5% | 6% | 8% |  |
-| 11.5–12.5% | 2% | 2% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 7% | 99.4% |  |
+| 5.5–6.5% | 21% | 92% |  |
+| 6.5–7.5% | 23% | 71% | Median |
+| 7.5–8.5% | 17% | 48% |  |
+| 8.5–9.5% | 14% | 31% |  |
+| 9.5–10.5% | 10% | 17% |  |
+| 10.5–11.5% | 5% | 7% |  |
+| 11.5–12.5% | 1.5% | 2% |  |
 | 12.5–13.5% | 0.3% | 0.4% |  |
 | 13.5–14.5% | 0% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -65,6 +66,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 1 | 1 |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 1 | 1 | 1 | 1 | 1 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 1 | 1 | 0–1 | 0–1 |

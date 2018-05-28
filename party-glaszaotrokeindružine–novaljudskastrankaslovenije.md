@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.3–3.7% | 0.2–4.1% | 0.1–4.4% | 0.0–5.1% |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.3% | 2.6–4.5% | 2.3–4.8% | 2.2–5.1% | 1.9–5.7% |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 0.6% | 0.3–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.7% |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.2% | 0.1–0.7% | 0.1–0.9% | 0.0–1.1% | 0.0–1.4% |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 0.0% | N/A | N/A | N/A | N/A |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% | 0.2–1.8% |
@@ -37,9 +38,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 28% | 100% | Last Result |
-| 0.5–1.5% | 31% | 72% | Median |
-| 1.5–2.5% | 8% | 41% |  |
+| 0.0–0.5% | 29% | 100% | Last Result |
+| 0.5–1.5% | 30% | 71% | Median |
+| 1.5–2.5% | 8% | 40% |  |
 | 2.5–3.5% | 21% | 33% |  |
 | 3.5–4.5% | 10% | 12% |  |
 | 4.5–5.5% | 2% | 2% |  |
@@ -57,6 +58,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
+| [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0 | 0 | 0 | 0 | 0 |
