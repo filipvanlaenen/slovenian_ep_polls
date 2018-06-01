@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 30 May 2018 17:42:42 +0200</pubDate>
+    <pubDate>Fri, 01 Jun 2018 19:08:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 29 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-29-Ninamedia.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Wed, 30 May 2018 17:42:42 +0200</pubDate>
       <dc:date>2018-05-30T17:42:42.094969+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Planet TV and Siol.net, 23–29 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-29-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.3–31.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 5.3–9.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.4–11.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.8–12.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.8–9.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 5.5–9.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.3–5.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 4.9–8.6%&lt;/li&gt;&lt;li&gt;Glas za otroke in družine–Nova ljudska stranka Slovenije (*): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (*): 12.9–18.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-29-Mediana.png"
+        length="357854"
+        type="image/png"/>
+      <pubDate>Fri, 01 Jun 2018 19:08:16 +0200</pubDate>
+      <dc:date>2018-06-01T19:08:16.585572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 22–25 May 2018 – Seat Projections for the Parties</title>
@@ -639,6 +649,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-05-30T17:42:42.094969+02:00</dc:date>
+    <dc:date>2018-06-01T19:08:16.585572+02:00</dc:date>
   </channel>
 </rss>
