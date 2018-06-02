@@ -71,14 +71,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 1 | 1 | 1 | 1 | 1 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
+| [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -109,8 +109,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 54% | 54% | Median |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 48% | 48% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -84,17 +84,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 1 | 1 | 1 | 1 | 1 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 1 | 1 | 1 | 1 |
-| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 1 |
+| [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [23–29 May 2018](2018-05-29-Mediana.html) | Mediana <br> Planet TV and Siol.net | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 1 | 1 | 1 | 1 | 1–2 |
+| [25–27 May 2018](2018-05-27-Valicon.html) | Valicon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–25 May 2018](2018-05-25-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 May 2018](2018-05-25-Mediana.html) | Mediana <br> RTV Slovenija | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–23 May 2018](2018-05-23-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–22 May 2018](2018-05-22-Ninamedia.html) | Ninamedia <br> Mladina | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–22 May 2018](2018-05-22-Mediana.html) | Mediana <br> Planet TV and Siol.net | 2 | 2 | 2 | 1–2 | 1–3 |
-| [22 May 2018](2018-05-22-Episcenter.html) | Episcenter | 1 | 1 | 1 | 1 | 1 |
+| [22 May 2018](2018-05-22-Episcenter.html) | Episcenter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [20 May 2018](2018-05-20-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–17 May 2018](2018-05-17-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [11–17 May 2018](2018-05-17-Mediana.html) | Mediana <br> RTV Slovenija | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -120,8 +120,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 74% | 100% | Median |
-| 2 | 25% | 26% |  |
+| 1 | 70% | 100% | Median |
+| 2 | 29% | 30% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
