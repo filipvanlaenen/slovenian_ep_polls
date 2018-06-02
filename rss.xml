@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 01 Jun 2018 22:00:41 +0200</pubDate>
+    <pubDate>Sat, 02 Jun 2018 16:46:36 +0200</pubDate>
     <item>
       <title>Opinion Poll by Valicon, 28–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-31-Valicon.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-30-Mediana.png"
         length="364764"
         type="image/png"/>
-      <pubDate>Fri, 01 Jun 2018 21:31:08 +0200</pubDate>
-      <dc:date>2018-06-01T21:31:08.780692+02:00</dc:date>
+      <pubDate>Sat, 02 Jun 2018 16:46:36 +0200</pubDate>
+      <dc:date>2018-06-02T16:46:36.18437+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 25–29 May 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-29-ParsifalSC.png"
         length="297369"
         type="image/png"/>
-      <pubDate>Fri, 01 Jun 2018 21:45:34 +0200</pubDate>
-      <dc:date>2018-06-01T21:45:34.555179+02:00</dc:date>
+      <pubDate>Sat, 02 Jun 2018 16:42:27 +0200</pubDate>
+      <dc:date>2018-06-02T16:42:27.048035+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 29 May 2018 – Seat Projections for the Parties</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-29-Mediana.png"
         length="357854"
         type="image/png"/>
-      <pubDate>Fri, 01 Jun 2018 19:08:16 +0200</pubDate>
-      <dc:date>2018-06-01T19:08:16.585572+02:00</dc:date>
+      <pubDate>Sat, 02 Jun 2018 16:22:34 +0200</pubDate>
+      <dc:date>2018-06-02T16:22:34.783848+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Valicon, 25–27 May 2018 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-27-Valicon.png"
         length="377590"
         type="image/png"/>
-      <pubDate>Fri, 01 Jun 2018 21:53:02 +0200</pubDate>
-      <dc:date>2018-06-01T21:53:02.064754+02:00</dc:date>
+      <pubDate>Sat, 02 Jun 2018 16:29:08 +0200</pubDate>
+      <dc:date>2018-06-02T16:29:08.652034+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 22–25 May 2018 – Seat Projections for the Parties</title>
@@ -256,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-22-Episcenter.png"
         length="299481"
         type="image/png"/>
-      <pubDate>Fri, 01 Jun 2018 22:00:41 +0200</pubDate>
-      <dc:date>2018-06-01T22:00:41.458667+02:00</dc:date>
+      <pubDate>Sat, 02 Jun 2018 16:35:12 +0200</pubDate>
+      <dc:date>2018-06-02T16:35:12.760316+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 20 May 2018 – Seat Projections for the Parties</title>
@@ -709,6 +709,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-06-01T22:00:41.458667+02:00</dc:date>
+    <dc:date>2018-06-02T16:46:36.18437+02:00</dc:date>
   </channel>
 </rss>
