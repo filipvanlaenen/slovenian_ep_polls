@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% | 0.0–1.5% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.6% |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0.5% | 0.3–0.7% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.0% | N/A | N/A | N/A | N/A |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 0.1% | 0.1–0.6% | 0.0–0.7% | 0.0–0.8% | 0.0–1.1% |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.0% | N/A | N/A | N/A | N/A |
@@ -46,9 +47,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 61% | 100% | Last Result, Median |
-| 0.5–1.5% | 39% | 39% |  |
-| 1.5–2.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 47% | 100% | Last Result |
+| 0.5–1.5% | 52% | 53% | Median |
+| 1.5–2.5% | 0.5% | 0.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -63,6 +64,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer |  |  |  |  |  |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer |  |  |  |  |  |

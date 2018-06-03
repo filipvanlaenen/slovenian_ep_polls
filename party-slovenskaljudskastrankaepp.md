@@ -10,9 +10,10 @@ Last result: **16.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.2% | 2.2–4.6% | 2.0–4.9% | 1.7–5.4% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.0–4.8% | 1.7–5.4% |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 2.9% | 2.4–3.4% | 2.3–3.6% | 2.2–3.7% | 2.0–4.0% |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.7% |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 2.9% | 2.3–3.7% | 2.1–4.0% | 2.0–4.2% | 1.7–4.6% |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.0–4.7% | 1.8–5.3% |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.5% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 2.4% | 1.9–3.2% | 1.7–3.5% | 1.6–3.7% | 1.4–4.1% |
@@ -48,11 +49,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 16% | 99.9% |  |
-| 2.5–3.5% | 53% | 84% | Median |
-| 3.5–4.5% | 26% | 31% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.4% |  |
+| 1.5–2.5% | 17% | 99.9% |  |
+| 2.5–3.5% | 55% | 83% | Median |
+| 3.5–4.5% | 24% | 28% |  |
+| 4.5–5.5% | 4% | 5% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -77,6 +78,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
+| [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [25–30 May 2018](2018-05-30-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2018](2018-05-29-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
 | [29 May 2018](2018-05-29-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
