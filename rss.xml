@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Jun 2018 18:27:45 +0200</pubDate>
+    <pubDate>Mon, 04 Jun 2018 20:45:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Valicon, 28–31 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-31-Valicon.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-05-31-Mediana.png"
         length="290461"
         type="image/png"/>
-      <pubDate>Sun, 03 Jun 2018 18:27:45 +0200</pubDate>
-      <dc:date>2018-06-03T18:27:45.672108+02:00</dc:date>
+      <pubDate>Mon, 04 Jun 2018 20:45:22 +0200</pubDate>
+      <dc:date>2018-06-04T20:45:22.191993+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 25–30 May 2018 – Seat Projections for the Parties</title>
@@ -859,6 +859,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-06-03T18:27:45.672108+02:00</dc:date>
+    <dc:date>2018-06-04T20:45:22.191993+02:00</dc:date>
   </channel>
 </rss>
