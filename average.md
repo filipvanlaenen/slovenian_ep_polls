@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 16–34% <br> 2–4 | 3–9% <br> 0–1 | 2–4% <br> 0 | 1–6% <br> 0 | 8–18% <br> 1–2 | N/A <br> N/A | 7–12% <br> 0–1 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 11–21% <br> 1–2 | N/A <br> N/A | 5–12% <br> 0–1 | 2–8% <br> 0–1 |
-| [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 26–33% <br> 3–4 | 2–6% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | 8–13% <br> 1 | N/A <br> N/A | 8–13% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 8–13% <br> 1 | 3–6% <br> 0 |
+| [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 26–33% <br> 3–4 | 2–6% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | 8–13% <br> 1 | N/A <br> N/A | 8–13% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 1 | N/A <br> N/A | 8–13% <br> 1 | 3–6% <br> 0 |
 | [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27–35% <br> 3–4 | 4–8% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 | 9–15% <br> 1–2 | N/A <br> N/A | 8–13% <br> 1 | 3–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–20% <br> 1–2 | N/A <br> N/A | 6–10% <br> 0–1 | 3–7% <br> 0 |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 16–19% <br> 2 | 6–8% <br> 0–1 | 2–4% <br> 0 | 4–6% <br> 0 | 12–15% <br> 1–2 | N/A <br> N/A | 8–10% <br> 1 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 11–14% <br> 1 | N/A <br> N/A | 7–9% <br> 0–1 | 4–5% <br> 0 |
 | [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 24–30% <br> 3–4 | 5–8% <br> 0–1 | 2–4% <br> 0 | 4–7% <br> 0 | 7–11% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 1–2 | N/A <br> N/A | 7–11% <br> 0–1 | 5–8% <br> 0–1 |
@@ -342,7 +342,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
 | 2 | 30% | 99.8% |  |
-| 3 | 57% | 70% | Last Result, Median |
+| 3 | 56% | 70% | Last Result, Median |
 | 4 | 13% | 13% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -389,8 +389,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 82% | 99.2% | Last Result, Median |
+| 0 | 0.6% | 100% |  |
+| 1 | 82% | 99.4% | Last Result, Median |
 | 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
@@ -427,8 +427,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 33% | 34% |  |
+| 1 | 67% | 100% | Median |
+| 2 | 33% | 33% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -487,7 +487,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 21% | 100% |  |
 | 3 | 52% | 79% | Median |
-| 4 | 27% | 27% |  |
+| 4 | 27% | 28% |  |
 | 5 | 0.7% | 0.7% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
@@ -496,8 +496,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 33% | 34% |  |
+| 1 | 67% | 100% | Median |
+| 2 | 33% | 33% |  |
 | 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
@@ -505,8 +505,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 82% | 99.2% | Last Result, Median |
+| 0 | 0.6% | 100% |  |
+| 1 | 82% | 99.4% | Last Result, Median |
 | 2 | 17% | 17% |  |
 | 3 | 0% | 0% |  |
 
