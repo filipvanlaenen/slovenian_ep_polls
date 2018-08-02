@@ -10,7 +10,9 @@ Last result: **16.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.6% | 2.0–3.9% | 1.8–4.1% | 1.5–4.7% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.5–3.5% | 1.2–3.7% | 1.0–4.0% | 0.8–4.5% |
+| [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 1.5% | 1.0–2.5% | 0.9–2.7% | 0.8–3.0% | 0.6–3.5% |
+| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | N/A | N/A | N/A | N/A |
 | [1–23 June 2018](2018-06-23-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.9% |
 | [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -50,12 +52,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 27% | 99.5% |  |
-| 2.5–3.5% | 60% | 72% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 11% | 99.9% |  |
+| 1.5–2.5% | 31% | 89% |  |
+| 2.5–3.5% | 50% | 58% | Median |
+| 3.5–4.5% | 8% | 8% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -79,6 +81,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija |  |  |  |  |  |
 | [1–23 June 2018](2018-06-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija |  |  |  |  |  |
 | [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
