@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 10.0–16.2% | 9.4–17.1% | 8.8–17.7% | 7.9–18.9% |
+| N/A | [Poll Average](average.html) | 12.3% | 9.7–14.1% | 9.0–14.6% | 8.5–15.0% | 7.6–16.0% |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 10.1% | 8.6–12.0% | 8.1–12.6% | 7.7–13.1% | 7.1–14.1% |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 12.6% | 11.0–14.6% | 10.5–15.2% | 10.1–15.6% | 9.4–16.6% |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 10.2% | 8.7–12.1% | 8.3–12.6% | 7.9–13.1% | 7.2–14.0% |
 | [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 10.2% | 8.8–12.0% | 8.4–12.5% | 8.1–12.9% | 7.4–13.8% |
@@ -54,21 +55,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 1.4% | 99.8% | Last Result |
-| 8.5–9.5% | 5% | 98% |  |
-| 9.5–10.5% | 9% | 94% |  |
-| 10.5–11.5% | 12% | 85% |  |
-| 11.5–12.5% | 16% | 73% |  |
-| 12.5–13.5% | 21% | 56% | Median |
-| 13.5–14.5% | 14% | 35% |  |
-| 14.5–15.5% | 8% | 22% |  |
-| 15.5–16.5% | 7% | 14% |  |
-| 16.5–17.5% | 5% | 8% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.7% | 0.8% |  |
-| 19.5–20.5% | 0.1% | 0.2% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 2% | 99.6% | Last Result |
+| 8.5–9.5% | 6% | 97% |  |
+| 9.5–10.5% | 11% | 91% |  |
+| 10.5–11.5% | 15% | 81% |  |
+| 11.5–12.5% | 20% | 65% | Median |
+| 12.5–13.5% | 25% | 45% |  |
+| 13.5–14.5% | 15% | 20% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.9% | 1.1% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,7 +77,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 1 |
 | [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 1 | 1 | 1–2 |
 | [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 0–1 |
 | [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 1 | 1 | 0–1 |
@@ -124,9 +123,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 86% | 99.8% | Last Result, Median |
-| 2 | 14% | 14% |  |
+| 1 | 98% | 100% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
