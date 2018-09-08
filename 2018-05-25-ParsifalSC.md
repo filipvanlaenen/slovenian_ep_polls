@@ -189,6 +189,8 @@
 
 ### Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-05-25-ParsifalSC-coalitions-seats-pmf-sds–nsi–sls.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
@@ -198,6 +200,8 @@
 
 ### Socialni demokrati (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-05-25-ParsifalSC-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.1% | 100% |  |
@@ -205,6 +209,8 @@
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-05-25-ParsifalSC-coalitions-seats-pmf-levica.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -151,6 +151,8 @@
 
 ### Socialni demokrati (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-03-15-Ninamedia-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.4% | 100% | Last Result |
@@ -159,6 +161,8 @@
 | 4 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-03-15-Ninamedia-coalitions-seats-pmf-levica.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
