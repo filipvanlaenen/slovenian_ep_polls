@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Slovenska demokratska stranka (EPP) | 24.8% | 31.2% | 28.6–33.9% |27.9–34.7% |27.3–35.3% |26.1–36.7% |
-| Lista Marjana Šarca (*) | 0.0% | 16.6% | 14.6–18.9% |14.1–19.5% |13.6–20.1% |12.7–21.2% |
+| Lista Marjana Šarca (ALDE) | 0.0% | 16.6% | 14.6–18.9% |14.1–19.5% |13.6–20.1% |12.7–21.2% |
 | Socialni demokrati (S&D) | 8.1% | 12.0% | 10.3–14.1% |9.9–14.6% |9.5–15.2% |8.7–16.2% |
 | Levica (GUE/NGL) | 5.5% | 10.3% | 8.7–12.2% |8.3–12.7% |7.9–13.2% |7.2–14.2% |
 | Stranka modernega centra (ALDE) | 0.0% | 7.5% | 6.2–9.2% |5.8–9.7% |5.5–10.1% |4.9–11.0% |
@@ -31,7 +31,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 4 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#lista-marjana-šarca-(*)">Lista Marjana Šarca (*)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#lista-marjana-šarca-(alde)">Lista Marjana Šarca (ALDE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#stranka-modernega-centra-(alde)">Stranka modernega centra (ALDE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -53,11 +53,11 @@
 | 5 | 0.3% | 0.3% | Majority |
 | 6 | 0% | 0% |  |
 
-### Lista Marjana Šarca (*)
+### Lista Marjana Šarca (ALDE)
 
-*For a full overview of the results for this party, see the [Lista Marjana Šarca (*)](party-listamarjanašarca.html) page.*
+*For a full overview of the results for this party, see the [Lista Marjana Šarca (ALDE)](party-listamarjanašarcaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-06-06-ParsifalSC-seats-pmf-listamarjanašarca.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-06-06-ParsifalSC-seats-pmf-listamarjanašarcaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
