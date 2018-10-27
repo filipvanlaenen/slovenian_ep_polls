@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–31% <br> 2–4 | 5–9% <br> 0–1 | 2–4% <br> 0 | 2–8% <br> 0–1 | 9–20% <br> 1–2 | N/A <br> N/A | 7–12% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–22% <br> 1–2 | N/A <br> N/A | 5–9% <br> 0–1 | 3–8% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 22–31% <br> 2–4 | 5–9% <br> 0–1 | 2–4% <br> 0 | 2–8% <br> 0 | 9–20% <br> 1–2 | N/A <br> N/A | 7–12% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–22% <br> 1–2 | N/A <br> N/A | 5–9% <br> 0–1 | 3–8% <br> 0–1 |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 21–27% <br> 2–3 | 5–9% <br> 0–1 | N/A <br> N/A | 4–8% <br> 0–1 | 14–20% <br> 1–2 | N/A <br> N/A | 8–12% <br> 1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–22% <br> 2 | N/A <br> N/A | 4–8% <br> 0–1 | 3–6% <br> 0 |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 25–31% <br> 3–4 | 5–9% <br> 0–1 | 2–5% <br> 0 | 2–5% <br> 0 | 9–14% <br> 1 | N/A <br> N/A | 7–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–17% <br> 1–2 | N/A <br> N/A | 5–9% <br> 0–1 | 5–8% <br> 0–1 |
 | 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -26,7 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **DL:** Državljanska lista (ALDE)
 + **GOD:** Glas za otroke in družine (*)
 + **GOD–NLS:** Glas za otroke in družine–Nova ljudska stranka Slovenije (*)
-+ **LMŠ:** Lista Marjana Šarca (*)
++ **LMŠ:** Lista Marjana Šarca (ALDE)
 + **NLS:** Nova ljudska stranka Slovenije (*)
 + **SMC:** Stranka modernega centra (ALDE)
 + **PAB:** Stranka Alenke Bratušek (ALDE)
