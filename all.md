@@ -63,7 +63,7 @@ Only polls for which at least the sample size has been published are included in
 + **DL:** Državljanska lista (ALDE)
 + **GOD:** Glas za otroke in družine (*)
 + **GOD–NLS:** Glas za otroke in družine–Nova ljudska stranka Slovenije (*)
-+ **LMŠ:** Lista Marjana Šarca (*)
++ **LMŠ:** Lista Marjana Šarca (ALDE)
 + **NLS:** Nova ljudska stranka Slovenije (*)
 + **SMC:** Stranka modernega centra (ALDE)
 + **PAB:** Stranka Alenke Bratušek (ALDE)
