@@ -11,6 +11,8 @@ Last result: **16.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.4–4.0% | 2.2–4.3% | 2.0–4.5% | 1.7–5.1% |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 5.9% | 5.0–7.3% | 4.7–7.6% | 4.4–8.0% | 4.0–8.6% |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 3.0% | 2.4–4.0% | 2.2–4.3% | 2.0–4.6% | 1.7–5.1% |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 3.0% | 2.4–4.0% | 2.2–4.3% | 2.0–4.6% | 1.7–5.1% |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -87,6 +89,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 0 | 0 | 0 | 0 | 0 |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia |  |  |  |  |  |
 | [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia |  |  |  |  |  |
