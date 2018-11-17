@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Oct 2018 19:11:34 +0200</pubDate>
+    <pubDate>Sat, 17 Nov 2018 16:15:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal SC, 7 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-07-ParsifalSC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.8–32.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 15.3–21.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 12.6–17.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 2.0–4.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.4–8.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.4–8.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 2.0–4.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 2.0–4.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 4.4–8.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 4.4–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-07-ParsifalSC.png"
+        length="293508"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 16:03:58 +0100</pubDate>
+      <dc:date>2018-11-17T16:03:58.690255+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana, 1 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-01-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.8–34.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 10.7–15.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.9–13.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.1–12.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.2–10.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 2.8–5.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.0–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-01-Mediana.png"
+        length="291631"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 16:15:47 +0100</pubDate>
+      <dc:date>2018-11-17T16:15:47.002699+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia, 9–11 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-10-11-Ninamedia.html#seats</link>
@@ -1209,6 +1229,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-10-27T19:11:34.685524+02:00</dc:date>
+    <dc:date>2018-11-17T16:15:47.002699+01:00</dc:date>
   </channel>
 </rss>
