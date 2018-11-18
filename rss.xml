@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 17 Nov 2018 19:55:31 +0100</pubDate>
+    <pubDate>Sat, 17 Nov 2018 20:36:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Parsifal SC, 7 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-07-ParsifalSC.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2018-11-01-Mediana.png"
         length="291631"
         type="image/png"/>
-      <pubDate>Sat, 17 Nov 2018 16:15:47 +0100</pubDate>
-      <dc:date>2018-11-17T16:15:47.002699+01:00</dc:date>
+      <pubDate>Sat, 17 Nov 2018 20:36:33 +0100</pubDate>
+      <dc:date>2018-11-17T20:36:33.388087+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia, 9–11 October 2018 – Seat Projections for the Parties</title>
@@ -1229,6 +1229,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-11-17T19:55:31.490994+01:00</dc:date>
+    <dc:date>2018-11-17T20:36:33.388087+01:00</dc:date>
   </channel>
 </rss>
