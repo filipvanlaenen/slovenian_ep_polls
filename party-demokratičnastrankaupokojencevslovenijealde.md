@@ -10,7 +10,7 @@ Last result: **8.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.6–6.9% | 2.4–7.3% | 2.2–7.7% | 1.9–8.4% |
+| N/A | [Poll Average](average.html) | 4.9% | 2.7–6.7% | 2.4–7.1% | 2.2–7.5% | 1.9–8.3% |
 | [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
 | [1 November 2018](2018-11-01-Mediana.html) | Mediana | 5.0% | 4.1–6.2% | 3.8–6.5% | 3.6–6.8% | 3.2–7.4% |
 | [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 6.0% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.0–8.7% |
@@ -61,14 +61,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 8% | 99.9% |  |
-| 2.5–3.5% | 28% | 91% |  |
-| 3.5–4.5% | 13% | 63% |  |
-| 4.5–5.5% | 13% | 50% | Median |
-| 5.5–6.5% | 21% | 37% |  |
-| 6.5–7.5% | 12% | 15% |  |
-| 7.5–8.5% | 3% | 3% | Last Result |
-| 8.5–9.5% | 0.3% | 0.4% |  |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 20% | 93% |  |
+| 3.5–4.5% | 16% | 74% |  |
+| 4.5–5.5% | 24% | 57% | Median |
+| 5.5–6.5% | 22% | 34% |  |
+| 6.5–7.5% | 9% | 12% |  |
+| 7.5–8.5% | 2% | 2% | Last Result |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
