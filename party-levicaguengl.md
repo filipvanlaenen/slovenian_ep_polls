@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 1 | 1 | 1 | 1 | 0–1 |
-| [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [19–20 November 2018](2018-11-20-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 1 | 1 | 0–1 |
 | [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
