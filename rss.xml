@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Dec 2018 18:34:21 +0100</pubDate>
+    <pubDate>Fri, 01 Feb 2019 18:31:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 8–10 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-01-10-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.2–27.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 21.7–29.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 13.5–20.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 2.9–6.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.7–13.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.1–8.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 2.1–5.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 2.6–6.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 1.4–4.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-01-10-Ninamedia.png"
+        length="328450"
+        type="image/png"/>
+      <pubDate>Fri, 01 Feb 2019 18:31:28 +0100</pubDate>
+      <dc:date>2019-02-01T18:31:28.823668+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia, 11–13 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2018-12-13-Ninamedia.html#seats</link>
@@ -1389,6 +1399,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T18:34:21.502855+01:00</dc:date>
+    <dc:date>2019-02-01T18:31:28.823668+01:00</dc:date>
   </channel>
 </rss>
