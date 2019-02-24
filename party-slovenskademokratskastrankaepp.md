@@ -10,7 +10,9 @@ Last result: **24.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 22.7–29.4% | 21.8–30.2% | 21.1–30.8% | 19.8–32.0% |
+| N/A | [Poll Average](average.html) | 26.2% | 14.6–29.4% | 13.8–30.2% | 13.2–30.8% | 12.2–32.0% |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15.3% | 13.5–17.5% | 12.9–18.1% | 12.5–18.6% | 11.7–19.7% |
+| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15.1% | 13.4–17.1% | 12.9–17.6% | 12.5–18.1% | 11.7–19.1% |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23.7% | 21.4–26.3% | 20.7–27.0% | 20.2–27.6% | 19.1–28.9% |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 26.0% | 24.0–28.2% | 23.4–28.8% | 22.9–29.4% | 21.9–30.5% |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 27.9% | 25.9–30.2% | 25.3–30.8% | 24.8–31.4% | 23.8–32.4% |
@@ -65,18 +67,25 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.3% | 99.9% |  |
-| 19.5–20.5% | 1.0% | 99.7% |  |
-| 20.5–21.5% | 3% | 98.7% |  |
-| 21.5–22.5% | 5% | 96% |  |
-| 22.5–23.5% | 7% | 91% |  |
-| 23.5–24.5% | 10% | 84% |  |
-| 24.5–25.5% | 11% | 74% | Last Result |
-| 25.5–26.5% | 14% | 62% | Median |
-| 26.5–27.5% | 15% | 49% |  |
-| 27.5–28.5% | 14% | 33% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 3% | 99.1% |  |
+| 13.5–14.5% | 6% | 96% |  |
+| 14.5–15.5% | 8% | 90% |  |
+| 15.5–16.5% | 8% | 82% |  |
+| 16.5–17.5% | 5% | 75% |  |
+| 17.5–18.5% | 2% | 70% |  |
+| 18.5–19.5% | 0.7% | 68% |  |
+| 19.5–20.5% | 0.2% | 67% |  |
+| 20.5–21.5% | 0.1% | 67% |  |
+| 21.5–22.5% | 0.3% | 67% |  |
+| 22.5–23.5% | 1.0% | 66% |  |
+| 23.5–24.5% | 3% | 65% |  |
+| 24.5–25.5% | 6% | 63% | Last Result |
+| 25.5–26.5% | 10% | 57% | Median |
+| 26.5–27.5% | 14% | 46% |  |
+| 27.5–28.5% | 13% | 33% |  |
 | 28.5–29.5% | 10% | 19% |  |
 | 29.5–30.5% | 6% | 9% |  |
 | 30.5–31.5% | 2% | 3% |  |
@@ -93,7 +102,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 1–4 | 1–4 | 1–4 | 1–4 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 1 | 1 | 1 | 1 | 1 |
+| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -150,8 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% |  |
-| 3 | 67% | 83% | Last Result, Median |
+| 1 | 33% | 100% |  |
+| 2 | 0.4% | 67% |  |
+| 3 | 51% | 66% | Last Result, Median |
 | 4 | 15% | 15% |  |
 | 5 | 0% | 0% | Majority |
 
