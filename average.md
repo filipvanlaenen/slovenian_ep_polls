@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 13–31% <br> 1–4 | 4–10% <br> 0–1 | 1–7% <br> 0 | 3–9% <br> 0–1 | 10–18% <br> 1–2 | N/A <br> N/A | 5–11% <br> 0–1 | 2–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–44% <br> 1–5 | N/A <br> N/A | 2–7% <br> 0–1 | 3–6% <br> 0 |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 12–19% <br> 1 | 4–7% <br> 0 | 2–5% <br> 0 | 2–6% <br> 0 | 9–15% <br> 1 | N/A <br> N/A | 6–11% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 37–45% <br> 5–6 | N/A <br> N/A | 2–6% <br> 0 | 2–6% <br> 0 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 12–19% <br> 1–2 | 4–7% <br> 0 | 2–5% <br> 0 | 2–6% <br> 0 | 9–15% <br> 1 | N/A <br> N/A | 6–11% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 37–45% <br> 4–5 | N/A <br> N/A | 2–6% <br> 0 | 2–6% <br> 0 |
 | [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 25–31% <br> 3–4 | 5–9% <br> 0–1 | 1–3% <br> 0 | 5–9% <br> 0–1 | 14–19% <br> 1–2 | N/A <br> N/A | 5–8% <br> 0–1 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–19% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0 | 3–6% <br> 0 |
 | [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 23–31% <br> 3–4 | 6–11% <br> 0–1 | 4–8% <br> 0–1 | 3–7% <br> 0–1 | 10–16% <br> 1–2 | N/A <br> N/A | 7–12% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–13% <br> 1 | N/A <br> N/A | 4–8% <br> 0–1 | 3–7% <br> 0 |
 | 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -345,8 +345,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 33% | 100% |  |
-| 2 | 0.4% | 67% |  |
+| 1 | 16% | 100% |  |
+| 2 | 18% | 84% |  |
 | 3 | 51% | 66% | Last Result, Median |
 | 4 | 15% | 15% |  |
 | 5 | 0% | 0% | Majority |
@@ -407,8 +407,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 66% | 67% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 61% | 61% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -436,9 +436,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 41% | 99.8% |  |
 | 2 | 25% | 59% | Median |
 | 3 | 0% | 33% |  |
-| 4 | 0.1% | 33% |  |
-| 5 | 32% | 33% | Majority |
-| 6 | 1.0% | 1.0% |  |
+| 4 | 12% | 33% |  |
+| 5 | 21% | 21% | Majority |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 ### Stranka modernega centra (ALDE)
@@ -474,7 +474,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Demokratična stranka upokojencev Slovenije (ALDE) – Državljanska lista (ALDE) – Lista Marjana Šarca (ALDE) – Stranka Alenke Bratušek (ALDE) – Stranka modernega centra (ALDE) | 1 | 2 | 33% | 1–5 | 1–5 | 1–5 | 1–6 |
+| Demokratična stranka upokojencev Slovenije (ALDE) – Državljanska lista (ALDE) – Lista Marjana Šarca (ALDE) – Stranka Alenke Bratušek (ALDE) – Stranka modernega centra (ALDE) | 1 | 2 | 21% | 1–5 | 1–5 | 1–5 | 1–6 |
 | Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 3 | 11% | 1–5 | 1–5 | 1–5 | 1–5 |
 | Socialni demokrati (S&D) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Pozitivna Slovenija (*) – Slovenska nacionalna stranka (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Nova ljudska stranka Slovenije (*) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -490,9 +490,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 33% | 99.8% | Last Result |
 | 2 | 27% | 67% | Median |
 | 3 | 6% | 39% |  |
-| 4 | 0.1% | 33% |  |
-| 5 | 32% | 33% | Majority |
-| 6 | 1.0% | 1.0% |  |
+| 4 | 12% | 33% |  |
+| 5 | 21% | 21% | Majority |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 ### Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP)
@@ -501,8 +501,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 33% | 100% |  |
-| 2 | 0.2% | 67% |  |
+| 1 | 16% | 100% |  |
+| 2 | 18% | 84% |  |
 | 3 | 20% | 67% | Median |
 | 4 | 36% | 47% |  |
 | 5 | 11% | 11% | Last Result, Majority |
@@ -534,8 +534,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 66% | 67% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 61% | 61% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -543,6 +543,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 2,098,176
-+ **Error estimate:** 4.47%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Error estimate:** 2.38%
