@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 20:02:09 +0100</pubDate>
+    <pubDate>Wed, 06 Mar 2019 19:19:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 12–14 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-14-Ninamedia.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-02-26T19:47:05.237893+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia-seats.png"
+        length="210638"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 19:19:14 +0100</pubDate>
+      <dc:date>2019-03-06T19:19:14.646184+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia-coalitions-seats.png"
+        length="134561"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 19:19:14 +0100</pubDate>
+      <dc:date>2019-03-06T19:19:14.646184+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 29 January–6 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 12.5–18.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 19.3–25.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 4.2–7.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1.7–4.3%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 3.9–7.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.8–7.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 1.4–3.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 1.0–3.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 1.6–4.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.8–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-02-06-Ninamedia.png"
         length="299648"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 20:02:09 +0100</pubDate>
-      <dc:date>2019-02-28T20:02:09.0049+01:00</dc:date>
+      <pubDate>Wed, 06 Mar 2019 19:19:14 +0100</pubDate>
+      <dc:date>2019-03-06T19:19:14.646184+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for MMC and RTV Slovenija, 8–10 January 2019 – Seat Projections for the Parties</title>
@@ -1439,6 +1459,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-02-28T20:02:09.0049+01:00</dc:date>
+    <dc:date>2019-03-06T19:19:14.646184+01:00</dc:date>
   </channel>
 </rss>
