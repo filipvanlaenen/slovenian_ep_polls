@@ -10,8 +10,11 @@ Last result: **4.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 2.9–8.6% | 2.6–9.2% | 2.3–9.6% | 1.9–10.5% |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 3.2% | 2.4–4.4% | 2.2–4.8% | 2.0–5.1% | 1.7–5.7% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.7–8.6% | 2.4–9.2% | 2.2–9.6% | 1.9–10.5% |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 3.3% | 2.5–4.5% | 2.2–4.8% | 2.0–5.2% | 1.7–5.8% |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 3.1% | 2.3–4.3% | 2.1–4.7% | 1.9–5.0% | 1.6–5.6% |
+| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 3.5% | 2.7–4.8% | 2.4–5.1% | 2.2–5.5% | 1.9–6.1% |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 3.2% | 2.4–4.4% | 2.2–4.8% | 2.0–5.1% | 1.7–5.7% |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 2.5% | 1.9–3.6% | 1.7–3.8% | 1.6–4.1% | 1.3–4.6% |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 2.4% | 1.7–3.6% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.1% |
@@ -68,13 +71,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 4% | 99.9% |  |
-| 2.5–3.5% | 16% | 95% |  |
-| 3.5–4.5% | 14% | 79% | Last Result |
-| 4.5–5.5% | 13% | 65% |  |
-| 5.5–6.5% | 14% | 52% | Median |
-| 6.5–7.5% | 13% | 38% |  |
-| 7.5–8.5% | 14% | 25% |  |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 29% | 93% |  |
+| 3.5–4.5% | 23% | 64% | Last Result, Median |
+| 4.5–5.5% | 6% | 41% |  |
+| 5.5–6.5% | 3% | 34% |  |
+| 6.5–7.5% | 8% | 32% |  |
+| 7.5–8.5% | 13% | 24% |  |
 | 8.5–9.5% | 8% | 11% |  |
 | 9.5–10.5% | 2% | 3% |  |
 | 10.5–11.5% | 0.4% | 0.4% |  |
@@ -90,7 +93,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
+| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 0 | 0 | 0 | 0 | 0 |
@@ -148,8 +154,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0% | 0% |  |
 
 
