@@ -93,9 +93,9 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 1 | 1 | 1 |
-| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 0–1 |
 | [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0–1 |
 | [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0 | 0 | 0 | 0 | 0–1 |
@@ -155,6 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 0 | 6% | 100% |  |
+| 1 | 94% | 94% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
