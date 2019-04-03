@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Mar 2019 14:46:39 +0100</pubDate>
+    <pubDate>Wed, 03 Apr 2019 15:47:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 12–14 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-03-14-Ninamedia.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-03-14-Ninamedia.png"
         length="289718"
         type="image/png"/>
-      <pubDate>Wed, 27 Mar 2019 14:34:00 +0100</pubDate>
-      <dc:date>2019-03-27T14:34:00.391156+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:47:19 +0200</pubDate>
+      <dc:date>2019-04-03T15:47:19.28242+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 26 February–7 March 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-03-07-Mediana.png"
         length="308615"
         type="image/png"/>
-      <pubDate>Wed, 27 Mar 2019 14:40:27 +0100</pubDate>
-      <dc:date>2019-03-27T14:40:27.984679+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 14:44:50 +0200</pubDate>
+      <dc:date>2019-04-03T14:44:50.661997+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 24 February 2019 – Voting Intentions</title>
@@ -1509,6 +1509,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-03-27T14:46:39.465644+01:00</dc:date>
+    <dc:date>2019-04-03T15:47:19.28242+02:00</dc:date>
   </channel>
 </rss>
