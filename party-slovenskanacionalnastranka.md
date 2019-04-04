@@ -10,7 +10,8 @@ Last result: **4.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.4% | 2.2–4.7% | 2.0–5.1% | 1.7–5.7% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.7–5.0% | 2.4–5.4% | 2.2–5.7% | 1.9–6.4% |
+| [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 4.0% | 3.1–5.3% | 2.9–5.6% | 2.7–6.0% | 2.3–6.6% |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 3.3% | 2.5–4.5% | 2.2–4.8% | 2.0–5.2% | 1.7–5.8% |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 3.1% | 2.3–4.3% | 2.1–4.7% | 1.9–5.0% | 1.6–5.6% |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 3.5% | 2.7–4.8% | 2.4–5.1% | 2.2–5.5% | 1.9–6.1% |
@@ -70,14 +71,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 15% | 99.7% |  |
-| 2.5–3.5% | 47% | 85% | Median |
-| 3.5–4.5% | 30% | 38% | Last Result |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 34% | 93% |  |
+| 3.5–4.5% | 39% | 59% | Last Result, Median |
+| 4.5–5.5% | 16% | 20% |  |
+| 5.5–6.5% | 3% | 3% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -90,6 +90,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
