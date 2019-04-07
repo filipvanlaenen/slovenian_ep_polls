@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 10:13:42 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 10:12:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-04-04-ParsifalSC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.9–31.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 20.9–28.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.0–13.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1.6–4.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.9–9.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.3–10.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 1.9–5.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 2.9–6.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (*): 4.4–8.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 3.2–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-04-04-ParsifalSC.png"
+        length="318017"
+        type="image/png"/>
+      <pubDate>Sun, 07 Apr 2019 10:12:24 +0200</pubDate>
+      <dc:date>2019-04-07T10:12:24.940491+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 24 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-03-24-Mediana.html</link>
@@ -1539,6 +1549,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-04-06T10:13:42.709434+02:00</dc:date>
+    <dc:date>2019-04-07T10:12:24.940491+02:00</dc:date>
   </channel>
 </rss>
