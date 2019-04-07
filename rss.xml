@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Apr 2019 10:12:24 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 12:19:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 1–4 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-04-04-ParsifalSC.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-04-04-ParsifalSC.png"
         length="318017"
         type="image/png"/>
-      <pubDate>Sun, 07 Apr 2019 10:12:24 +0200</pubDate>
-      <dc:date>2019-04-07T10:12:24.940491+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 12:19:21 +0200</pubDate>
+      <dc:date>2019-04-07T12:19:21.876938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 24 March 2019 – Voting Intentions</title>
@@ -1549,6 +1549,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-04-07T10:12:24.940491+02:00</dc:date>
+    <dc:date>2019-04-07T12:19:21.876938+02:00</dc:date>
   </channel>
 </rss>
