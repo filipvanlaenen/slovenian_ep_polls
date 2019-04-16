@@ -10,7 +10,7 @@ Last result: **5.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.3–10.7% | 6.8–11.3% | 6.5–11.7% | 5.8–12.7% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.3–10.4% | 5.8–11.0% | 5.4–11.5% | 4.7–12.4% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.9% | 5.6–8.6% | 5.2–9.1% | 4.9–9.5% | 4.4–10.4% |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 9.4% | 8.0–11.2% | 7.6–11.7% | 7.3–12.1% | 6.7–13.0% |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 8.2% | 6.9–10.0% | 6.5–10.5% | 6.2–10.9% | 5.6–11.8% |
@@ -72,17 +72,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% | Last Result |
-| 5.5–6.5% | 3% | 99.8% |  |
-| 6.5–7.5% | 12% | 97% |  |
-| 7.5–8.5% | 24% | 86% |  |
-| 8.5–9.5% | 29% | 61% | Median |
-| 9.5–10.5% | 20% | 33% |  |
-| 10.5–11.5% | 9% | 13% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.5% | 0.6% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 3% | 99.7% | Last Result |
+| 5.5–6.5% | 10% | 97% |  |
+| 6.5–7.5% | 19% | 86% |  |
+| 7.5–8.5% | 23% | 68% | Median |
+| 8.5–9.5% | 22% | 44% |  |
+| 9.5–10.5% | 14% | 23% |  |
+| 10.5–11.5% | 6% | 9% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -158,8 +159,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 
 

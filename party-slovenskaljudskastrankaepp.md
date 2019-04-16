@@ -10,7 +10,7 @@ Last result: **16.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.3% | 1.5–3.6% | 1.3–3.9% | 1.1–4.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.8–5.4% | 1.6–6.0% | 1.4–6.5% | 1.1–7.4% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4.8% | 3.7–6.3% | 3.5–6.7% | 3.2–7.1% | 2.8–7.9% |
 | [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 2.3% | 1.6–3.3% | 1.5–3.6% | 1.3–3.8% | 1.1–4.4% |
 | [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2.3% | 1.6–3.4% | 1.5–3.7% | 1.3–4.0% | 1.1–4.6% |
@@ -73,14 +73,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 52% | 93% | Median |
-| 2.5–3.5% | 35% | 41% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 35% | 95% |  |
+| 2.5–3.5% | 26% | 61% | Median |
+| 3.5–4.5% | 14% | 35% |  |
+| 4.5–5.5% | 13% | 22% |  |
+| 5.5–6.5% | 7% | 9% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -164,7 +164,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.5% | 100% | Median |
+| 1 | 0.5% | 0.5% | Last Result |
+| 2 | 0% | 0% |  |
 
 
