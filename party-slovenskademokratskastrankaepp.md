@@ -11,31 +11,31 @@ Last result: **24.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.9% | 17.6–28.8% | 16.8–29.9% | 16.1–30.8% | 15.0–32.3% |
-| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 27.7% | 25.2–30.4% | 24.5–31.2% | 23.9–31.9% | 22.7–33.2% |
-| [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 22.9% | 20.7–25.2% | 20.1–25.9% | 19.6–26.5% | 18.6–27.6% |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 18.4% | 16.4–20.7% | 15.8–21.4% | 15.3–21.9% | 14.4–23.1% |
-| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 23.2% | 21.0–25.7% | 20.3–26.4% | 19.8–27.1% | 18.7–28.3% |
-| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 22.9% | 20.6–25.4% | 20.0–26.1% | 19.4–26.7% | 18.4–27.9% |
-| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 15.3% | 13.5–17.5% | 12.9–18.1% | 12.5–18.6% | 11.7–19.7% |
-| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 15.1% | 13.4–17.1% | 12.9–17.6% | 12.5–18.1% | 11.7–19.1% |
-| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 23.7% | 21.4–26.3% | 20.7–27.0% | 20.2–27.6% | 19.1–28.9% |
-| [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 26.0% | 24.0–28.2% | 23.4–28.8% | 22.9–29.4% | 21.9–30.5% |
-| [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 27.9% | 25.9–30.2% | 25.3–30.8% | 24.8–31.4% | 23.8–32.4% |
-| [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 26.9% | 24.5–29.5% | 23.8–30.2% | 23.2–30.8% | 22.1–32.1% |
-| [19–20 November 2018](2018-11-20-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 23.7% | 21.5–26.2% | 20.8–26.9% | 20.3–27.5% | 19.3–28.7% |
-| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 29.0% | 26.9–31.3% | 26.3–31.9% | 25.8–32.5% | 24.8–33.6% |
-| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 31.0% | 28.9–33.3% | 28.3–33.9% | 27.8–34.5% | 26.8–35.6% |
-| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 24.0% | 22.0–26.2% | 21.5–26.8% | 21.0–27.3% | 20.1–28.4% |
-| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 28.0% | 25.9–30.2% | 25.3–30.8% | 24.8–31.4% | 23.9–32.5% |
-| [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 32.3% | 29.8–34.9% | 29.1–35.6% | 28.5–36.2% | 27.4–37.5% |
-| [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 26.8% | 24.3–29.5% | 23.6–30.3% | 23.0–30.9% | 21.9–32.3% |
-| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 30.9% | 28.3–33.7% | 27.6–34.4% | 27.0–35.1% | 25.8–36.5% |
-| [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 29.9% | 27.5–32.4% | 26.8–33.2% | 26.2–33.8% | 25.1–35.1% |
-| [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 29.1% | 26.7–31.7% | 26.0–32.5% | 25.4–33.1% | 24.3–34.4% |
-| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 29.3% | 27.0–31.7% | 26.3–32.4% | 25.8–33.0% | 24.7–34.2% |
-| [1–23 June 2018](2018-06-23-Mediana.html) | Mediana <br> POP TV | 32.2% | 29.8–34.7% | 29.1–35.4% | 28.5–36.0% | 27.4–37.2% |
-| [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 29.3% | 27.0–31.8% | 26.4–32.5% | 25.8–33.1% | 24.8–34.3% |
-| [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 31.2% | 28.6–33.9% | 27.9–34.7% | 27.3–35.3% | 26.1–36.7% |
+| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | 25.2–30.4% | 24.5–31.2% | 23.9–31.9% | 22.7–33.2% |
+| [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 0.0% | 20.7–25.2% | 20.1–25.9% | 19.6–26.5% | 18.6–27.6% |
+| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 16.4–20.7% | 15.8–21.4% | 15.3–21.9% | 14.4–23.1% |
+| [26 February–7 March 2019](2019-03-07-Mediana.html) | Mediana <br> Delo | 0.0% | 21.0–25.7% | 20.3–26.4% | 19.8–27.1% | 18.7–28.3% |
+| [24 February 2019](2019-02-24-Mediana.html) | Mediana <br> POP TV | 0.0% | 20.6–25.4% | 20.0–26.1% | 19.4–26.7% | 18.4–27.9% |
+| [12–14 February 2019](2019-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 13.5–17.5% | 12.9–18.1% | 12.5–18.6% | 11.7–19.7% |
+| [29 January–6 February 2019](2019-02-06-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0.0% | 13.4–17.1% | 12.9–17.6% | 12.5–18.1% | 11.7–19.1% |
+| [8–10 January 2019](2019-01-10-Ninamedia.html) | Ninamedia <br> MMC and RTV Slovenija | 0.0% | 21.4–26.3% | 20.7–27.0% | 20.2–27.6% | 19.1–28.9% |
+| [11–13 December 2018](2018-12-13-Ninamedia.html) | Ninamedia | 0.0% | 24.0–28.2% | 23.4–28.8% | 22.9–29.4% | 21.9–30.5% |
+| [4–7 December 2018](2018-12-07-ParsifalSC.html) | Parsifal SC | 0.0% | 25.9–30.2% | 25.3–30.8% | 24.8–31.4% | 23.8–32.4% |
+| [25 November 2018](2018-11-25-Mediana.html) | Mediana <br> POP TV | 0.0% | 24.5–29.5% | 23.8–30.2% | 23.2–30.8% | 22.1–32.1% |
+| [19–20 November 2018](2018-11-20-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 21.5–26.2% | 20.8–26.9% | 20.3–27.5% | 19.3–28.7% |
+| [7 November 2018](2018-11-07-ParsifalSC.html) | Parsifal SC | 0.0% | 26.9–31.3% | 26.3–31.9% | 25.8–32.5% | 24.8–33.6% |
+| [1 November 2018](2018-11-01-Mediana.html) | Mediana | 0.0% | 28.9–33.3% | 28.3–33.9% | 27.8–34.5% | 26.8–35.6% |
+| [9–11 October 2018](2018-10-11-Ninamedia.html) | Ninamedia | 0.0% | 22.0–26.2% | 21.5–26.8% | 21.0–27.3% | 20.1–28.4% |
+| [3–11 October 2018](2018-10-11-Mediana.html) | Mediana <br> Delo | 0.0% | 25.9–30.2% | 25.3–30.8% | 24.8–31.4% | 23.9–32.5% |
+| [11–13 September 2018](2018-09-13-Ninamedia.html) | Ninamedia | 0.0% | 29.8–34.9% | 29.1–35.6% | 28.5–36.2% | 27.4–37.5% |
+| [30 August–6 September 2018](2018-09-06-Mediana.html) | Mediana <br> Delo | 0.0% | 24.3–29.5% | 23.6–30.3% | 23.0–30.9% | 21.9–32.3% |
+| [26 August 2018](2018-08-26-Mediana.html) | Mediana <br> POP TV | 0.0% | 28.3–33.7% | 27.6–34.4% | 27.0–35.1% | 25.8–36.5% |
+| [13–15 August 2018](2018-08-15-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 27.5–32.4% | 26.8–33.2% | 26.2–33.8% | 25.1–35.1% |
+| [29 July 2018](2018-07-29-Mediana.html) | Mediana <br> POP TV | 0.0% | 26.7–31.7% | 26.0–32.5% | 25.4–33.1% | 24.3–34.4% |
+| [10–12 July 2018](2018-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 27.0–31.7% | 26.3–32.4% | 25.8–33.0% | 24.7–34.2% |
+| [1–23 June 2018](2018-06-23-Mediana.html) | Mediana <br> POP TV | 0.0% | 29.8–34.7% | 29.1–35.4% | 28.5–36.0% | 27.4–37.2% |
+| [12–14 June 2018](2018-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 0.0% | 27.0–31.8% | 26.4–32.5% | 25.8–33.1% | 24.8–34.3% |
+| [5–6 June 2018](2018-06-06-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | 28.6–33.9% | 27.9–34.7% | 27.3–35.3% | 26.1–36.7% |
 | [28–31 May 2018](2018-05-31-Valicon.html) | Valicon | 17.3% | 16.2–18.5% | 16.0–18.8% | 15.7–19.1% | 15.2–19.6% |
 | [31 May 2018](2018-05-31-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 26.1% | 24.3–28.1% | 23.8–28.6% | 23.4–29.1% | 22.5–30.0% |
 | [31 May 2018](2018-05-31-Mediana.html) | Mediana <br> POP TV | 27.1% | 25.3–29.1% | 24.8–29.6% | 24.4–30.1% | 23.5–31.0% |
