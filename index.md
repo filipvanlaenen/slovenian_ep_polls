@@ -2,14 +2,14 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 16–31% <br> 1–4 | 6–13% <br> 0–1 | 1–6% <br> 0 | 3–7% <br> 0 | 7–13% <br> 0–1 | N/A <br> N/A | 5–12% <br> 0–1 | 2–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 21–41% <br> 2–4 | N/A <br> N/A | 0–6% <br> 0 | 2–7% <br> 0 |
-| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24–32% <br> 3–4 | 5–10% <br> 0–1 | 3–7% <br> 0 | 3–7% <br> 0 | 8–13% <br> 1 | N/A <br> N/A | 5–10% <br> 0–1 | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 21–29% <br> 2–3 | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 |
-| [24 March 2019](2019-03-24-Mediana.html) | Mediana <br> POP TV | 20–26% <br> 2–3 | 7–12% <br> 0–1 | 1–4% <br> 0 | 3–7% <br> 0 | 6–11% <br> 0–1 | N/A <br> N/A | 7–12% <br> 0–1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 21–28% <br> 2–3 | N/A <br> N/A | 3–7% <br> 0 | 4–7% <br> 0 |
-| [12–14 March 2019](2019-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 15–22% <br> 1–2 | 9–14% <br> 0–1 | 1–4% <br> 0 | 3–6% <br> 0 | 9–14% <br> 0–1 | N/A <br> N/A | 6–11% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 34–42% <br> 3–5 | N/A <br> N/A | 0–2% <br> 0 | 1–4% <br> 0 |
-| 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB | SDS–SLS |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | 6–12% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0 | 8–16% <br> 1 | N/A <br> N/A | 5–12% <br> 0–1 | 1–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 22–40% <br> 2–4 | N/A <br> N/A | 0–7% <br> 0 | 1–5% <br> 0 | 18–36% <br> 2–4 |
+| [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | N/A <br> N/A | 7–11% <br> 0–1 | N/A <br> N/A | 2–6% <br> 0 | 8–13% <br> 0–1 | N/A <br> N/A | 7–12% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 24–31% <br> 2–3 | N/A <br> N/A | 4–8% <br> 0 | 1–4% <br> 0 | 22–29% <br> 2–3 |
+| [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | N/A <br> N/A | 8–13% <br> 0–1 | N/A <br> N/A | 3–7% <br> 0 | 11–17% <br> 1 | N/A <br> N/A | 7–12% <br> 0–1 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 32–41% <br> 3–4 | N/A <br> N/A | 0–2% <br> 0 | 2–4% <br> 0 | 17–24% <br> 1–2 |
+| [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | N/A <br> N/A | 5–10% <br> 0–1 | N/A <br> N/A | 3–7% <br> 0 | 8–13% <br> 0–1 | N/A <br> N/A | 5–10% <br> 0–1 | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 21–29% <br> 2–3 | N/A <br> N/A | 2–5% <br> 0 | 2–5% <br> 0 | 28–37% <br> 3–4 |
+| 25 May 2014 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **SD:** Socialni demokrati (S&D)
 + **PS:** Pozitivna Slovenija (*)
 + **Levica:** Levica (GUE/NGL)
-+ **SNS:** Slovenska nacionalna stranka (*)
++ **SNS:** Slovenska nacionalna stranka (NI)
 + **DL:** Državljanska lista (ALDE)
 + **GOD:** Glas za otroke in družine (*)
 + **GOD–NLS:** Glas za otroke in družine–Nova ljudska stranka Slovenije (*)
@@ -31,6 +31,7 @@ Only polls for which at least the sample size has been published are included in
 + **NLS:** Nova ljudska stranka Slovenije (*)
 + **SMC:** Stranka modernega centra (ALDE)
 + **PAB:** Stranka Alenke Bratušek (ALDE)
++ **SDS–SLS:** Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
