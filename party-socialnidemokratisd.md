@@ -11,7 +11,7 @@ Last result: **8.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.2% | 9.0–14.3% | 8.6–15.1% | 8.2–15.8% | 7.4–17.0% |
-| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 21.7% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 21.7% | 19.8–23.8% | 19.3–24.4% | 18.8–24.9% | 17.9–26.0% |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 16.0% | N/A | N/A | N/A | N/A |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 10.1% | 8.7–11.9% | 8.3–12.4% | 7.9–12.8% | 7.3–13.7% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 13.4% | 11.6–15.5% | 11.1–16.1% | 10.7–16.6% | 9.9–17.7% |
@@ -101,7 +101,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2 | 2 | 2 | 2 | 2–3 |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 1 | 1 | 1 | 1–2 |
