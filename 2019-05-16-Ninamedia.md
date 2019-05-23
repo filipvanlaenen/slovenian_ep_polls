@@ -30,12 +30,12 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#slovenska-demokratska-stranka–slovenska-ljudska-stranka-(epp)">Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)</a> | 4 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 2 | 2 |2 |2 |2–3 |
-| <a href="#lista-marjana-šarca-(alde)">Lista Marjana Šarca (ALDE)</a> | 0 | 2 | 2 |2 |2 |1–2 |
-| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 1 | 1 |1 |1 |1 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 2 | 2 |2–3 |2–3 |2–3 |
+| <a href="#lista-marjana-šarca-(alde)">Lista Marjana Šarca (ALDE)</a> | 0 | 2 | 2 |2 |2 |2–3 |
+| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#demokratična-stranka-upokojencev-slovenije-(alde)">Demokratična stranka upokojencev Slovenije (ALDE)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
 | <a href="#stranka-alenke-bratušek-(alde)">Stranka Alenke Bratušek (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 85% | 100% | Median |
-| 3 | 15% | 15% |  |
+| 2 | 80% | 100% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Socialni demokrati (S&D)
@@ -59,8 +59,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 99.5% | 100% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 90% | 100% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 ### Lista Marjana Šarca (ALDE)
@@ -72,9 +72,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 98% | 98% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 97% | 99.5% | Median |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
 
@@ -84,8 +85,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 99.6% | 99.6% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (ALDE)
@@ -96,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% |  |
-| 1 | 84% | 84% | Last Result, Median |
+| 0 | 36% | 100% |  |
+| 1 | 64% | 64% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -108,8 +109,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
@@ -120,7 +121,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 ### Stranka Alenke Bratušek (ALDE)
 
@@ -141,10 +144,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka–Slovenska ljudska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) | 5 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Socialni demokrati (S&D) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
-| Levica (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
-| Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Slovenska demokratska stranka–Slovenska ljudska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) | 5 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
+| Socialni demokrati (S&D) | 1 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
+| Levica (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 
 ### Slovenska demokratska stranka–Slovenska ljudska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP)
 
@@ -152,9 +155,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% |  |
-| 3 | 84% | 99.6% | Median |
-| 4 | 15% | 15% |  |
+| 2 | 7% | 100% |  |
+| 3 | 79% | 93% | Median |
+| 4 | 14% | 14% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
 ### Socialni demokrati (S&D)
@@ -164,8 +167,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 99.5% | 100% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 90% | 100% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -174,8 +177,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 15% | 15% |  |
 | 2 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
@@ -184,7 +187,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -198,6 +203,6 @@
 ### Calculations
 
 + **Sample size:** 700
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.93%
++ **Simulations done:** 524,288
++ **Error estimate:** 1.31%
 

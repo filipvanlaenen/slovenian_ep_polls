@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.5% | 23.5–37.7% | 22.6–38.8% | 21.9–39.7% | 20.6–41.3% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 20.3% | 18.4–22.3% | 17.9–22.9% | 17.5–23.4% | 16.6–24.4% |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 15.3% | N/A | N/A | N/A | N/A |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 15.3% | 13.7–17.1% | 13.2–17.6% | 12.8–18.1% | 12.1–19.0% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 27.1% | 24.8–29.6% | 24.2–30.3% | 23.7–30.9% | 22.6–32.1% |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 36.5% | 33.8–39.4% | 33.1–40.1% | 32.4–40.8% | 31.2–42.2% |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 24.6% | 22.2–27.2% | 21.5–28.0% | 20.9–28.6% | 19.8–29.9% |
@@ -132,8 +132,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2 | 2 | 2 | 2 | 1–2 |
-| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2 | 2 | 2 | 2 | 2–3 |
+| [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [9–11 April 2019](2019-04-11-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–4 April 2019](2019-04-04-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
