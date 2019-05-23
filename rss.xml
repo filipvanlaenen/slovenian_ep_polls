@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 May 2019 21:36:46 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 03:58:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.png"
         length="286685"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 21:36:46 +0200</pubDate>
-      <dc:date>2019-05-22T21:36:46.054707+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 03:47:06 +0200</pubDate>
+      <dc:date>2019-05-23T03:47:06.20978+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 8–15 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 12.8–18.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 13.5–18.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 1.0–2.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.2–11.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.3–12.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 2.5–5.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 3.7–6.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 9.5–14.2%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka–Slovenska ljudska stranka (EPP): 14.8–20.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana.png"
+        length="304337"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 03:58:14 +0200</pubDate>
+      <dc:date>2019-05-23T03:58:14.991871+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 28 April 2019 – Seat Projections for the Parties</title>
@@ -1659,6 +1669,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-05-22T21:36:46.054707+02:00</dc:date>
+    <dc:date>2019-05-23T03:58:14.991871+02:00</dc:date>
   </channel>
 </rss>
