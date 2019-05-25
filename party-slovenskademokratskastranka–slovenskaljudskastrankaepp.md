@@ -11,6 +11,7 @@ Last result: **24.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.8% | 16.7–33.7% | 16.0–34.8% | 15.4–35.7% | 14.5–37.3% |
+| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter | 22.1% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 22.7% | 20.8–24.8% | 20.2–25.4% | 19.8–26.0% | 18.9–27.0% |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 17.4% | 15.7–19.3% | 15.2–19.8% | 14.8–20.3% | 14.0–21.3% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 24.9% | 22.7–27.3% | 22.1–28.0% | 21.5–28.5% | 20.5–29.7% |
@@ -115,6 +116,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
