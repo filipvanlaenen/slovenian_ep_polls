@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 08:11:16 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 23:36:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Valicon for Reporter, 21–24 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-24-Valicon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 17.6–20.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 14.6–17.2%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 3.4–4.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.1–6.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.8–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 4.3–5.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 4.8–6.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 5.4–7.1%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka–Slovenska ljudska stranka (EPP): 20.7–23.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-24-Valicon.png"
+        length="252356"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 23:36:51 +0200</pubDate>
+      <dc:date>2019-05-25T23:36:51.287325+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.html#seats</link>
@@ -1709,6 +1719,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-05-25T08:11:16.145706+02:00</dc:date>
+    <dc:date>2019-05-25T23:36:51.287325+02:00</dc:date>
   </channel>
 </rss>
