@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 May 2019 03:58:14 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 08:11:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka–Slovenska ljudska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia-seats.png"
+        length="204781"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 08:03:39 +0200</pubDate>
+      <dc:date>2019-05-25T08:03:39.22523+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia-coalitions-seats.png"
+        length="168907"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 08:03:39 +0200</pubDate>
+      <dc:date>2019-05-25T08:03:39.22523+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik and RTV Slovenija, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-16-Ninamedia.png"
         length="286685"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 03:47:06 +0200</pubDate>
-      <dc:date>2019-05-23T03:47:06.20978+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 08:03:39 +0200</pubDate>
+      <dc:date>2019-05-25T08:03:39.22523+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 8–15 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lista Marjana Šarca (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka–Slovenska ljudska stranka (EPP): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana-seats.png"
+        length="204148"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 08:11:16 +0200</pubDate>
+      <dc:date>2019-05-25T08:11:16.145706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 8–15 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana-coalitions-seats.png"
+        length="164992"
+        type="image/png"/>
+      <pubDate>Sat, 25 May 2019 08:11:16 +0200</pubDate>
+      <dc:date>2019-05-25T08:11:16.145706+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 8–15 May 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-05-15-Mediana.png"
         length="304337"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 03:58:14 +0200</pubDate>
-      <dc:date>2019-05-23T03:58:14.991871+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 08:11:16 +0200</pubDate>
+      <dc:date>2019-05-25T08:11:16.145706+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 28 April 2019 – Seat Projections for the Parties</title>
@@ -1669,6 +1709,6 @@
       <pubDate>Sat, 14 Apr 2018 13:53:46 +0200</pubDate>
       <dc:date>2018-04-14T13:53:46.508197+02:00</dc:date>
     </item>
-    <dc:date>2019-05-23T03:58:14.991871+02:00</dc:date>
+    <dc:date>2019-05-25T08:11:16.145706+02:00</dc:date>
   </channel>
 </rss>
