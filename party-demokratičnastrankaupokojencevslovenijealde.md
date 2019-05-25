@@ -10,8 +10,8 @@ Last result: **8.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 3.9–8.8% | 3.5–9.3% | 3.3–9.8% | 2.7–10.7% |
-| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter | 5.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 5.5% | 4.1–8.5% | 3.7–9.1% | 3.4–9.6% | 2.8–10.5% |
+| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter | 5.5% | 5.0–6.1% | 4.9–6.2% | 4.8–6.4% | 4.5–6.7% |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 8.1% | 7.0–9.6% | 6.6–10.0% | 6.3–10.4% | 5.8–11.2% |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 5.0% | 4.1–6.3% | 3.9–6.6% | 3.7–6.9% | 3.3–7.5% |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 3.8% | 2.9–5.0% | 2.7–5.3% | 2.5–5.7% | 2.1–6.3% |
@@ -79,16 +79,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 5% | 99.8% |  |
-| 3.5–4.5% | 20% | 95% |  |
-| 4.5–5.5% | 26% | 75% | Median |
-| 5.5–6.5% | 14% | 49% |  |
-| 6.5–7.5% | 9% | 35% |  |
-| 7.5–8.5% | 13% | 25% | Last Result |
-| 8.5–9.5% | 9% | 13% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.6% | 0.6% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 4% | 99.8% |  |
+| 3.5–4.5% | 15% | 96% |  |
+| 4.5–5.5% | 32% | 81% |  |
+| 5.5–6.5% | 22% | 49% | Median |
+| 6.5–7.5% | 7% | 26% |  |
+| 7.5–8.5% | 9% | 19% | Last Result |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.4% | 0.5% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -101,7 +101,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter |  |  |  |  |  |
+| [21–24 May 2019](2019-05-24-Valicon.html) | Valicon <br> Reporter | 0 | 0 | 0 | 0 | 0 |
 | [14–16 May 2019](2019-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik and RTV Slovenija | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–15 May 2019](2019-05-15-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [28 April 2019](2019-04-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
@@ -169,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 22% | 22% | Last Result |
+| 0 | 83% | 100% | Median |
+| 1 | 17% | 17% | Last Result |
 | 2 | 0% | 0% |  |
 
 
