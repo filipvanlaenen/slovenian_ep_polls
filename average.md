@@ -315,8 +315,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 5% | 100% |  |
-| 2 | 57% | 95% | Median |
-| 3 | 22% | 38% |  |
+| 2 | 59% | 95% | Median |
+| 3 | 20% | 37% |  |
 | 4 | 16% | 16% | Last Result |
 | 5 | 0.1% | 0.1% | Majority |
 | 6 | 0% | 0% |  |
@@ -329,8 +329,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% |  |
-| 1 | 74% | 74% | Last Result, Median |
+| 0 | 25% | 100% |  |
+| 1 | 75% | 75% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (ALDE)
@@ -443,7 +443,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.1% | 100% |  |
 | 2 | 7% | 99.9% |  |
 | 3 | 69% | 93% | Median |
-| 4 | 18% | 24% |  |
+| 4 | 19% | 24% |  |
 | 5 | 6% | 6% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
@@ -503,6 +503,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 2.61%
