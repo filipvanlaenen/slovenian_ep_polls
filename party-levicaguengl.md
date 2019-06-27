@@ -13,7 +13,7 @@ Last result: **5.5%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 8.6% | 6.8–10.5% | 6.4–11.0% | 6.1–11.5% | 5.5–12.3% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 9.5% | 8.2–11.0% | 7.8–11.5% | 7.5–11.8% | 7.0–12.6% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 7.6% | 6.4–9.0% | 6.1–9.4% | 5.8–9.8% | 5.3–10.5% |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 9.5% | N/A | N/A | N/A | N/A |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 9.5% | 8.3–11.1% | 7.9–11.5% | 7.6–11.9% | 7.1–12.6% |
 
 ### Probability Mass Function
 
@@ -45,7 +45,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [28 May–6 June 2019](2019-06-06-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
