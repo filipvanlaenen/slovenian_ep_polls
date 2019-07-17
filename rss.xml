@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Jun 2019 17:09:17 +0200</pubDate>
+    <pubDate>Wed, 17 Jul 2019 20:20:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.1–28.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 26.6–33.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 11.8–16.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.8–11.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.4–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.png"
+        length="321801"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 20:20:12 +0200</pubDate>
+      <dc:date>2019-07-17T20:20:12.309465+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–23 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-06-23-Mediana.html#seats</link>
@@ -99,6 +109,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2019-06-30T17:09:17.186001+02:00</dc:date>
+    <dc:date>2019-07-17T20:20:12.309465+02:00</dc:date>
   </channel>
 </rss>
