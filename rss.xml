@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Jul 2019 12:40:06 +0200</pubDate>
+    <pubDate>Thu, 18 Jul 2019 12:52:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia-seats.png"
+        length="240506"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 12:52:55 +0200</pubDate>
+      <dc:date>2019-07-18T12:52:55.561862+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia-coalitions-seats.png"
+        length="180245"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 12:52:55 +0200</pubDate>
+      <dc:date>2019-07-18T12:52:55.561862+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.png"
         length="321801"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 12:40:06 +0200</pubDate>
-      <dc:date>2019-07-18T12:40:06.327315+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 12:52:55 +0200</pubDate>
+      <dc:date>2019-07-18T12:52:55.561862+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–23 June 2019 – Seat Projections for the Parties</title>
@@ -109,6 +129,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T12:40:06.327315+02:00</dc:date>
+    <dc:date>2019-07-18T12:52:55.561862+02:00</dc:date>
   </channel>
 </rss>
