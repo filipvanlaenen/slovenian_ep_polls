@@ -32,9 +32,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 1 |1–2 |1–2 |1–2 |
-| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#demokratična-stranka-upokojencev-slovenije-(re)">Demokratična stranka upokojencev Slovenije (RE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -52,9 +52,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 65% | 99.9% | Median |
-| 4 | 35% | 35% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 86% | 99.6% | Median |
+| 4 | 14% | 14% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Slovenska demokratska stranka (EPP)
@@ -65,9 +65,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 53% | 100% | Median |
-| 3 | 47% | 47% | Last Result |
-| 4 | 0% | 0% |  |
+| 2 | 31% | 100% |  |
+| 3 | 69% | 69% | Last Result, Median |
+| 4 | 0.2% | 0.2% |  |
+| 5 | 0% | 0% | Majority |
 
 ### Socialni demokrati (S&D)
 
@@ -77,8 +78,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Last Result, Median |
-| 2 | 9% | 9% |  |
+| 1 | 88% | 100% | Last Result, Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -89,8 +90,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 90% | 90% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -101,8 +102,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Median |
-| 1 | 19% | 19% | Last Result |
+| 0 | 58% | 100% | Median |
+| 1 | 42% | 42% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (RE)
@@ -113,8 +114,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
+| 2 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
 
@@ -166,9 +168,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Socialni demokrati (S&D) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Levica (GUE/NGL) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
+| Socialni demokrati (S&D) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Levica (GUE/NGL) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP)
@@ -177,9 +179,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 35% | 100% | Median |
-| 3 | 65% | 65% |  |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 5% | 100% |  |
+| 3 | 78% | 95% | Median |
+| 4 | 17% | 17% |  |
 | 5 | 0% | 0% | Last Result, Majority |
 
 ### Socialni demokrati (S&D)
@@ -188,8 +190,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Last Result, Median |
-| 2 | 9% | 9% |  |
+| 1 | 88% | 100% | Last Result, Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -198,8 +200,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 90% | 90% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
@@ -222,6 +224,6 @@
 ### Calculations
 
 + **Sample size:** 700
-+ **Simulations done:** 1,024
-+ **Error estimate:** 5.12%
++ **Simulations done:** 524,288
++ **Error estimate:** 2.04%
 
