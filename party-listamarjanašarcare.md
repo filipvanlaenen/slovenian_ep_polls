@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.4% | 25.5–31.4% | 24.8–32.2% | 24.3–32.8% | 23.2–34.0% |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 32.9% | 30.6–35.2% | 30.0–35.8% | 29.5–36.4% | 28.4–37.6% |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 24.5% | 22.5–26.6% | 22.0–27.2% | 21.5–27.7% | 20.6–28.7% |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 29.9% | 27.7–32.1% | 27.1–32.8% | 26.6–33.4% | 25.6–34.5% |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 26.9% | 24.8–29.1% | 24.3–29.7% | 23.8–30.3% | 22.8–31.3% |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 29.6% | 27.4–31.9% | 26.8–32.5% | 26.3–33.1% | 25.3–34.2% |
@@ -70,6 +72,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [31 July–8 August 2019](2019-08-08-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–13 July 2019](2019-07-13-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–23 June 2019](2019-06-23-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [11–13 June 2019](2019-06-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 3 | 3 | 3–4 | 3–4 | 2–4 |
