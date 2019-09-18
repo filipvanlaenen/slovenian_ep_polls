@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.4% | 25.5–31.4% | 24.8–32.2% | 24.3–32.8% | 23.2–34.0% |
+| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 32.3% | 30.1–34.6% | 29.5–35.3% | 28.9–35.8% | 27.9–37.0% |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 30.4% | 28.2–32.6% | 27.6–33.2% | 27.1–33.8% | 26.1–34.9% |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 28.5% | 26.4–30.8% | 25.9–31.4% | 25.3–31.9% | 24.4–33.0% |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 32.9% | 30.6–35.2% | 30.0–35.8% | 29.5–36.4% | 28.4–37.6% |
@@ -74,6 +75,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–14 August 2019](2019-08-14-Ninamedia.html) | Ninamedia <br> RTV SLO and Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
