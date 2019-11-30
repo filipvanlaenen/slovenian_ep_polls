@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Nov 2019 15:27:44 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 17:51:33 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia-seats.png"
+        length="203685"
+        type="image/png"/>
+      <pubDate>Sat, 30 Nov 2019 15:38:52 +0100</pubDate>
+      <dc:date>2019-11-30T15:38:52.694603+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia-coalitions-seats.png"
+        length="131648"
+        type="image/png"/>
+      <pubDate>Sat, 30 Nov 2019 15:38:52 +0100</pubDate>
+      <dc:date>2019-11-30T15:38:52.694603+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 12–14 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-14-Ninamedia.png"
         length="312270"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 15:27:44 +0100</pubDate>
-      <dc:date>2019-11-24T15:27:44.451527+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 15:38:52 +0100</pubDate>
+      <dc:date>2019-11-30T15:38:52.694603+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 28 October–7 November 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-11-07-Mediana.png"
         length="345290"
         type="image/png"/>
-      <pubDate>Fri, 15 Nov 2019 11:39:21 +0100</pubDate>
-      <dc:date>2019-11-15T11:39:21.241453+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 17:51:33 +0100</pubDate>
+      <dc:date>2019-11-30T17:51:33.540936+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for RTV SLO, 15–17 October 2019 – Seat Projections for the Parties</title>
@@ -359,6 +379,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2019-11-24T15:27:44.451527+01:00</dc:date>
+    <dc:date>2019-11-30T17:51:33.540936+01:00</dc:date>
   </channel>
 </rss>
