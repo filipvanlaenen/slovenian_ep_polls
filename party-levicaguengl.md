@@ -15,7 +15,7 @@ Last result: **5.5%** (General Election of 26 May 2019)
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 10.1% | 8.8–11.8% | 8.4–12.2% | 8.1–12.6% | 7.5–13.4% |
 | [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 16.6% | 14.9–18.5% | 14.5–19.0% | 14.1–19.5% | 13.3–20.4% |
 | [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 9.6% | 8.3–11.1% | 7.9–11.6% | 7.6–12.0% | 7.0–12.8% |
-| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 12.3% | N/A | N/A | N/A | N/A |
+| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 12.3% | 10.9–14.0% | 10.4–14.5% | 10.1–14.9% | 9.4–15.8% |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 9.6% | 8.3–11.1% | 7.9–11.6% | 7.6–12.0% | 7.0–12.8% |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 10.3% | 9.0–11.9% | 8.6–12.3% | 8.3–12.7% | 7.7–13.5% |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 7.3% | 6.2–8.7% | 5.9–9.1% | 5.7–9.5% | 5.2–10.2% |
@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [28 October–7 November 2019](2019-11-07-Mediana.html) | Mediana <br> Delo | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 October 2019](2019-10-17-Ninamedia.html) | Ninamedia <br> RTV SLO | 1 | 1 | 1 | 0–1 | 0–1 |
-| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [1–22 September 2019](2019-09-22-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 1 |
 | [10–12 September 2019](2019-09-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 1 | 1 | 1 | 0–1 | 0–1 |
 | [28 August–5 September 2019](2019-09-05-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 0–1 |
 | [1–25 August 2019](2019-08-25-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
