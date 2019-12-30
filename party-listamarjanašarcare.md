@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 21.3–34.7% | 20.7–35.5% | 20.1–36.1% | 19.1–37.4% |
+| N/A | [Poll Average](average.html) | 26.0% | 21.3–31.1% | 20.7–31.8% | 20.1–32.5% | 19.1–33.7% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 29.6% | 27.4–31.9% | 26.8–32.5% | 26.3–33.1% | 25.3–34.2% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 22.5% | 20.7–24.6% | 20.1–25.2% | 19.7–25.7% | 18.8–26.7% |
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 33.1% | 30.9–35.5% | 30.3–36.1% | 29.8–36.7% | 28.7–37.9% |
@@ -59,21 +59,17 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 12% | 75% |  |
 | 23.5–24.5% | 8% | 63% |  |
 | 24.5–25.5% | 4% | 55% |  |
-| 25.5–26.5% | 1.2% | 52% |  |
-| 26.5–27.5% | 0.3% | 50% |  |
-| 27.5–28.5% | 0.2% | 50% | Median |
-| 28.5–29.5% | 0.8% | 50% |  |
-| 29.5–30.5% | 2% | 49% |  |
-| 30.5–31.5% | 6% | 47% |  |
-| 31.5–32.5% | 9% | 41% |  |
-| 32.5–33.5% | 11% | 32% |  |
-| 33.5–34.5% | 10% | 21% |  |
-| 34.5–35.5% | 6% | 11% |  |
-| 35.5–36.5% | 3% | 5% |  |
-| 36.5–37.5% | 1.1% | 2% |  |
-| 37.5–38.5% | 0.3% | 0.4% |  |
-| 38.5–39.5% | 0.1% | 0.1% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 25.5–26.5% | 3% | 51% | Median |
+| 26.5–27.5% | 4% | 49% |  |
+| 27.5–28.5% | 8% | 44% |  |
+| 28.5–29.5% | 11% | 37% |  |
+| 29.5–30.5% | 11% | 26% |  |
+| 30.5–31.5% | 8% | 15% |  |
+| 31.5–32.5% | 4% | 7% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.5% | 0.6% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -84,7 +80,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -111,8 +107,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 32% | 100% |  |
-| 3 | 63% | 68% | Median |
+| 2 | 33% | 100% |  |
+| 3 | 62% | 67% | Median |
 | 4 | 5% | 5% |  |
 | 5 | 0% | 0% | Majority |
 
