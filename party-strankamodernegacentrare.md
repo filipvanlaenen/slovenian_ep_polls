@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.3% |
+| [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 2.8% | N/A | N/A | N/A | N/A |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0.3% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.0–1.3% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 0.9% | 0.5–1.5% | 0.5–1.7% | 0.4–1.9% | 0.3–2.2% |
@@ -48,6 +49,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 November 2019](2019-11-14-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
