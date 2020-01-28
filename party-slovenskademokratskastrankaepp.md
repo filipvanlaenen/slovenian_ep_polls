@@ -10,9 +10,9 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.3% | 22.3–26.5% | 21.7–27.1% | 21.3–27.6% | 20.3–28.7% |
-| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 25.3% | N/A | N/A | N/A | N/A |
-| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 22.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.6% | 21.5–25.9% | 20.9–26.6% | 20.5–27.1% | 19.5–28.3% |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 25.3% | 23.3–27.5% | 22.7–28.1% | 22.2–28.6% | 21.3–29.7% |
+| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 22.9% | 21.1–25.0% | 20.6–25.6% | 20.1–26.1% | 19.2–27.1% |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 21.2% | 19.3–23.2% | 18.8–23.8% | 18.3–24.3% | 17.5–25.3% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 24.3% | 22.3–26.5% | 21.7–27.1% | 21.2–27.6% | 20.3–28.7% |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 25.1% | 23.2–27.3% | 22.6–27.9% | 22.1–28.4% | 21.2–29.5% |
@@ -36,19 +36,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.7% | 99.9% |  |
-| 20.5–21.5% | 3% | 99.3% |  |
-| 21.5–22.5% | 9% | 96% |  |
-| 22.5–23.5% | 18% | 87% |  |
-| 23.5–24.5% | 24% | 69% | Median |
-| 24.5–25.5% | 22% | 45% | Last Result |
-| 25.5–26.5% | 14% | 23% |  |
-| 26.5–27.5% | 6% | 9% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.5% | 0.6% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.5% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.5% |  |
+| 20.5–21.5% | 7% | 97% |  |
+| 21.5–22.5% | 16% | 90% |  |
+| 22.5–23.5% | 22% | 74% |  |
+| 23.5–24.5% | 22% | 52% | Median |
+| 24.5–25.5% | 16% | 30% | Last Result |
+| 25.5–26.5% | 9% | 14% |  |
+| 26.5–27.5% | 4% | 5% |  |
+| 27.5–28.5% | 1.1% | 1.4% |  |
+| 28.5–29.5% | 0.3% | 0.3% |  |
+| 29.5–30.5% | 0% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -60,9 +60,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO |  |  |  |  |  |
-| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–26 November 2019](2019-11-26-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -88,8 +88,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 31% | 100% |  |
-| 3 | 69% | 69% | Last Result, Median |
+| 2 | 54% | 100% | Median |
+| 3 | 46% | 46% | Last Result |
 | 4 | 0% | 0% |  |
 
 
