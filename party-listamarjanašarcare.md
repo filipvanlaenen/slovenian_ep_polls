@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.9% | 23.4–30.6% | 22.7–31.4% | 22.2–32.1% | 21.2–33.3% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 29.1% | 27.0–31.4% | 26.4–32.1% | 25.9–32.6% | 24.9–33.7% |
+| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 27.1% | N/A | N/A | N/A | N/A |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 24.6% | 22.7–26.7% | 22.2–27.3% | 21.7–27.8% | 20.8–28.8% |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 22.3% | 20.4–24.4% | 19.8–24.9% | 19.4–25.5% | 18.5–26.5% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 29.6% | 27.4–31.9% | 26.8–32.5% | 26.3–33.1% | 25.3–34.2% |
@@ -85,6 +86,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3 | 3 | 3 | 2–4 |
+| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal |  |  |  |  |  |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
