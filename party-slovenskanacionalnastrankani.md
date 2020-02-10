@@ -10,9 +10,11 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.9–5.0% | 2.7–5.3% | 2.5–5.6% | 2.1–6.2% |
+| N/A | [Poll Average](average.html) | 5.3% | 3.2–8.3% | 2.8–8.9% | 2.6–9.3% | 2.2–10.1% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 3.4% | 2.7–4.5% | 2.5–4.8% | 2.3–5.1% | 2.0–5.6% |
-| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 5.8% | N/A | N/A | N/A | N/A |
+| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 7.7% | 6.5–9.1% | 6.2–9.5% | 5.9–9.9% | 5.4–10.6% |
+| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 5.1% | 4.3–6.3% | 4.0–6.6% | 3.8–6.9% | 3.4–7.5% |
+| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.0% |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.8% | 2.6–6.4% |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 5.3% | 4.3–6.5% | 4.1–6.8% | 3.9–7.1% | 3.4–7.8% |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 3.6% | 2.8–4.6% | 2.6–5.0% | 2.4–5.2% | 2.1–5.8% |
@@ -38,13 +40,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 30% | 97% |  |
-| 3.5–4.5% | 45% | 66% | Last Result, Median |
-| 4.5–5.5% | 18% | 21% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 16% | 98% |  |
+| 3.5–4.5% | 19% | 82% | Last Result |
+| 4.5–5.5% | 18% | 63% | Median |
+| 5.5–6.5% | 13% | 45% |  |
+| 6.5–7.5% | 12% | 32% |  |
+| 7.5–8.5% | 12% | 20% |  |
+| 8.5–9.5% | 6% | 8% |  |
+| 9.5–10.5% | 1.4% | 2% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -55,9 +61,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
-| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal |  |  |  |  |  |
+| [3–5 February 2020](2020-02-05-Parsifal.html) | Parsifal <br> Nova 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 January–3 February 2020](2020-02-03-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
+| [27–29 January 2020](2020-01-29-Parsifal.html) | Parsifal | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–26 January 2020](2020-01-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [3–9 January 2020](2020-01-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
 | [10–12 December 2019](2019-12-12-Ninamedia.html) | Ninamedia <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
@@ -84,6 +92,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
+| 2 | 0% | 0% |  |
 
 
