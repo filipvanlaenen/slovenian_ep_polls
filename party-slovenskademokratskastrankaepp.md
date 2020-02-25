@@ -10,8 +10,8 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 23.6–27.8% | 23.0–28.4% | 22.5–29.0% | 21.6–30.0% |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 32.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.8% | 24.0–33.7% | 23.4–34.6% | 22.8–35.4% | 21.8–36.7% |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 32.8% | 30.6–35.1% | 30.0–35.7% | 29.4–36.3% | 28.4–37.4% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 25.3% | 23.3–27.5% | 22.7–28.1% | 22.2–28.6% | 21.3–29.7% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 30.8% | 28.7–33.1% | 28.1–33.8% | 27.6–34.3% | 26.6–35.4% |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 29.3% | 27.1–31.6% | 26.6–32.2% | 26.0–32.8% | 25.0–33.9% |
@@ -42,19 +42,26 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.4% | 99.9% |  |
-| 21.5–22.5% | 2% | 99.5% |  |
-| 22.5–23.5% | 7% | 97% |  |
-| 23.5–24.5% | 15% | 91% |  |
-| 24.5–25.5% | 22% | 76% | Last Result |
-| 25.5–26.5% | 23% | 54% | Median |
-| 26.5–27.5% | 17% | 30% |  |
-| 27.5–28.5% | 9% | 13% |  |
-| 28.5–29.5% | 3% | 4% |  |
-| 29.5–30.5% | 0.9% | 1.1% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 1.4% | 99.7% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 10% | 94% |  |
+| 24.5–25.5% | 15% | 84% | Last Result |
+| 25.5–26.5% | 16% | 69% |  |
+| 26.5–27.5% | 11% | 53% | Median |
+| 27.5–28.5% | 6% | 42% |  |
+| 28.5–29.5% | 3% | 36% |  |
+| 29.5–30.5% | 3% | 33% |  |
+| 30.5–31.5% | 5% | 30% |  |
+| 31.5–32.5% | 7% | 26% |  |
+| 32.5–33.5% | 7% | 19% |  |
+| 33.5–34.5% | 6% | 11% |  |
+| 34.5–35.5% | 3% | 5% |  |
+| 35.5–36.5% | 1.5% | 2% |  |
+| 36.5–37.5% | 0.5% | 0.6% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,8 +72,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–13 February 2020](2020-02-13-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -99,9 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% |  |
-| 3 | 64% | 68% | Last Result, Median |
-| 4 | 4% | 4% |  |
-| 5 | 0% | 0% | Majority |
+| 2 | 21% | 100% |  |
+| 3 | 48% | 79% | Last Result, Median |
+| 4 | 30% | 31% |  |
+| 5 | 1.0% | 1.0% | Majority |
+| 6 | 0% | 0% |  |
 
 
