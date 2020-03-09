@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.1% | 21.3–30.1% | 20.6–31.0% | 20.1–31.7% | 19.1–33.0% |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 21.8% | N/A | N/A | N/A | N/A |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 23.6% | 21.7–25.7% | 21.1–26.3% | 20.7–26.9% | 19.8–27.9% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 29.1% | 27.0–31.4% | 26.4–32.1% | 25.9–32.6% | 24.9–33.7% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 19.6% | 17.8–21.6% | 17.3–22.2% | 16.9–22.7% | 16.1–23.7% |
@@ -89,6 +90,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 3 | 3 | 3 | 3 | 2–4 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 2 | 2 | 2 | 2–3 | 2–3 |
