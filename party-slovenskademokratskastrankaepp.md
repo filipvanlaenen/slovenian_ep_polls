@@ -11,7 +11,7 @@ Last result: **24.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.8% | 24.0–33.7% | 23.4–34.6% | 22.8–35.4% | 21.8–36.7% |
-| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 31.0% | N/A | N/A | N/A | N/A |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 31.0% | 28.9–33.2% | 28.4–33.8% | 27.9–34.4% | 26.9–35.4% |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 32.8% | 30.6–35.1% | 30.0–35.7% | 29.4–36.3% | 28.4–37.4% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 25.3% | 23.3–27.5% | 22.7–28.1% | 22.2–28.6% | 21.3–29.7% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 30.8% | 28.7–33.1% | 28.1–33.8% | 27.6–34.3% | 26.6–35.4% |
@@ -74,7 +74,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 4 | 3–4 | 3–4 | 3–4 | 3–4 |

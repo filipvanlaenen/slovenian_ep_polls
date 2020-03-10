@@ -11,7 +11,7 @@ Last result: **16.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.3% | 4.8–10.4% | 4.5–11.0% | 4.2–11.5% | 3.7–12.4% |
-| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 7.9% | N/A | N/A | N/A | N/A |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 7.9% | 6.7–9.2% | 6.4–9.6% | 6.2–10.0% | 5.7–10.7% |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 5.3% | 4.3–6.5% | 4.1–6.9% | 3.9–7.2% | 3.5–7.8% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 9.7% | 8.4–11.3% | 8.0–11.8% | 7.7–12.1% | 7.1–12.9% |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 8.0% | 6.9–9.5% | 6.5–9.9% | 6.2–10.2% | 5.7–11.0% |
@@ -70,7 +70,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0–1 |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 1 | 1 | 1 | 0–1 | 0–1 |
 | [12–13 February 2020](2020-02-13-Parsifal.html) | Parsifal <br> Nova 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
