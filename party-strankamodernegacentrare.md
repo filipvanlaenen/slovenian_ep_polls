@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 0.6–4.7% | 0.5–5.1% | 0.4–5.4% | 0.3–5.9% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.6–4.2% | 0.5–4.6% | 0.4–4.9% | 0.3–5.6% |
+| [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 1.2% | 0.9–2.0% | 0.7–2.2% | 0.7–2.3% | 0.5–2.7% |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.7% | 0.4–1.3% | 0.4–1.5% | 0.3–1.7% | 0.2–2.0% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.2% |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–6.0% |
@@ -44,15 +45,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 26% | 94% |  |
-| 1.5–2.5% | 2% | 68% |  |
-| 2.5–3.5% | 18% | 66% | Median |
-| 3.5–4.5% | 34% | 48% |  |
-| 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 1.5% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 7% | 100% | Last Result |
+| 0.5–1.5% | 48% | 93% | Median |
+| 1.5–2.5% | 12% | 45% |  |
+| 2.5–3.5% | 11% | 33% |  |
+| 3.5–4.5% | 16% | 22% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.5% | 0.6% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -64,6 +64,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
