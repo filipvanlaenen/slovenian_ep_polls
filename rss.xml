@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 15 Apr 2020 18:36:55 +0200</pubDate>
+    <pubDate>Wed, 22 Apr 2020 16:49:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia-seats.png"
+        length="202022"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 16:49:30 +0200</pubDate>
+      <dc:date>2020-04-22T16:49:30.615427+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia-coalitions-seats.png"
+        length="122998"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 16:49:30 +0200</pubDate>
+      <dc:date>2020-04-22T16:49:30.615427+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 33.8–40.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.6–19.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 12.3–17.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.0–3.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.1–12.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.1–10.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.0–6.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 3.6–6.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.png"
+        length="304219"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 16:49:30 +0200</pubDate>
+      <dc:date>2020-04-22T16:49:30.615427+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 6–9 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-09-Mediana.html#seats</link>
@@ -799,6 +829,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-04-15T18:36:55.26411+02:00</dc:date>
+    <dc:date>2020-04-22T16:49:30.615427+02:00</dc:date>
   </channel>
 </rss>
