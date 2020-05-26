@@ -77,7 +77,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 0 | 0 | 0 | 0 | 0–1 |
+| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0–1 |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–8 May 2020](2020-05-08-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

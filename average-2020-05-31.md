@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
 | N/A | Poll Average | 28–38% <br> 3–4 | 5–8% <br> 0–1 | 2–4% <br> 0 | 3–8% <br> 0–1 | 9–15% <br> 1 | N/A <br> N/A | 8–14% <br> 1 | 2–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 16–26% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 1–5% <br> 0 | N/A <br> N/A |
-| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 28–34% <br> 3–4 | 5–8% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | 9–13% <br> 1 | N/A <br> N/A | 10–15% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 20–26% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
+| [18–21 May 2020](2020-05-21-Mediana.html) | Mediana <br> POPTV | 28–34% <br> 3–4 | 5–8% <br> 0–1 | N/A <br> N/A | 3–6% <br> 0 | 9–13% <br> 1 | N/A <br> N/A | 10–15% <br> 1 | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 20–26% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
 | [12–13 May 2020](2020-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 32–39% <br> 4 | 5–9% <br> 0 | 2–4% <br> 0 | 4–8% <br> 0 | 11–16% <br> 1 | N/A <br> N/A | 8–12% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 17–23% <br> 2 | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [6–8 May 2020](2020-05-08-Parsifal.html) | Parsifal <br> Nova 24TV | 27–34% <br> 3–4 | 5–8% <br> 0–1 | 2–4% <br> 0 | 5–8% <br> 0–1 | 11–15% <br> 1–2 | N/A <br> N/A | 8–12% <br> 1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 2 | N/A <br> N/A | 0–1% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
@@ -310,8 +310,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 33% | 100% | Last Result |
-| 4 | 67% | 67% | Median |
+| 3 | 28% | 100% | Last Result |
+| 4 | 72% | 72% | Median |
 | 5 | 0.1% | 0.1% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -364,7 +364,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.9% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 98.9% | 99.9% | Last Result, Median |
 | 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -384,7 +385,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.5% | 100% | Last Result |
 | 1 | 98% | 98.5% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
@@ -427,8 +428,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.8% | 100% |  |
-| 2 | 76% | 99.2% | Median |
-| 3 | 24% | 24% |  |
+| 2 | 80% | 99.2% | Median |
+| 3 | 19% | 19% |  |
 | 4 | 0% | 0% |  |
 
 ### Nova ljudska stranka Slovenije (*)
@@ -479,8 +480,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 30% | 100% |  |
-| 4 | 70% | 70% | Median |
+| 3 | 25% | 100% |  |
+| 4 | 74% | 75% | Median |
 | 5 | 0.8% | 0.8% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
@@ -491,8 +492,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% | Last Result |
-| 2 | 71% | 99.6% | Median |
-| 3 | 28% | 28% |  |
+| 2 | 76% | 99.6% | Median |
+| 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -503,7 +504,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.5% | 100% | Last Result |
 | 1 | 98% | 98.5% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -512,7 +513,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.9% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 98.9% | 99.9% | Last Result, Median |
 | 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -538,6 +540,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
-+ **Error estimate:** 2.16%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.92%
