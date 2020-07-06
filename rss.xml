@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Jul 2020 14:39:16 +0200</pubDate>
+    <pubDate>Mon, 06 Jul 2020 17:25:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 1–28 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-28-Mediana.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2020-07-03T21:06:14.276486+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 15–17 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal-seats.png"
+        length="330823"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jul 2020 17:25:09 +0200</pubDate>
+      <dc:date>2020-07-06T17:25:09.538483+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 15–17 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal-coalitions-seats.png"
+        length="182955"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jul 2020 17:25:09 +0200</pubDate>
+      <dc:date>2020-07-06T17:25:09.538483+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 15–17 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.4–36.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 15.3–21.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 10.9–15.8%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.9–2.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.6–10.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.4–3.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 4.5–7.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.9–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-17-Parsifal.png"
         length="349920"
         type="image/png"/>
-      <pubDate>Sun, 05 Jul 2020 10:49:34 +0200</pubDate>
-      <dc:date>2020-07-05T10:49:34.89814+02:00</dc:date>
+      <pubDate>Mon, 06 Jul 2020 17:25:09 +0200</pubDate>
+      <dc:date>2020-07-06T17:25:09.538483+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia-seats.png"
+        length="255339"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 20:28:58 +0200</pubDate>
+      <dc:date>2020-07-05T20:28:58.217002+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia-coalitions-seats.png"
+        length="156461"
+        type="image/png"/>
+      <pubDate>Sun, 05 Jul 2020 20:28:58 +0200</pubDate>
+      <dc:date>2020-07-05T20:28:58.217002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.png"
         length="352173"
         type="image/png"/>
-      <pubDate>Sun, 05 Jul 2020 14:39:16 +0200</pubDate>
-      <dc:date>2020-07-05T14:39:16.557563+02:00</dc:date>
+      <pubDate>Sun, 05 Jul 2020 20:28:58 +0200</pubDate>
+      <dc:date>2020-07-05T20:28:58.217002+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 18–21 May 2020 – Seat Projections for the Parties</title>
@@ -1029,6 +1069,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-07-05T14:39:16.557563+02:00</dc:date>
+    <dc:date>2020-07-06T17:25:09.538483+02:00</dc:date>
   </channel>
 </rss>
