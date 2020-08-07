@@ -10,7 +10,10 @@ Last result: **8.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.0–23.2% | 11.5–24.0% | 11.1–24.7% | 10.4–25.9% |
+| N/A | [Poll Average](average.html) | 19.0% | 15.8–23.2% | 15.1–24.0% | 14.6–24.7% | 13.7–25.9% |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 18.8% | 17.1–20.8% | 16.6–21.4% | 16.1–21.9% | 15.3–22.8% |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 17.2% | 15.5–19.2% | 15.1–19.7% | 14.7–20.2% | 13.9–21.1% |
+| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 16.5% | 14.8–18.4% | 14.4–18.9% | 14.0–19.4% | 13.2–20.3% |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 13.2% | 11.7–15.0% | 11.3–15.5% | 11.0–15.9% | 10.3–16.8% |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 13.1% | 11.6–14.9% | 11.2–15.4% | 10.9–15.8% | 10.2–16.7% |
 | [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 22.3% | 20.4–24.4% | 19.8–25.0% | 19.4–25.5% | 18.5–26.6% |
@@ -56,20 +59,20 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 5% | 99.3% |  |
-| 11.5–12.5% | 13% | 95% |  |
-| 12.5–13.5% | 21% | 81% |  |
-| 13.5–14.5% | 17% | 61% | Median |
-| 14.5–15.5% | 8% | 44% |  |
-| 15.5–16.5% | 2% | 36% |  |
-| 16.5–17.5% | 0.4% | 34% |  |
-| 17.5–18.5% | 0.2% | 33% |  |
-| 18.5–19.5% | 0.9% | 33% |  |
-| 19.5–20.5% | 3% | 32% |  |
-| 20.5–21.5% | 6% | 29% |  |
-| 21.5–22.5% | 8% | 23% |  |
-| 22.5–23.5% | 7% | 15% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 2% | 99.6% |  |
+| 14.5–15.5% | 6% | 98% |  |
+| 15.5–16.5% | 10% | 92% |  |
+| 16.5–17.5% | 13% | 82% |  |
+| 17.5–18.5% | 13% | 69% |  |
+| 18.5–19.5% | 12% | 56% | Median |
+| 19.5–20.5% | 10% | 44% |  |
+| 20.5–21.5% | 9% | 34% |  |
+| 21.5–22.5% | 9% | 24% |  |
+| 22.5–23.5% | 8% | 15% |  |
 | 23.5–24.5% | 5% | 7% |  |
 | 24.5–25.5% | 2% | 3% |  |
 | 25.5–26.5% | 0.6% | 0.8% |  |
@@ -85,7 +88,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 2 | 2 | 1–2 |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–11 June 2020](2020-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -131,8 +137,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 63% | 100% | Last Result, Median |
-| 2 | 35% | 37% |  |
+| 1 | 6% | 100% | Last Result |
+| 2 | 91% | 94% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
