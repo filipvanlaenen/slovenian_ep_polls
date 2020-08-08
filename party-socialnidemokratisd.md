@@ -88,8 +88,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 2 | 2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 2 | 2 | 2–3 |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -139,7 +139,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% | Last Result |
 | 2 | 91% | 94% | Median |
-| 3 | 2% | 2% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 

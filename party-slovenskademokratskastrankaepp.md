@@ -88,7 +88,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 3 | 3 | 3 | 3 | 2–4 |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 3 | 3 | 3 | 3–4 | 2–4 |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 3 | 3 | 3 | 3–4 | 2–4 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POPTV | 3 | 3 | 3 | 3–4 | 2–4 |
