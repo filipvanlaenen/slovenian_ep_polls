@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Aug 2020 19:55:23 +0200</pubDate>
+    <pubDate>Sat, 08 Aug 2020 18:10:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-seats.png"
+        length="235358"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 18:10:05 +0200</pubDate>
+      <dc:date>2020-08-08T18:10:05.366001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-coalitions-seats.png"
+        length="131720"
+        type="image/png"/>
+      <pubDate>Sat, 08 Aug 2020 18:10:05 +0200</pubDate>
+      <dc:date>2020-08-08T18:10:05.366001+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.png"
         length="359516"
         type="image/png"/>
-      <pubDate>Fri, 07 Aug 2020 14:26:31 +0200</pubDate>
-      <dc:date>2020-08-07T14:26:31.982898+02:00</dc:date>
+      <pubDate>Sat, 08 Aug 2020 18:10:05 +0200</pubDate>
+      <dc:date>2020-08-08T18:10:05.366001+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 6–9 July 2020 – Seat Projections for the Parties</title>
@@ -1139,6 +1159,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-08-07T19:55:23.456605+02:00</dc:date>
+    <dc:date>2020-08-08T18:10:05.366001+02:00</dc:date>
   </channel>
 </rss>
