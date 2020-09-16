@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Aug 2020 19:51:31 +0200</pubDate>
+    <pubDate>Wed, 16 Sep 2020 16:50:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 7–10 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana-seats.png"
+        length="277664"
+        type="image/png"/>
+      <pubDate>Wed, 16 Sep 2020 16:50:59 +0200</pubDate>
+      <dc:date>2020-09-16T16:50:59.232091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 7–10 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana-coalitions-seats.png"
+        length="171531"
+        type="image/png"/>
+      <pubDate>Wed, 16 Sep 2020 16:50:59 +0200</pubDate>
+      <dc:date>2020-09-16T16:50:59.232091+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 7–10 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.5–34.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 10.7–15.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 13.5–18.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.7–4.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.0–12.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.8–7.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.1–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-10-Mediana.png"
+        length="352060"
+        type="image/png"/>
+      <pubDate>Wed, 16 Sep 2020 16:50:59 +0200</pubDate>
+      <dc:date>2020-09-16T16:50:59.232091+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POPTV, 1–31 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-31-Mediana.html#seats</link>
@@ -1269,6 +1299,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-08-25T19:51:31.624985+02:00</dc:date>
+    <dc:date>2020-09-16T16:50:59.232091+02:00</dc:date>
   </channel>
 </rss>
