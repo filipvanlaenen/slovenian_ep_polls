@@ -317,7 +317,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
 | 3 | 63% | 96% | Last Result, Median |
-| 4 | 32% | 33% |  |
+| 4 | 33% | 33% |  |
 | 5 | 0.6% | 0.6% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -335,8 +335,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Median |
-| 1 | 48% | 48% | Last Result |
+| 0 | 54% | 100% | Median |
+| 1 | 46% | 46% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Slovenska ljudska stranka (EPP)
@@ -370,8 +370,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% | Last Result |
-| 2 | 68% | 68% | Median |
+| 1 | 38% | 100% | Last Result |
+| 2 | 62% | 62% | Median |
 | 3 | 0% | 0% |  |
 
 ### Pozitivna Slovenija (*)
@@ -431,8 +431,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 64% | 64% | Median |
+| 1 | 29% | 100% |  |
+| 2 | 71% | 71% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -485,8 +485,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 23% | 99.9% | Median |
-| 4 | 76% | 77% |  |
+| 3 | 25% | 99.9% | Median |
+| 4 | 74% | 75% |  |
 | 5 | 0.7% | 0.7% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
@@ -496,8 +496,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% | Last Result |
-| 2 | 64% | 64% | Median |
+| 1 | 28% | 100% | Last Result |
+| 2 | 71% | 72% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -507,8 +507,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 32% | 100% | Last Result |
-| 2 | 68% | 68% | Median |
+| 1 | 38% | 100% | Last Result |
+| 2 | 62% | 62% | Median |
 | 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -543,6 +543,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 2.73%
