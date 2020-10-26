@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-10-20T20:44:40.270948+02:00</updated>
+  <updated>2020-10-26T13:33:19.127878+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 26.0–32.8%, 2–3 seats</li><li>Lista Marjana Šarca (RE): 15.6–21.3%, 1–2 seats</li><li>Socialni demokrati (S&amp;D): 15.2–20.9%, 1–2 seats</li><li>Stranka modernega centra (RE): 0.6–2.2%, 0 seats</li><li>Levica (GUE/NGL): 9.0–13.7%, 1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 6.7–10.9%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 3.3–6.4%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije (RE): 1.0–3.0%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 1.9–4.4%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 2.1–4.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 October 2020</title>
     <updated>2020-10-20T20:44:40.270948+02:00</updated>
     <dc:date>2020-10-20T20:44:40.270948+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 26.1–32.8%, 3–4 seats</li><li>Lista Marjana Šarca (RE): 13.8–19.2%, 1–2 seats</li><li>Socialni demokrati (S&amp;D): 12.2–17.4%, 1–2 seats</li><li>Stranka modernega centra (RE): 0.6–2.2%, 0 seats</li><li>Levica (GUE/NGL): 10.1–15.0%, 1–2 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 3.2–6.3%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije (RE): 3.1–6.1%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 1.2–3.3%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 1.4–3.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-08-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-08-Mediana.html"/>
+    <title>Opinion Poll by Mediana for POP TV, 1–8 October 2020</title>
+    <updated>2020-10-26T13:33:19.127878+01:00</updated>
+    <dc:date>2020-10-26T13:33:19.127878+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 23.4–29.9%, 2–3 seats</li><li>Lista Marjana Šarca (RE): 16.2–22.0%, 1–2 seats</li><li>Socialni demokrati (S&amp;D): 12.8–18.1%, 1–2 seats</li><li>Stranka modernega centra (RE): 0.2–1.4%, 0 seats</li><li>Levica (GUE/NGL): 7.7–12.1%, 0–1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 6.8–11.0%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 2.6–5.5%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije (RE): 0.9–2.7%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 3.7–6.9%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 1.8–4.3%, 0 seats</li></ul></div></content>
@@ -383,5 +391,5 @@
     <updated>2019-06-30T12:23:33.823835+02:00</updated>
     <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-20T20:44:40.270948+02:00</dc:date>
+  <dc:date>2020-10-26T13:33:19.127878+01:00</dc:date>
 </feed>
