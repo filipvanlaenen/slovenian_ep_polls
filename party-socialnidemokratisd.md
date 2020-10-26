@@ -10,8 +10,9 @@ Last result: **8.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 14.6–19.4% | 14.0–20.0% | 13.5–20.5% | 12.6–21.5% |
+| N/A | [Poll Average](average.html) | 17.0% | 14.0–19.4% | 13.3–20.0% | 12.8–20.5% | 12.0–21.5% |
 | [13–15 October 2020](2020-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 17.9% | 16.1–19.8% | 15.6–20.4% | 15.2–20.9% | 14.4–21.8% |
+| [1–8 October 2020](2020-10-08-Mediana.html) | Mediana <br> POP TV | 14.6% | 13.0–16.4% | 12.6–16.9% | 12.2–17.4% | 11.5–18.3% |
 | [1–27 September 2020](2020-09-27-Mediana.html) | Mediana <br> POP TV | 15.3% | 13.7–17.1% | 13.2–17.7% | 12.8–18.1% | 12.1–19.0% |
 | [1 June–18 September 2020](2020-09-18-Parsifal.html) | Parsifal <br> Nova 24TV | 17.7% | 15.9–19.6% | 15.5–20.2% | 15.0–20.7% | 14.2–21.7% |
 | [15–17 September 2020](2020-09-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20.7% | 18.9–22.8% | 18.3–23.4% | 17.9–23.9% | 17.0–24.9% |
@@ -68,14 +69,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 2% | 99.5% |  |
-| 13.5–14.5% | 7% | 97% |  |
-| 14.5–15.5% | 12% | 90% |  |
-| 15.5–16.5% | 17% | 78% |  |
-| 16.5–17.5% | 20% | 61% | Median |
-| 17.5–18.5% | 19% | 41% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 1.4% | 99.8% |  |
+| 12.5–13.5% | 5% | 98% |  |
+| 13.5–14.5% | 10% | 94% |  |
+| 14.5–15.5% | 12% | 84% |  |
+| 15.5–16.5% | 15% | 72% |  |
+| 16.5–17.5% | 18% | 57% | Median |
+| 17.5–18.5% | 18% | 39% |  |
 | 18.5–19.5% | 13% | 21% |  |
 | 19.5–20.5% | 6% | 8% |  |
 | 20.5–21.5% | 2% | 2% |  |
@@ -94,6 +95,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 October 2020](2020-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–8 October 2020](2020-10-08-Mediana.html) | Mediana <br> POP TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–27 September 2020](2020-09-27-Mediana.html) | Mediana <br> POP TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1 June–18 September 2020](2020-09-18-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [15–17 September 2020](2020-09-17-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -149,8 +151,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% | Last Result |
-| 2 | 62% | 62% | Median |
+| 1 | 37% | 100% | Last Result |
+| 2 | 63% | 63% | Median |
 | 3 | 0% | 0% |  |
 
 
