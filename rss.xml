@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Nov 2020 15:12:21 +0100</pubDate>
+    <pubDate>Wed, 25 Nov 2020 17:07:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana-seats.png"
+        length="338046"
+        type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 17:07:49 +0100</pubDate>
+      <dc:date>2020-11-25T17:07:49.162495+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana-coalitions-seats.png"
+        length="194557"
+        type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 17:07:49 +0100</pubDate>
+      <dc:date>2020-11-25T17:07:49.162495+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–25 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 21.7–28.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.6–19.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 13.9–19.4%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 10.8–15.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.9–8.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.9–4.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 4.3–7.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.7–5.6%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.3–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-25-Mediana.png"
+        length="364488"
+        type="image/png"/>
+      <pubDate>Wed, 25 Nov 2020 17:07:49 +0100</pubDate>
+      <dc:date>2020-11-25T17:07:49.162495+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia.html#seats</link>
@@ -1569,6 +1599,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-11-22T15:12:21.170161+01:00</dc:date>
+    <dc:date>2020-11-25T17:07:49.162495+01:00</dc:date>
   </channel>
 </rss>
