@@ -11,10 +11,10 @@ Last result: **8.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.2% | 4.7–9.3% | 4.4–9.9% | 4.2–10.3% | 3.7–11.2% |
-| [15 December 2020](2020-12-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 5.4% | 4.5–6.7% | 4.2–7.1% | 4.0–7.4% | 3.6–8.0% |
+| [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 5.4% | 4.5–6.7% | 4.2–7.1% | 4.0–7.4% | 3.6–8.0% |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 8.7% | 7.5–10.2% | 7.1–10.6% | 6.8–10.9% | 6.3–11.7% |
 | [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 5.6% | 4.6–6.9% | 4.4–7.3% | 4.2–7.6% | 3.7–8.2% |
-| [1–25 November 2020](2020-11-25-Mediana.html) | Mediana <br> POP TV | 5.8% | 4.8–7.1% | 4.5–7.4% | 4.3–7.7% | 3.9–8.4% |
+| [1–23 November 2020](2020-11-23-Mediana.html) | Mediana <br> POP TV | 5.8% | 4.8–7.1% | 4.5–7.4% | 4.3–7.7% | 3.9–8.4% |
 | [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 3.6% | 2.8–4.6% | 2.6–5.0% | 2.4–5.2% | 2.1–5.8% |
 | [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 5.6% | 4.6–6.8% | 4.3–7.2% | 4.1–7.5% | 3.7–8.1% |
 | [2–4 November 2020](2020-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 7.1% | 6.0–8.5% | 5.7–8.9% | 5.4–9.3% | 4.9–10.0% |
@@ -97,10 +97,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15 December 2020](2020-12-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–9 December 2020](2020-12-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–25 November 2020](2020-11-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–23 November 2020](2020-11-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–12 November 2020](2020-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [2–5 November 2020](2020-11-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
 | [2–4 November 2020](2020-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
