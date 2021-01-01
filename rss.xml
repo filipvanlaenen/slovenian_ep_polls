@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 27 Dec 2020 23:55:31 +0100</pubDate>
+    <pubDate>Fri, 01 Jan 2021 12:44:05 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CRJM for Delo, 1–30 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM-seats.png"
+        length="313837"
+        type="image/png"/>
+      <pubDate>Fri, 01 Jan 2021 12:44:05 +0100</pubDate>
+      <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CRJM for Delo, 1–30 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM-coalitions-seats.png"
+        length="174140"
+        type="image/png"/>
+      <pubDate>Fri, 01 Jan 2021 12:44:05 +0100</pubDate>
+      <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CRJM for Delo, 1–30 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 19.8–25.1%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 18.0–23.2%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 15.0–19.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 11.2–15.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.8–7.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 6.0–9.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.9–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.png"
+        length="363843"
+        type="image/png"/>
+      <pubDate>Fri, 01 Jan 2021 12:44:05 +0100</pubDate>
+      <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-17-Ninamedia.html#seats</link>
@@ -1689,6 +1719,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2020-12-27T23:55:31.642367+01:00</dc:date>
+    <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
   </channel>
 </rss>
