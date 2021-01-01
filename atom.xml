@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-12-27T23:55:31.642367+01:00</updated>
+  <updated>2021-01-01T12:44:05.593516+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 19.8–25.1%, 2–3 seats</li><li>Lista Marjana Šarca (RE): 18.0–23.2%, 2–3 seats</li><li>Socialni demokrati (S&amp;D): 15.0–19.9%, 1–2 seats</li><li>Stranka modernega centra (RE): 0.9–2.5%, 0 seats</li><li>Levica (GUE/NGL): 11.2–15.5%, 1–2 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 4.8–7.9%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 1.2–3.0%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije (RE): 6.0–9.4%, 0–1 seats</li><li>Slovenska nacionalna stranka (NI): 2.5–4.8%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 0.9–2.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-30-CRJM.html"/>
+    <title>Opinion Poll by CRJM for Delo, 1–30 December 2020</title>
+    <updated>2021-01-01T12:44:05.593516+01:00</updated>
+    <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 27.0–33.8%, 3–4 seats</li><li>Lista Marjana Šarca (RE): 14.5–20.1%, 1–2 seats</li><li>Socialni demokrati (S&amp;D): 14.8–20.4%, 1–2 seats</li><li>Stranka modernega centra (RE): 0.0–0.8%, 0 seats</li><li>Levica (GUE/NGL): 11.1–16.2%, 1–2 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 4.1–7.5%, 0 seats</li><li>Stranka Alenke Bratušek (RE): 3.0–6.1%, 0 seats</li><li>Demokratična stranka upokojencev Slovenije (RE): 4.0–7.4%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 1.9–4.4%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 2.1–4.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-17-Ninamedia.html</id>
@@ -455,5 +463,5 @@
     <updated>2019-06-30T12:23:33.823835+02:00</updated>
     <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
   </entry>
-  <dc:date>2020-12-27T23:55:31.642367+01:00</dc:date>
+  <dc:date>2021-01-01T12:44:05.593516+01:00</dc:date>
 </feed>
