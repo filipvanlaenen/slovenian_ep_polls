@@ -10,7 +10,8 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 0.7–4.3% | 0.5–4.6% | 0.4–4.9% | 0.3–5.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 0.7–4.1% | 0.5–4.4% | 0.4–4.6% | 0.3–5.2% |
+| [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.2–4.9% | 1.9–5.4% |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 3.5% | 2.8–4.4% | 2.6–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.4% | 1.6–4.9% |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 0.7% | 0.4–1.3% | 0.4–1.4% | 0.3–1.6% | 0.2–1.9% |
@@ -77,11 +78,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 5% | 100% |  |
 | 0.5–1.5% | 19% | 95% |  |
-| 1.5–2.5% | 9% | 76% |  |
-| 2.5–3.5% | 35% | 67% | Median |
-| 3.5–4.5% | 27% | 32% | Last Result |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 10% | 76% |  |
+| 2.5–3.5% | 39% | 65% | Median |
+| 3.5–4.5% | 23% | 26% | Last Result |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -94,6 +95,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [7–9 December 2020](2020-12-09-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
