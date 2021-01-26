@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 13 Jan 2021 07:30:17 +0100</pubDate>
+    <pubDate>Tue, 26 Jan 2021 19:10:06 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 8–25 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-25-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.0–29.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 11.3–16.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 11.6–16.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.4–3.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.6–13.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–10.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.8–8.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.7–5.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.5–5.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-25-Mediana.png"
+        length="361425"
+        type="image/png"/>
+      <pubDate>Tue, 26 Jan 2021 19:10:06 +0100</pubDate>
+      <dc:date>2021-01-26T19:10:06.371376+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 4–7 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-07-Mediana.html#seats</link>
@@ -1749,6 +1759,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2021-01-13T07:30:17.484534+01:00</dc:date>
+    <dc:date>2021-01-26T19:10:06.371376+01:00</dc:date>
   </channel>
 </rss>
