@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 1.9–6.7% | 1.6–7.2% | 1.4–7.7% | 1.2–8.5% |
+| N/A | [Poll Average](average.html) | 3.7% | 1.8–6.7% | 1.6–7.2% | 1.4–7.7% | 1.2–8.5% |
+| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.4% | 1.6–4.9% |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 6.3% | 5.3–7.7% | 5.0–8.0% | 4.8–8.4% | 4.3–9.1% |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.4% | 3.6–5.6% | 3.3–5.9% | 3.1–6.2% | 2.8–6.8% |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 5.3% | 4.3–6.5% | 4.1–6.9% | 3.8–7.2% | 3.4–7.8% |
@@ -82,11 +83,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 19% | 96% |  |
-| 2.5–3.5% | 14% | 77% |  |
-| 3.5–4.5% | 23% | 64% | Median |
-| 4.5–5.5% | 16% | 40% |  |
-| 5.5–6.5% | 13% | 24% |  |
+| 1.5–2.5% | 24% | 96% |  |
+| 2.5–3.5% | 19% | 72% |  |
+| 3.5–4.5% | 15% | 52% | Median |
+| 4.5–5.5% | 13% | 37% |  |
+| 5.5–6.5% | 12% | 24% |  |
 | 6.5–7.5% | 8% | 11% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.4% | 0.4% |  |
@@ -102,6 +103,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
