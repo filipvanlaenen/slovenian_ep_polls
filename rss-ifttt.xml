@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 25–28 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Parsifal for Nova 24TV, 25–28 January 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.png" length="347304" type="image/png"/>
+      <pubDate>Thu, 4 Feb 2021 18:34:22 +0100</pubDate>
+      <dc:date>2021-02-04T18:34:22.608792+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Mediana for Delo, 8–25 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-25-Mediana.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for Delo, 8–25 January 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-25-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-25-Mediana-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-12-09-Parsifal.png" length="357368" type="image/png"/>
       <pubDate>Tue, 22 Dec 2020 10:05:48 +0100</pubDate>
       <dc:date>2020-12-22T10:05:48.194278+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–23 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for POP TV, 1–23 November 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana-seating-plan.png" length="394124" type="image/png"/>
-      <pubDate>Sun, 27 Dec 2020 23:55:31 +0100</pubDate>
-      <dc:date>2020-12-27T23:55:31.642367+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–23 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for POP TV, 1–23 November 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana-seats.png" length="338029" type="image/png"/>
-      <pubDate>Sun, 27 Dec 2020 23:55:31 +0100</pubDate>
-      <dc:date>2020-12-27T23:55:31.642367+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–23 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Mediana for POP TV, 1–23 November 2020<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-23-Mediana.png" length="364613" type="image/png"/>
-      <pubDate>Sun, 27 Dec 2020 23:55:31 +0100</pubDate>
-      <dc:date>2020-12-27T23:55:31.642367+01:00</dc:date>
     </item>
   </channel>
 </rss>
