@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Feb 2021 18:34:22 +0100</pubDate>
+    <pubDate>Thu, 04 Feb 2021 20:49:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 25–28 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal-seats.png"
+        length="259681"
+        type="image/png"/>
+      <pubDate>Thu, 04 Feb 2021 20:49:14 +0100</pubDate>
+      <dc:date>2021-02-04T20:49:14.971899+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 25–28 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal-coalitions-seats.png"
+        length="158852"
+        type="image/png"/>
+      <pubDate>Thu, 04 Feb 2021 20:49:14 +0100</pubDate>
+      <dc:date>2021-02-04T20:49:14.971899+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 25–28 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-01-28-Parsifal.png"
         length="347304"
         type="image/png"/>
-      <pubDate>Thu, 04 Feb 2021 18:34:22 +0100</pubDate>
-      <dc:date>2021-02-04T18:34:22.608792+01:00</dc:date>
+      <pubDate>Thu, 04 Feb 2021 20:49:14 +0100</pubDate>
+      <dc:date>2021-02-04T20:49:14.971899+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 8–25 January 2021 – Seat Projections for the Parties</title>
@@ -1879,6 +1899,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2021-02-04T18:34:22.608792+01:00</dc:date>
+    <dc:date>2021-02-04T20:49:14.971899+01:00</dc:date>
   </channel>
 </rss>
