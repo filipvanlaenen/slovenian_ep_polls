@@ -2,15 +2,15 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB | SDS–SLS |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
-| N/A | [Poll Average](average.html) | 21–39% <br> 2–5 | 5–9% <br> 0–1 | 1–5% <br> 0 | 2–9% <br> 0–1 | 11–22% <br> 1–2 | N/A <br> N/A | 11–18% <br> 1–2 | 1–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–22% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 1–7% <br> 0 | N/A <br> N/A |
-| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 23–30% <br> 3 | 5–9% <br> 0–1 | 2–5% <br> 0 | 3–7% <br> 0 | 18–24% <br> 2–3 | N/A <br> N/A | 11–16% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–19% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–7% <br> 0 | N/A <br> N/A |
-| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 24–30% <br> 2–3 | 6–9% <br> 0–1 | 1–2% <br> 0 | 2–5% <br> 0 | 12–18% <br> 1–2 | N/A <br> N/A | 13–18% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–14% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
-| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 33–40% <br> 4–5 | 4–8% <br> 0–1 | 3–6% <br> 0 | 4–8% <br> 0–1 | 10–15% <br> 1–2 | N/A <br> N/A | 10–15% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
-| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 20–25% <br> 2–3 | 5–8% <br> 0–1 | 1–2% <br> 0 | 6–9% <br> 0–1 | 15–20% <br> 1–2 | N/A <br> N/A | 11–16% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
-| 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 |
+| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB | SDS–SLS | PSS | DD | AČZS |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–39% <br> 2–5 | 5–9% <br> 0–1 | 1–5% <br> 0 | 2–9% <br> 0–1 | 11–22% <br> 1–2 | N/A <br> N/A | 11–18% <br> 1–2 | 1–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–22% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 1–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 February 2021](2021-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 23–30% <br> 3 | 5–9% <br> 0–1 | 2–5% <br> 0 | 3–7% <br> 0 | 18–24% <br> 2–3 | N/A <br> N/A | 11–16% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–19% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 February 2021](2021-02-11-Mediana.html) | Mediana <br> Delo | 24–30% <br> 2–3 | 6–9% <br> 0–1 | 1–2% <br> 0 | 2–5% <br> 0 | 12–18% <br> 1–2 | N/A <br> N/A | 13–18% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–14% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–28 January 2021](2021-01-28-Parsifal.html) | Parsifal <br> Nova 24TV | 33–40% <br> 4–5 | 4–8% <br> 0–1 | 3–6% <br> 0 | 4–8% <br> 0–1 | 10–15% <br> 1–2 | N/A <br> N/A | 10–15% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 20–25% <br> 2–3 | 5–8% <br> 0–1 | 1–2% <br> 0 | 6–9% <br> 0–1 | 15–20% <br> 1–2 | N/A <br> N/A | 11–16% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -33,6 +33,9 @@ Only polls for which at least the sample size has been published are included in
 + **SMC:** Stranka modernega centra (RE)
 + **PAB:** Stranka Alenke Bratušek (RE)
 + **SDS–SLS:** Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
++ **PSS:** Piratska stranka Slovenije (Greens/EFA)
++ **DD:** Dobra država (*)
++ **AČZS:** Andrej Čuš in Zeleni Slovenije (Greens/EFA)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
