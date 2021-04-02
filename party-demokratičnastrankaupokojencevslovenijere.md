@@ -110,7 +110,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [9–11 March 2021](2021-03-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
@@ -122,7 +122,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
-| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–28 December 2020](2020-12-28-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 1 | 1 | 1 | 1 | 0–1 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
@@ -190,8 +190,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Median |
-| 1 | 15% | 15% | Last Result |
+| 0 | 90% | 100% | Median |
+| 1 | 10% | 10% | Last Result |
 | 2 | 0% | 0% |  |
 
 
