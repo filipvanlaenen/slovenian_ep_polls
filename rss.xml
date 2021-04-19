@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 02 Apr 2021 12:30:32 +0200</pubDate>
+    <pubDate>Mon, 19 Apr 2021 19:39:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 12–14 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal-seats.png"
+        length="338576"
+        type="image/png"/>
+      <pubDate>Mon, 19 Apr 2021 19:39:40 +0200</pubDate>
+      <dc:date>2021-04-19T19:39:40.782854+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 12–14 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal-coalitions-seats.png"
+        length="222590"
+        type="image/png"/>
+      <pubDate>Mon, 19 Apr 2021 19:39:40 +0200</pubDate>
+      <dc:date>2021-04-19T19:39:40.782854+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Parsifal for Nova 24TV, 12–14 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 28.0–34.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 14.4–19.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 15.2–20.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.0–12.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.9–8.4%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.9–5.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.6–3.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.9–5.7%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-14-Parsifal.png"
+        length="396474"
+        type="image/png"/>
+      <pubDate>Mon, 19 Apr 2021 19:39:40 +0200</pubDate>
+      <dc:date>2021-04-19T19:39:40.782854+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–28 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-28-Mediana.html#seats</link>
@@ -2089,6 +2119,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2021-04-02T12:30:32.51785+02:00</dc:date>
+    <dc:date>2021-04-19T19:39:40.782854+02:00</dc:date>
   </channel>
 </rss>
