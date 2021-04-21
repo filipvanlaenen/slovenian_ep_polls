@@ -11,6 +11,7 @@ Last result: **16.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.7% | 5.5–7.9% | 5.2–8.3% | 5.0–8.6% | 4.5–9.3% |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 11.6% | N/A | N/A | N/A | N/A |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 6.4% | 5.4–7.7% | 5.1–8.1% | 4.9–8.4% | 4.5–9.1% |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 6.7% | 5.7–8.1% | 5.4–8.5% | 5.1–8.8% | 4.6–9.5% |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 7.3% | 6.1–8.7% | 5.8–9.1% | 5.6–9.4% | 5.1–10.1% |
@@ -90,8 +91,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 10% | 99.4% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 10% | 99.5% |  |
 | 5.5–6.5% | 35% | 90% |  |
 | 6.5–7.5% | 36% | 54% | Median |
 | 7.5–8.5% | 15% | 18% |  |
@@ -115,6 +116,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0–1 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

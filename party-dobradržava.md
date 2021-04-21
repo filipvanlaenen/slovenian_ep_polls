@@ -11,6 +11,7 @@ Last result: **0.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.2–3.3% | 0.1–3.6% | 0.1–3.9% | 0.1–4.4% |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 0.3% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.6% | 1.9–3.9% | 1.7–4.1% | 1.4–4.6% |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 1.8% | 1.3–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.6% |
@@ -107,6 +108,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
 | [1–28 March 2021](2021-03-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2021](2021-03-12-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
