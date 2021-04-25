@@ -129,7 +129,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [8–25 January 2021](2021-01-25-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 January 2021](2021-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 January 2021](2021-01-07-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–30 December 2020](2020-12-30-CRJM.html) | CRJM <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–28 December 2020](2020-12-28-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–23 December 2020](2020-12-23-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2020](2020-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0–1 |
