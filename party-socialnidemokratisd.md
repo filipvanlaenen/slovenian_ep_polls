@@ -10,7 +10,11 @@ Last result: **8.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.2% | 15.7–21.5% | 15.2–22.2% | 14.7–22.9% | 13.8–24.1% |
+| N/A | [Poll Average](average.html) | 17.7% | 14.3–21.7% | 13.6–22.5% | 13.1–23.2% | 12.2–24.4% |
+| [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 14.9% | 13.3–16.8% | 12.9–17.3% | 12.5–17.7% | 11.8–18.6% |
+| [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV | 17.6% | 15.9–19.6% | 15.4–20.1% | 15.0–20.6% | 14.2–21.5% |
+| [11–13 May 2021](2021-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20.9% | 19.0–22.9% | 18.5–23.5% | 18.0–24.0% | 17.1–25.0% |
+| [3–6 May 2021](2021-05-06-Mediana.html) | Mediana <br> Delo | 18.7% | 16.9–20.7% | 16.4–21.2% | 16.0–21.7% | 15.2–22.7% |
 | [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 16.7% | 15.0–18.6% | 14.5–19.1% | 14.1–19.6% | 13.3–20.5% |
 | [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 20.6% | 18.7–22.6% | 18.2–23.2% | 17.7–23.7% | 16.9–24.7% |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 17.7% | 16.0–19.6% | 15.6–20.1% | 15.2–20.6% | 14.4–21.5% |
@@ -94,22 +98,23 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% | Last Result |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 6% | 98% |  |
-| 15.5–16.5% | 13% | 92% |  |
-| 16.5–17.5% | 18% | 79% |  |
-| 17.5–18.5% | 17% | 61% | Median |
-| 18.5–19.5% | 14% | 44% |  |
-| 19.5–20.5% | 11% | 30% |  |
-| 20.5–21.5% | 9% | 18% |  |
-| 21.5–22.5% | 6% | 9% |  |
-| 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.8% | 1.1% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 4% | 99.1% |  |
+| 13.5–14.5% | 8% | 95% |  |
+| 14.5–15.5% | 11% | 87% |  |
+| 15.5–16.5% | 12% | 76% |  |
+| 16.5–17.5% | 12% | 64% |  |
+| 17.5–18.5% | 11% | 52% | Median |
+| 18.5–19.5% | 10% | 41% |  |
+| 19.5–20.5% | 10% | 31% |  |
+| 20.5–21.5% | 9% | 21% |  |
+| 21.5–22.5% | 7% | 11% |  |
+| 22.5–23.5% | 3% | 5% |  |
+| 23.5–24.5% | 1.2% | 2% |  |
+| 24.5–25.5% | 0.3% | 0.4% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,7 +125,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–23 May 2021](2021-05-23-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–13 May 2021](2021-05-13-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 2 | 2 | 1–2 | 1–2 |
+| [11–13 May 2021](2021-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 2 | 2 | 2 | 2 |
+| [3–6 May 2021](2021-05-06-Mediana.html) | Mediana <br> Delo | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–25 April 2021](2021-04-25-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 April 2021](2021-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 2 | 2 | 2 | 1–2 |
 | [12–14 April 2021](2021-04-14-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -203,8 +212,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 7% | 100% | Last Result |
-| 2 | 93% | 93% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 12% | 100% | Last Result |
+| 2 | 88% | 88% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 
