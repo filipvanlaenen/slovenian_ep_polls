@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 87% | 100% | Median |
-| 3 | 13% | 13% | Last Result |
+| 2 | 86% | 100% | Median |
+| 3 | 14% | 14% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Lista Marjana Šarca (RE)
@@ -61,9 +61,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 95% | 99.5% | Median |
-| 3 | 4% | 4% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 97% | 99.7% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Piratska stranka Slovenije (Greens/EFA)
@@ -187,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 566
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.07%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.54%
 
