@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 11.2–22.8% | 10.5–23.8% | 10.0–24.6% | 9.2–26.0% |
+| N/A | [Poll Average](average.html) | 15.2% | 11.8–22.8% | 11.1–23.8% | 10.6–24.6% | 9.8–26.0% |
+| [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 12.0% | 10.6–13.7% | 10.2–14.2% | 9.9–14.6% | 9.2–15.5% |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.6% | 13.0–16.4% | 12.5–16.9% | 12.1–17.4% | 11.4–18.3% |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 11.4% | 10.0–13.1% | 9.6–13.5% | 9.3–14.0% | 8.6–14.8% |
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 12.7% | 11.2–14.4% | 10.8–14.9% | 10.4–15.3% | 9.7–16.2% |
@@ -110,13 +111,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 1.0% | 99.9% |  |
-| 9.5–10.5% | 4% | 98.9% |  |
-| 10.5–11.5% | 8% | 95% |  |
-| 11.5–12.5% | 8% | 87% |  |
-| 12.5–13.5% | 8% | 78% |  |
-| 13.5–14.5% | 11% | 70% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 2% | 99.7% |  |
+| 10.5–11.5% | 6% | 98% |  |
+| 11.5–12.5% | 9% | 92% |  |
+| 12.5–13.5% | 11% | 83% |  |
+| 13.5–14.5% | 13% | 72% |  |
 | 14.5–15.5% | 14% | 59% | Median |
 | 15.5–16.5% | 11% | 45% |  |
 | 16.5–17.5% | 6% | 34% |  |
@@ -143,6 +144,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 1–2 |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 1–2 |
 | [1–28 June 2021](2021-06-28-Mediana.html) | Mediana <br> POP TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
