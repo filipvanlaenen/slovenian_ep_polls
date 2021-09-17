@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 15 Sep 2021 08:08:29 +0200</pubDate>
+    <pubDate>Thu, 16 Sep 2021 21:37:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Parsifal for Nova 24TV, 30 August–2 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-09-02-Parsifal.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-09-02-Parsifal.png"
         length="389934"
         type="image/png"/>
-      <pubDate>Wed, 15 Sep 2021 08:08:29 +0200</pubDate>
-      <dc:date>2021-09-15T08:08:29.522243+02:00</dc:date>
+      <pubDate>Thu, 16 Sep 2021 21:37:15 +0200</pubDate>
+      <dc:date>2021-09-16T21:37:15.331125+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 1–22 August 2021 – Seat Projections for the Parties</title>
@@ -2659,6 +2659,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33.823835+02:00</dc:date>
     </item>
-    <dc:date>2021-09-15T08:08:29.522243+02:00</dc:date>
+    <dc:date>2021-09-16T21:37:15.331125+02:00</dc:date>
   </channel>
 </rss>
