@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | PAB | SDS–SLS | PSS | DD | AČZS |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 |
-| N/A | Poll Average | 21–33% <br> 2–4 | 3–10% <br> 0–1 | 0–4% <br> 0 | 1–5% <br> 0 | 14–23% <br> 1–2 | N/A <br> N/A | 11–16% <br> 1–2 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–16% <br> 1 | N/A <br> N/A | 0–3% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 1–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
-| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 25–31% <br> 3 | 6–10% <br> 0–1 | 1–4% <br> 0 | 1–3% <br> 0 | 17–23% <br> 2 | N/A <br> N/A | 12–17% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 0–2% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 21–33% <br> 2–4 | 3–10% <br> 0–1 | 0–4% <br> 0 | 1–5% <br> 0 | 14–23% <br> 1–2 | N/A <br> N/A | 11–16% <br> 1–2 | 2–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–16% <br> 1–2 | N/A <br> N/A | 0–3% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 1–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 25–31% <br> 3–4 | 6–10% <br> 0–1 | 1–4% <br> 0 | 1–3% <br> 0 | 17–23% <br> 2–3 | N/A <br> N/A | 12–17% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 0–2% <br> 0 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 27–34% <br> 3–4 | 5–9% <br> 0–1 | 0–2% <br> 0 | 2–5% <br> 0 | 15–20% <br> 1–2 | N/A <br> N/A | 11–15% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–13% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 20–26% <br> 2–3 | 3–6% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | 14–19% <br> 1–2 | N/A <br> N/A | 11–15% <br> 1–2 | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–14% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | 1–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 |
@@ -351,7 +351,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#dobra-država-(*)">Dobra država (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije-(*)">Glas za otroke in družine–Nova ljudska stranka Slovenije (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0 | 1 | 1 |1 | 1 | 1–2 |
+| <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0 | 1 | 1 |1 | 1–2 | 1–2 |
 | <a href="#nova-ljudska-stranka-slovenije-(*)">Nova ljudska stranka Slovenije (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-modernega-centra-(re)">Stranka modernega centra (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#stranka-alenke-bratušek-(re)">Stranka Alenke Bratušek (RE)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 73% | 96% | Last Result, Median |
-| 4 | 23% | 23% |  |
+| 3 | 72% | 96% | Last Result, Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 25% | 25% | Last Result |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Slovenska ljudska stranka (EPP)
@@ -419,8 +419,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 96% | 96% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 2 | 94% | 96% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Pozitivna Slovenija (*)
@@ -438,8 +438,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 81% | 100% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (NI)
@@ -501,8 +501,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Nova ljudska stranka Slovenije (*)
@@ -552,7 +552,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 3 | 0.6% | 3–4 | 3–4 | 2–4 | 2–5 |
+| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 3 | 0.5% | 3–4 | 3–4 | 2–4 | 2–5 |
 | Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | Levica (GUE/NGL) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati (S&D) | 1 | 2 | 0% | 2 | 2 | 1–2 | 1–3 |
@@ -567,9 +567,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 49% | 96% | Median |
-| 4 | 46% | 47% |  |
-| 5 | 0.6% | 0.6% | Last Result, Majority |
+| 3 | 47% | 96% | Median |
+| 4 | 48% | 49% |  |
+| 5 | 0.5% | 0.5% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE)
@@ -589,8 +589,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 81% | 100% | Median |
-| 2 | 19% | 19% |  |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -600,8 +600,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 96% | 96% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 2 | 94% | 96% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Pozitivna Slovenija (*) – Andrej Čuš in Zeleni Slovenije (*) – Dobra država (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Nova ljudska stranka Slovenije (*)
@@ -634,6 +634,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
 + **Error estimate:** 4.50%
