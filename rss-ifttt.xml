@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Mediana for Delo, 4–7 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-10-07-Mediana.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Mediana for Delo, 4–7 October 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-10-07-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-10-07-Mediana.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-10-07-Mediana.png" length="420162" type="image/png"/>
+      <pubDate>Thu, 14 Oct 2021 17:57:51 +0200</pubDate>
+      <dc:date>2021-10-14T17:57:51.491007+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Mediana for POP TV, 1–26 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-09-26-Mediana.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for POP TV, 1–26 September 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-09-26-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-09-26-Mediana-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia.png" length="357507" type="image/png"/>
       <pubDate>Tue, 20 Jul 2021 10:33:38 +0200</pubDate>
       <dc:date>2021-07-20T10:33:38.239433+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for Delo, 5–7 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for Delo, 5–7 July 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana-seating-plan.png" length="412046" type="image/png"/>
-      <pubDate>Tue, 20 Jul 2021 11:00:45 +0200</pubDate>
-      <dc:date>2021-07-20T11:00:45.365095+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for Delo, 5–7 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for Delo, 5–7 July 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana-seats.png" length="306186" type="image/png"/>
-      <pubDate>Tue, 20 Jul 2021 11:00:45 +0200</pubDate>
-      <dc:date>2021-07-20T11:00:45.365095+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Mediana for Delo, 5–7 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Mediana for Delo, 5–7 July 2021<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-07-Mediana.png" length="432876" type="image/png"/>
-      <pubDate>Tue, 20 Jul 2021 11:00:45 +0200</pubDate>
-      <dc:date>2021-07-20T11:00:45.365095+02:00</dc:date>
     </item>
   </channel>
 </rss>
