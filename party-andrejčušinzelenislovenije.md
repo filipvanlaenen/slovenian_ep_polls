@@ -10,7 +10,8 @@ Last result: **2.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.6% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 1.8% | 1.3–2.6% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 1.8% | 1.3–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.6% |
@@ -111,10 +112,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 65% | 86% | Last Result, Median |
-| 2.5–3.5% | 20% | 21% |  |
-| 3.5–4.5% | 1.1% | 1.1% |  |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 64% | 77% | Last Result, Median |
+| 2.5–3.5% | 12% | 13% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -127,6 +128,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
