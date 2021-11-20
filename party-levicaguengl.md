@@ -10,17 +10,20 @@ Last result: **5.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 11.8–15.3% | 11.3–15.8% | 10.9–16.3% | 10.2–17.2% |
-| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 13.3% | 11.8–15.1% | 11.4–15.6% | 11.0–16.0% | 10.3–16.9% |
-| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.0% | 12.4–15.8% | 12.0–16.3% | 11.6–16.8% | 10.9–17.7% |
-| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 13.4% | 11.9–15.1% | 11.4–15.7% | 11.1–16.1% | 10.4–17.0% |
-| [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 14.5% | 12.9–16.3% | 12.5–16.9% | 12.1–17.3% | 11.4–18.2% |
-| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.0% | 12.4–15.8% | 12.0–16.3% | 11.6–16.8% | 10.9–17.7% |
-| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 12.8% | 11.3–14.5% | 10.9–15.0% | 10.5–15.5% | 9.9–16.3% |
-| [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 12.8% | 11.3–14.5% | 10.9–15.0% | 10.6–15.4% | 9.9–16.3% |
-| [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 13.9% | 12.3–15.7% | 11.9–16.2% | 11.5–16.6% | 10.8–17.5% |
-| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.1% | 12.6–16.0% | 12.1–16.5% | 11.8–16.9% | 11.0–17.8% |
-| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 12.7% | 11.2–14.4% | 10.8–14.9% | 10.5–15.3% | 9.8–16.2% |
+| N/A | [Poll Average](average.html) | 11.1% | 8.2–13.7% | 8.0–14.3% | 7.9–14.9% | 7.6–15.8% |
+| [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 12.9% | 11.4–14.6% | 10.9–15.1% | 10.6–15.5% | 9.9–16.4% |
+| [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 8.4% | 7.9–8.9% | 7.8–9.1% | 7.7–9.2% | 7.4–9.5% |
+| [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 11.3% | 9.9–12.9% | 9.5–13.4% | 9.2–13.8% | 8.5–14.7% |
+| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 13.3% | N/A | N/A | N/A | N/A |
+| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.0% | N/A | N/A | N/A | N/A |
+| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 13.4% | N/A | N/A | N/A | N/A |
+| [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 14.5% | N/A | N/A | N/A | N/A |
+| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.0% | N/A | N/A | N/A | N/A |
+| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 12.8% | N/A | N/A | N/A | N/A |
+| [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 12.8% | N/A | N/A | N/A | N/A |
+| [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 13.9% | N/A | N/A | N/A | N/A |
+| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 14.1% | N/A | N/A | N/A | N/A |
+| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 12.7% | N/A | N/A | N/A | N/A |
 | [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 12.2% | 10.7–13.9% | 10.3–14.4% | 10.0–14.8% | 9.3–15.7% |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 16.0% | 14.3–17.9% | 13.9–18.4% | 13.5–18.9% | 12.7–19.8% |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 12.5% | 11.1–14.3% | 10.7–14.8% | 10.3–15.2% | 9.6–16.0% |
@@ -115,19 +118,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 1.0% | 99.9% |  |
-| 10.5–11.5% | 6% | 98.9% |  |
-| 11.5–12.5% | 18% | 93% |  |
-| 12.5–13.5% | 28% | 75% | Median |
-| 13.5–14.5% | 26% | 47% |  |
-| 14.5–15.5% | 14% | 21% |  |
-| 15.5–16.5% | 5% | 7% |  |
-| 16.5–17.5% | 1.3% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.3% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 21% | 99.6% |  |
+| 8.5–9.5% | 14% | 79% |  |
+| 9.5–10.5% | 7% | 65% |  |
+| 10.5–11.5% | 14% | 58% | Median |
+| 11.5–12.5% | 17% | 43% |  |
+| 12.5–13.5% | 14% | 26% |  |
+| 13.5–14.5% | 8% | 12% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -138,17 +140,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
-| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1 | 1 | 1–2 | 1–2 |
-| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1–2 | 1–2 |
-| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1 | 1 | 1 | 1 |
+| [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 1 |
+| [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [1–26 September 2021](2021-09-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [14–16 September 2021](2021-09-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
+| [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–7 July 2021](2021-07-07-Mediana.html) | Mediana <br> Delo | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -243,9 +248,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 95% | 100% | Median |
-| 2 | 5% | 5% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 
