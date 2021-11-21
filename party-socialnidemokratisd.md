@@ -150,7 +150,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 2 | 2 | 2 | 2–3 |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 2 | 2 | 2 | 2 |
-| [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 2 | 2 | 2 | 2 | 2–3 |
+| [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–24 October 2021](2021-10-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 October 2021](2021-10-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 October 2021](2021-10-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
@@ -256,8 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 98.8% | 100% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
