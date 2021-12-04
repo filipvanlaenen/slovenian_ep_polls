@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Nov 2021 09:47:55 +0100</pubDate>
+    <pubDate>Sat, 04 Dec 2021 13:25:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–28 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana-seats.png"
+        length="313203"
+        type="image/png"/>
+      <pubDate>Sat, 04 Dec 2021 13:25:29 +0100</pubDate>
+      <dc:date>2021-12-04T13:25:29.114937+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–28 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana-coalitions-seats.png"
+        length="180009"
+        type="image/png"/>
+      <pubDate>Sat, 04 Dec 2021 13:25:29 +0100</pubDate>
+      <dc:date>2021-12-04T13:25:29.114937+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 1–28 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.0–29.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 6.8–10.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 15.2–20.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 10.0–14.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–10.0%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 5.4–9.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.2–4.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 3.2–6.3%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Andrej Čuš in Zeleni Slovenije (*): 1.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-28-Mediana.png"
+        length="431299"
+        type="image/png"/>
+      <pubDate>Sat, 04 Dec 2021 13:25:29 +0100</pubDate>
+      <dc:date>2021-12-04T13:25:29.114937+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia.html#seats</link>
@@ -2649,6 +2679,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2021-11-21T09:47:55.334459+01:00</dc:date>
+    <dc:date>2021-12-04T13:25:29.114937+01:00</dc:date>
   </channel>
 </rss>
