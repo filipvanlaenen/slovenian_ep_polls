@@ -10,7 +10,8 @@ Last result: **16.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.6% | 1.8–3.8% | 1.7–4.1% | 1.4–4.6% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.3–3.4% | 1.1–3.7% | 1.0–4.0% | 0.8–4.5% |
+| [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 1.5% | 1.1–2.3% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2.7% | 2.1–3.7% | 1.9–4.0% | 1.7–4.2% | 1.5–4.7% |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 2.5% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% | 1.4–4.5% |
@@ -117,11 +118,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.3% | 100% |  |
-| 1.5–2.5% | 38% | 98.7% |  |
-| 2.5–3.5% | 50% | 61% | Median |
-| 3.5–4.5% | 10% | 11% |  |
-| 4.5–5.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 22% | 100% |  |
+| 1.5–2.5% | 42% | 78% | Median |
+| 2.5–3.5% | 29% | 36% |  |
+| 3.5–4.5% | 6% | 7% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -145,6 +146,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
 | [2–4 November 2021](2021-11-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
