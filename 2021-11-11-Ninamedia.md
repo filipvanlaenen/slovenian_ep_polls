@@ -169,20 +169,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) | 5 | 4 | 0% | 4 | 4 | 3–4 | 3–4 |
 | Socialni demokrati (S&D) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Levica (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP)
-
-![Graph with seats probability mass function not yet produced](2021-11-11-Ninamedia-coalitions-seats-pmf-sds–nsi–sls.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% |  |
-| 4 | 95% | 95% | Median |
-| 5 | 0% | 0% | Last Result, Majority |
 
 ### Socialni demokrati (S&D)
 
