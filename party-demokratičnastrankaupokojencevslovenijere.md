@@ -10,8 +10,18 @@ Last result: **8.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.7% | 1.4–3.8% | 1.2–3.9% | 1.0–4.1% |
-| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.4–2.9% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 2.0% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% | 0.9–3.8% |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.2% | N/A | N/A | N/A | N/A |
+| [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV | 3.4% | N/A | N/A | N/A | N/A |
+| [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO | 1.1% | N/A | N/A | N/A | N/A |
+| [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV | 1.4% | N/A | N/A | N/A | N/A |
+| [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV | 1.2% | N/A | N/A | N/A | N/A |
+| [14–16 December 2021](2021-12-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.4% | N/A | N/A | N/A | N/A |
+| [6–9 December 2021](2021-12-09-Mediana.html) | Mediana <br> Delo | 1.7% | N/A | N/A | N/A | N/A |
+| [2–7 December 2021](2021-12-07-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.9% | N/A | N/A | N/A | N/A |
+| [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 2.6% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.2–4.8% | 1.9–5.4% |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 1.9% | 1.3–2.7% | 1.2–2.9% | 1.1–3.2% | 0.9–3.6% |
 | [20 September–4 November 2021](2021-11-04-Parsifal.html) | Parsifal <br> Nova 24TV | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% |
@@ -119,10 +129,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 46% | 89% | Median |
-| 2.5–3.5% | 28% | 43% |  |
-| 3.5–4.5% | 15% | 15% |  |
+| 0.5–1.5% | 15% | 100% |  |
+| 1.5–2.5% | 64% | 85% | Median |
+| 2.5–3.5% | 20% | 21% |  |
+| 3.5–4.5% | 1.3% | 1.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -138,6 +148,16 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV |  |  |  |  |  |
+| [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
+| [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
+| [14–16 December 2021](2021-12-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [6–9 December 2021](2021-12-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [2–7 December 2021](2021-12-07-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [29 November–2 December 2021](2021-12-02-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [1–28 November 2021](2021-11-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [9–11 November 2021](2021-11-11-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0 |
