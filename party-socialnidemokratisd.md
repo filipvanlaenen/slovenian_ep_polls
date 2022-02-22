@@ -10,16 +10,17 @@ Last result: **8.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 8.2–11.1% | 7.9–11.6% | 7.6–12.0% | 7.0–12.9% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.2–11.2% | 7.9–11.7% | 7.6–12.1% | 7.0–13.0% |
+| [14–16 February 2022](2022-02-16-Parsifal.html) | Parsifal <br> Nova24TV | 10.3% | 8.9–11.9% | 8.6–12.3% | 8.2–12.7% | 7.6–13.5% |
 | [7–10 February 2022](2022-02-10-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 9.1% | 8.1–10.4% | 7.8–10.7% | 7.5–11.1% | 7.1–11.7% |
 | [7–10 February 2022](2022-02-10-Mediana.html) | Mediana <br> Delo | 9.3% | 8.0–10.8% | 7.7–11.3% | 7.4–11.7% | 6.8–12.4% |
 | [31 January–3 February 2022](2022-02-03-Mediana.html) | Mediana <br> RTV SLO | 13.1% | N/A | N/A | N/A | N/A |
 | [1–30 January 2022](2022-01-30-Parsifal.html) | Parsifal <br> Planet TV | 10.1% | 8.8–11.7% | 8.5–12.2% | 8.1–12.6% | 7.5–13.4% |
 | [25–27 January 2022](2022-01-27-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 13.9% | 12.6–15.4% | 12.3–15.8% | 11.9–16.1% | 11.4–16.9% |
 | [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 18.8% | 17.0–20.9% | 16.5–21.5% | 16.0–22.0% | 15.2–23.0% |
-| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13.7% | 12.4–15.2% | 12.1–15.6% | 11.8–15.9% | 11.2–16.6% |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 13.7% | N/A | N/A | N/A | N/A |
 | [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 21.9% | N/A | N/A | N/A | N/A |
-| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV | 12.0% | 10.6–13.7% | 10.2–14.1% | 9.8–14.5% | 9.2–15.4% |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV | 12.0% | N/A | N/A | N/A | N/A |
 | [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO | 8.3% | N/A | N/A | N/A | N/A |
 | [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV | 15.7% | N/A | N/A | N/A | N/A |
 | [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV | 21.1% | N/A | N/A | N/A | N/A |
@@ -136,13 +137,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 15% | 98% | Last Result |
-| 8.5–9.5% | 33% | 83% |  |
-| 9.5–10.5% | 30% | 50% | Median |
-| 10.5–11.5% | 15% | 20% |  |
-| 11.5–12.5% | 4% | 5% |  |
-| 12.5–13.5% | 0.9% | 1.0% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 14% | 98% | Last Result |
+| 8.5–9.5% | 32% | 83% |  |
+| 9.5–10.5% | 30% | 51% | Median |
+| 10.5–11.5% | 15% | 22% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 1.1% | 1.2% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -155,15 +156,16 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [14–16 February 2022](2022-02-16-Parsifal.html) | Parsifal <br> Nova24TV | 1 | 1 | 1 | 1 | 1 |
 | [7–10 February 2022](2022-02-10-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 1 | 1 | 1 | 1 | 0–1 |
 | [7–10 February 2022](2022-02-10-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 0–1 |
 | [31 January–3 February 2022](2022-02-03-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
 | [1–30 January 2022](2022-01-30-Parsifal.html) | Parsifal <br> Planet TV | 1 | 1 | 1 | 1 | 1 |
 | [25–27 January 2022](2022-01-27-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 1 | 1 | 1 | 1 | 1–2 |
 | [17–19 January 2022](2022-01-19-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2 | 2–3 | 1–3 |
-| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–14 January 2022](2022-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [11–13 January 2022](2022-01-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
-| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV | 1 | 1 | 1 | 1 | 1–2 |
+| [4–6 January 2022](2022-01-06-Parsifal.html) | Parsifal <br> Planet TV |  |  |  |  |  |
 | [27–29 December 2021](2021-12-29-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
 | [20–23 December 2021](2021-12-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [13–16 December 2021](2021-12-16-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
@@ -280,8 +282,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.2% | 100% |  |
-| 1 | 98.7% | 98.8% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 1 | 98.8% | 98.8% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
