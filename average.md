@@ -6,7 +6,7 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | SAB | SDS–SLS | PSS | DD | AČZS | ND | GS | Z.DEJ | K | PoS | LIDE | Res | VESNA |
+| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | SAB | SDS–SLS | PSS | DD | ZS | ND | LRG | GS | K | PoS | LIDE | Res | VESNA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 17–34% <br> 2–4 | 3–8% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | 6–10% <br> 0–1 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–5% <br> 0 | N/A <br> N/A | 0–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | 16–29% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -38,10 +38,10 @@ Only polls for which at least the sample size has been published are included in
 + **SDS–SLS:** Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
 + **PSS:** Piratska stranka Slovenije (Greens/EFA)
 + **DD:** Dobra država (*)
-+ **AČZS:** Andrej Čuš in Zeleni Slovenije (*)
++ **ZS:** Zeleni Slovenije (*)
 + **ND:** Naša dežela (*)
++ **LRG:** Lista Roberta Goloba (*)
 + **GS:** Gibanje Svoboda (*)
-+ **Z.DEJ:** Zelena dejanja (*)
 + **K:** Konkretno (RE)
 + **PoS:** Povežimo Slovenijo (EPP)
 + **LIDE:** Liberalni demokrati (*)
@@ -67,7 +67,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#pozitivna-slovenija-(*)">Pozitivna Slovenija (*)</a> | 6.6% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 5.5% | 8.2% | 6.6–9.6% |6.2–10.1% | 5.8–10.4% | 5.2–11.2% |
 | <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 4.0% | 2.0% | 0.8–3.1% |0.6–3.3% | 0.6–3.6% | 0.4–4.1% |
-| <a href="#andrej-čuš-in-zeleni-slovenije-(*)">Andrej Čuš in Zeleni Slovenije (*)</a> | 2.2% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#zeleni-slovenije-(*)">Zeleni Slovenije (*)</a> | 2.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#državljanska-lista-(re)">Državljanska lista (RE)</a> | 1.1% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#dobra-država-(*)">Dobra država (*)</a> | 0.5% | 1.2% | 0.7–1.8% |0.6–2.0% | 0.6–2.2% | 0.4–2.6% |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -78,8 +78,8 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#stranka-alenke-bratušek-(re)">Stranka Alenke Bratušek (RE)</a> | 0.0% | 3.4% | 1.7–4.5% |1.4–4.8% | 1.3–5.1% | 1.0–5.6% |
 | <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0.0% | 2.3% | 0.7–3.6% |0.6–3.9% | 0.5–4.2% | 0.4–4.8% |
 | <a href="#naša-dežela-(*)">Naša dežela (*)</a> | 0.0% | 3.7% | 2.2–5.1% |2.0–5.5% | 1.8–5.9% | 1.5–6.5% |
-| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0.0% | 25.4% | 17.2–28.3% |16.4–28.9% | 15.9–29.4% | 14.9–30.4% |
-| <a href="#zelena-dejanja-(*)">Zelena dejanja (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#lista-roberta-goloba-(*)">Lista Roberta Goloba (*)</a> | 0.0% | 25.4% | 17.2–28.3% |16.4–28.9% | 15.9–29.4% | 14.9–30.4% |
+| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#konkretno-(re)">Konkretno (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#povežimo-slovenijo-(epp)">Povežimo Slovenijo (EPP)</a> | 0.0% | 4.4% | 3.5–5.6% |3.3–6.0% | 3.1–6.3% | 2.7–6.9% |
 | <a href="#liberalni-demokrati-(*)">Liberalni demokrati (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -267,9 +267,9 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
-### Gibanje Svoboda (*)
+### Lista Roberta Goloba (*)
 
-*For a full overview of the results for this party, see the [Gibanje Svoboda (*)](party-gibanjesvoboda.html) page.*
+*For a full overview of the results for this party, see the [Lista Roberta Goloba (*)](party-listarobertagoloba.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -361,7 +361,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#pozitivna-slovenija-(*)">Pozitivna Slovenija (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#andrej-čuš-in-zeleni-slovenije-(*)">Andrej Čuš in Zeleni Slovenije (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#zeleni-slovenije-(*)">Zeleni Slovenije (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#državljanska-lista-(re)">Državljanska lista (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#dobra-država-(*)">Dobra država (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -372,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#stranka-alenke-bratušek-(re)">Stranka Alenke Bratušek (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#naša-dežela-(*)">Naša dežela (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0 | 3 | 2–3 |2–3 | 2–4 | 2–4 |
-| <a href="#zelena-dejanja-(*)">Zelena dejanja (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#lista-roberta-goloba-(*)">Lista Roberta Goloba (*)</a> | 0 | 3 | 2–3 |2–3 | 2–4 | 2–4 |
+| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#konkretno-(re)">Konkretno (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#povežimo-slovenijo-(epp)">Povežimo Slovenijo (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#liberalni-demokrati-(*)">Liberalni demokrati (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -469,11 +469,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Andrej Čuš in Zeleni Slovenije (*)
+### Zeleni Slovenije (*)
 
-*For a full overview of the results for this party, see the [Andrej Čuš in Zeleni Slovenije (*)](party-andrejčušinzelenislovenije.html) page.*
+*For a full overview of the results for this party, see the [Zeleni Slovenije (*)](party-zelenislovenije.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-andrejčušinzelenislovenije.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-zelenislovenije.png "Seats Probability Mass Function")
 
 ### Državljanska lista (RE)
 
@@ -561,11 +561,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
-### Gibanje Svoboda (*)
+### Lista Roberta Goloba (*)
 
-*For a full overview of the results for this party, see the [Gibanje Svoboda (*)](party-gibanjesvoboda.html) page.*
+*For a full overview of the results for this party, see the [Lista Roberta Goloba (*)](party-listarobertagoloba.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-gibanjesvoboda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-listarobertagoloba.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -576,11 +576,11 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% | Majority |
 
-### Zelena dejanja (*)
+### Gibanje Svoboda (*)
 
-*For a full overview of the results for this party, see the [Zelena dejanja (*)](party-zelenadejanja.html) page.*
+*For a full overview of the results for this party, see the [Gibanje Svoboda (*)](party-gibanjesvoboda.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-zelenadejanja.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-gibanjesvoboda.png "Seats Probability Mass Function")
 
 ### Konkretno (RE)
 
@@ -627,12 +627,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Pozitivna Slovenija (*) – Dobra država (*) – Lista Roberta Goloba (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Lista Roberta Goloba (*) – Naša dežela (*) – Nova ljudska stranka Slovenije (*) – Gibanje Svoboda (*) | 0 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
 | Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) – Povežimo Slovenijo (EPP) | 5 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
 | Socialni demokrati (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Levica (GUE/NGL) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Piratska stranka Slovenije (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Pozitivna Slovenija (*) – Dobra država (*) – Lista Roberta Goloba (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Lista Roberta Goloba (*) – Naša dežela (*) – Nova ljudska stranka Slovenije (*) – Gibanje Svoboda (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–dd–lrg–god–god–nls–lrg–nd–nls–gs.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0.3% | 100% |  |
+| 2 | 33% | 99.7% |  |
+| 3 | 62% | 66% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0% | 0% | Majority |
 
 ### Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) – Povežimo Slovenijo (EPP)
 
