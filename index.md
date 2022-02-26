@@ -2,7 +2,7 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | SAB | SDS–SLS | PSS | DD | AČZS | ND | GS | Z.DEJ | K | PoS | LIDE | Res | VESNA |
+| Period     | Polling firm/Commissioner(s) | SDS | NSi | SLS | DeSUS | SD | PS | Levica | SNS | DL | GOD | GOD–NLS | LMŠ | NLS | SMC | SAB | SDS–SLS | PSS | DD | ZS | ND | LRG | GS | K | PoS | LIDE | Res | VESNA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 17–34% <br> 2–4 | 3–8% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | 6–10% <br> 0–1 | 1–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–5% <br> 0 | N/A <br> N/A | 0–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–6% <br> 0 | 16–29% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -34,10 +34,10 @@ Only polls for which at least the sample size has been published are included in
 + **SDS–SLS:** Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
 + **PSS:** Piratska stranka Slovenije (Greens/EFA)
 + **DD:** Dobra država (*)
-+ **AČZS:** Andrej Čuš in Zeleni Slovenije (*)
++ **ZS:** Zeleni Slovenije (*)
 + **ND:** Naša dežela (*)
++ **LRG:** Lista Roberta Goloba (*)
 + **GS:** Gibanje Svoboda (*)
-+ **Z.DEJ:** Zelena dejanja (*)
 + **K:** Konkretno (RE)
 + **PoS:** Povežimo Slovenijo (EPP)
 + **LIDE:** Liberalni demokrati (*)
