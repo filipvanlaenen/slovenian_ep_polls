@@ -10,7 +10,9 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 22.5–31.6% | 22.0–32.4% | 21.5–33.0% | 20.7–34.1% |
+| N/A | [Poll Average](average.html) | 24.1% | 21.8–29.1% | 21.3–29.9% | 20.8–30.5% | 20.0–31.6% |
+| [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 22.8% | 21.2–24.5% | 20.7–25.0% | 20.3–25.4% | 19.6–26.2% |
+| [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 28.3% | 26.4–30.3% | 25.8–30.8% | 25.4–31.3% | 24.5–32.3% |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.2% | 20.3–27.1% |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.2–34.7% |
 | [21–24 March 2022](2022-03-24-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 24.3% | 22.6–26.0% | 22.2–26.5% | 21.8–27.0% | 21.0–27.8% |
@@ -144,24 +146,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 8% | 97% |  |
-| 22.5–23.5% | 16% | 90% |  |
-| 23.5–24.5% | 19% | 74% |  |
-| 24.5–25.5% | 14% | 55% | Last Result, Median |
-| 25.5–26.5% | 6% | 42% |  |
-| 26.5–27.5% | 2% | 35% |  |
-| 27.5–28.5% | 2% | 33% |  |
-| 28.5–29.5% | 4% | 32% |  |
-| 29.5–30.5% | 8% | 27% |  |
-| 30.5–31.5% | 9% | 19% |  |
-| 31.5–32.5% | 6% | 10% |  |
-| 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.9% | 1.1% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.4% | 99.8% |  |
+| 20.5–21.5% | 6% | 98% |  |
+| 21.5–22.5% | 14% | 92% |  |
+| 22.5–23.5% | 19% | 78% |  |
+| 23.5–24.5% | 16% | 59% | Median |
+| 24.5–25.5% | 8% | 44% | Last Result |
+| 25.5–26.5% | 5% | 35% |  |
+| 26.5–27.5% | 7% | 30% |  |
+| 27.5–28.5% | 9% | 23% |  |
+| 28.5–29.5% | 8% | 14% |  |
+| 29.5–30.5% | 4% | 7% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.5% | 0.6% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -172,7 +173,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 3 | 3 | 3 | 3 | 2–3 |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 4 | 4 | 4 | 4 | 3–4 |
 | [21–24 March 2022](2022-03-24-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -308,10 +311,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 23% | 100% |  |
-| 3 | 44% | 77% | Last Result, Median |
-| 4 | 33% | 33% |  |
-| 5 | 0.1% | 0.1% | Majority |
-| 6 | 0% | 0% |  |
+| 2 | 3% | 100% |  |
+| 3 | 73% | 97% | Last Result, Median |
+| 4 | 25% | 25% |  |
+| 5 | 0% | 0% | Majority |
 
 
