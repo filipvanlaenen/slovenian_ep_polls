@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 10 Apr 2022 10:09:45 +0200</pubDate>
+    <pubDate>Tue, 12 Apr 2022 09:28:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 4–7 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 10 Apr 2022 09:59:22 +0200</pubDate>
       <dc:date>2022-04-10T09:59:22.005283+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (*): 3 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana-seats.png"
+        length="352419"
+        type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 09:28:59 +0200</pubDate>
+      <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana-coalitions-seats.png"
+        length="196539"
+        type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 09:28:59 +0200</pubDate>
+      <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.5–25.7%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (*): 22.0–27.3%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 1.4–3.2%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.png"
+        length="438413"
+        type="image/png"/>
+      <pubDate>Tue, 12 Apr 2022 09:28:59 +0200</pubDate>
+      <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal for Nova24TV, 1–5 April 2022 – Seat Projections for the Parties</title>
@@ -3129,6 +3159,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2022-04-10T10:09:45.610387+02:00</dc:date>
+    <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
   </channel>
 </rss>
