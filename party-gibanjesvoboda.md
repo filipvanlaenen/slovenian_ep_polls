@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.8% | 21.9–27.7% | 21.3–28.3% | 20.8–28.9% | 19.8–29.9% |
+| N/A | [Poll Average](average.html) | 24.7% | 21.9–27.7% | 21.3–28.3% | 20.7–28.9% | 19.8–29.9% |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 26.9% | 25.1–28.7% | 24.7–29.2% | 24.3–29.6% | 23.5–30.5% |
+| [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 24.5% | 22.9–26.3% | 22.4–26.8% | 22.0–27.3% | 21.2–28.1% |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 22.7% | 21.0–24.6% | 20.5–25.1% | 20.1–25.6% | 19.3–26.5% |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.4–28.3% |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 20.6% | 19.1–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
@@ -170,9 +171,9 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 5% | 98% |  |
 | 21.5–22.5% | 10% | 93% |  |
 | 22.5–23.5% | 14% | 83% |  |
-| 23.5–24.5% | 16% | 70% |  |
-| 24.5–25.5% | 16% | 54% | Median |
-| 25.5–26.5% | 15% | 38% |  |
+| 23.5–24.5% | 16% | 69% |  |
+| 24.5–25.5% | 16% | 52% | Median |
+| 25.5–26.5% | 14% | 37% |  |
 | 26.5–27.5% | 12% | 23% |  |
 | 27.5–28.5% | 7% | 11% |  |
 | 28.5–29.5% | 3% | 4% |  |
@@ -191,6 +192,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–4 |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 3 | 3 | 3 | 3–4 | 3–4 |
+| [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 3 | 3 | 3 | 3 | 2–3 |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [30–31 March 2022](2022-03-31-Mediana.html) | Mediana <br> RTV SLO | 3 | 3 | 3 | 3 | 2–4 |
 | [22–24 March 2022](2022-03-24-Parsifal.html) | Parsifal <br> Planet TV | 2 | 2 | 2 | 2 | 2 |
