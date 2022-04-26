@@ -10,7 +10,11 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.8% | 21.6–29.1% | 21.1–29.9% | 20.6–30.5% | 19.8–31.6% |
+| N/A | [Poll Average](average.html) | 25.6% | 23.0–30.0% | 22.4–30.8% | 21.9–31.4% | 21.0–32.5% |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 24.0% | 22.2–25.9% | 21.7–26.4% | 21.3–26.9% | 20.5–27.8% |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 25.0% | 23.3–26.8% | 22.9–27.3% | 22.5–27.8% | 21.7–28.6% |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 29.2% | 27.4–31.2% | 26.9–31.7% | 26.4–32.2% | 25.6–33.1% |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 26.2% | N/A | N/A | N/A | N/A |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 22.8% | 21.2–24.5% | 20.7–25.0% | 20.3–25.4% | 19.6–26.2% |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.7% | 19.8–26.5% |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 28.3% | 26.4–30.3% | 25.8–30.8% | 25.4–31.3% | 24.5–32.3% |
@@ -147,23 +151,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 2% | 99.7% |  |
-| 20.5–21.5% | 8% | 98% |  |
-| 21.5–22.5% | 17% | 90% |  |
-| 22.5–23.5% | 20% | 74% |  |
-| 23.5–24.5% | 14% | 54% | Median |
-| 24.5–25.5% | 6% | 40% | Last Result |
-| 25.5–26.5% | 4% | 34% |  |
-| 26.5–27.5% | 7% | 30% |  |
-| 27.5–28.5% | 8% | 23% |  |
-| 28.5–29.5% | 8% | 14% |  |
-| 29.5–30.5% | 4% | 7% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.5% | 0.6% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0.2% | 100% |  |
+| 20.5–21.5% | 1.1% | 99.8% |  |
+| 21.5–22.5% | 4% | 98.7% |  |
+| 22.5–23.5% | 11% | 94% |  |
+| 23.5–24.5% | 17% | 84% |  |
+| 24.5–25.5% | 17% | 67% | Last Result |
+| 25.5–26.5% | 12% | 50% | Median |
+| 26.5–27.5% | 8% | 38% |  |
+| 27.5–28.5% | 8% | 31% |  |
+| 28.5–29.5% | 9% | 23% |  |
+| 29.5–30.5% | 8% | 14% |  |
+| 30.5–31.5% | 4% | 6% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -174,7 +178,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [19–21 April 2022](2022-04-21-Mediana.html) | Mediana <br> Delo, POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–19 April 2022](2022-04-19-Parsifal.html) | Parsifal <br> TS media | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–15 April 2022](2022-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
 | [4–7 April 2022](2022-04-07-Ninamedia.html) | Ninamedia <br> Dnvnk, Včr, PrmNvc, Svt24 | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [4–7 April 2022](2022-04-07-Mediana.html) | Mediana <br> Delo, POP TV | 3 | 3 | 3 | 2–3 | 2–3 |
 | [1–5 April 2022](2022-04-05-Parsifal.html) | Parsifal <br> Nova24TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -313,8 +321,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% |  |
-| 3 | 72% | 97% | Last Result, Median |
+| 2 | 17% | 100% |  |
+| 3 | 58% | 83% | Last Result, Median |
 | 4 | 25% | 25% |  |
 | 5 | 0% | 0% | Majority |
 
