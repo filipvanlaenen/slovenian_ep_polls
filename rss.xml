@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Apr 2022 20:31:04 +0200</pubDate>
+    <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (*): 4–5 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-seats.png"
+        length="298810"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-coalitions-seats.png"
+        length="189504"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.2–28.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2.0–4.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 4.6–8.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.4–7.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.6–10.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 1.8–4.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (*): 33.3–40.4%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0.5–2.0%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.9–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.png"
+        length="386169"
+        type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html#seats</link>
@@ -3249,6 +3279,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2022-04-26T20:31:04.132473+02:00</dc:date>
+    <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
   </channel>
 </rss>
