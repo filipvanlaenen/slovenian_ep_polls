@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-04-26T20:31:04.132473+02:00</updated>
+  <updated>2022-05-18T16:38:15.530242+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 22.2–28.6%, 2–3 seats</li><li>Lista Marjana Šarca (RE): 2.0–4.5%, 0 seats</li><li>Socialni demokrati (S&amp;D): 4.6–8.2%, 0 seats</li><li>Levica (GUE/NGL): 4.4–7.9%, 0 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 6.6–10.7%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 1.7–4.2%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 0.7–2.4%, 0 seats</li><li>Piratska stranka Slovenije (Greens/EFA): 0.2–1.4%, 0 seats</li><li>Povežimo Slovenijo (EPP): 1.8–4.3%, 0 seats</li><li>Gibanje Svoboda (*): 33.3–40.4%, 4–5 seats</li><li>Naša dežela (*): 0.5–2.0%, 0 seats</li><li>Resni.ca (*): 0.5–2.0%, 0 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 0.9–2.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html"/>
+    <title>Opinion Poll by Mediana for Delo, 3–5 May 2022</title>
+    <updated>2022-05-18T16:38:15.530242+02:00</updated>
+    <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 21.3–26.9%, 2–3 seats</li><li>Lista Marjana Šarca (RE): 3.2–5.9%, 0 seats</li><li>Socialni demokrati (S&amp;D): 6.5–10.1%, 0–1 seats</li><li>Levica (GUE/NGL): 5.6–9.0%, 0–1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 5.4–8.7%, 0–1 seats</li><li>Stranka Alenke Bratušek (RE): 2.9–5.5%, 0 seats</li><li>Slovenska nacionalna stranka (NI): 0.9–2.6%, 0 seats</li><li>Piratska stranka Slovenije (Greens/EFA): 1.7–3.8%, 0 seats</li><li>Povežimo Slovenijo (EPP): 2.5–5.0%, 0 seats</li><li>Gibanje Svoboda (*): 24.8–30.7%, 3–4 seats</li><li>Naša dežela (*): 1.0–2.7%, 0 seats</li><li>Resni.ca (*): 2.1–4.3%, 0 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 1.6–3.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html</id>
@@ -871,5 +879,5 @@
     <updated>2019-06-30T12:23:33+02:00</updated>
     <dc:date>2019-06-30T12:23:33+02:00</dc:date>
   </entry>
-  <dc:date>2022-04-26T20:31:04.132473+02:00</dc:date>
+  <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
 </feed>
