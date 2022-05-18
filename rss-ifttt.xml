@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:52 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for Delo, 3–5 May 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-seating-plan.png" length="333157" type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Mediana for Delo, 3–5 May 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana-seats.png" length="298810" type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–5 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Mediana for Delo, 3–5 May 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-05-Mediana.png" length="386169" type="image/png"/>
+      <pubDate>Wed, 18 May 2022 16:38:15 +0200</pubDate>
+      <dc:date>2022-05-18T16:38:15.530242+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia-seating-plan.png"/>]]></description>
@@ -196,30 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Parsifal.png" length="437721" type="image/png"/>
       <pubDate>Mon, 4 Apr 2022 19:27:11 +0200</pubDate>
       <dc:date>2022-04-04T19:27:11.434618+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-seating-plan.png" length="363296" type="image/png"/>
-      <pubDate>Mon, 4 Apr 2022 19:32:48 +0200</pubDate>
-      <dc:date>2022-04-04T19:32:48.46481+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>5 seats needed for a majority<br/>Opinion poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-seats.png" length="268809" type="image/png"/>
-      <pubDate>Mon, 4 Apr 2022 19:32:48 +0200</pubDate>
-      <dc:date>2022-04-04T19:32:48.46481+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022<br/>Details on https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html<br/><img src="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.png" length="298923" type="image/png"/>
-      <pubDate>Mon, 4 Apr 2022 19:32:48 +0200</pubDate>
-      <dc:date>2022-04-04T19:32:48.46481+02:00</dc:date>
     </item>
   </channel>
 </rss>
