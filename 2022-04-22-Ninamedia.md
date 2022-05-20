@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Gibanje Svoboda (*) | 0.0% | 27.7% | 25.8–29.6% |25.3–30.2% |24.8–30.7% |24.0–31.6% |
+| Gibanje Svoboda (Greens/EFA) | 0.0% | 27.7% | 25.8–29.6% |25.3–30.2% |24.8–30.7% |24.0–31.6% |
 | Slovenska demokratska stranka (EPP) | 24.8% | 24.0% | 22.2–25.9% |21.7–26.4% |21.3–26.9% |20.5–27.8% |
 | Socialni demokrati (S&D) | 8.1% | 8.1% | 7.0–9.4% |6.8–9.8% |6.5–10.1% |6.0–10.7% |
 | Levica (GUE/NGL) | 5.5% | 7.1% | 6.1–8.3% |5.8–8.7% |5.6–9.0% |5.2–9.6% |
@@ -36,7 +36,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#gibanje-svoboda-(greens/efa)">Gibanje Svoboda (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 3 | 3 |2–3 |2–3 |2–3 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -50,11 +50,11 @@
 | <a href="#naša-dežela-(*)">Naša dežela (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#slovenska-nacionalna-stranka-(ni)">Slovenska nacionalna stranka (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Gibanje Svoboda (*)
+### Gibanje Svoboda (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Gibanje Svoboda (*)](party-gibanjesvoboda.html) page.*
+*For a full overview of the results for this party, see the [Gibanje Svoboda (Greens/EFA)](party-gibanjesvobodagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-04-22-Ninamedia-seats-pmf-gibanjesvoboda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-04-22-Ninamedia-seats-pmf-gibanjesvobodagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -203,10 +203,23 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Gibanje Svoboda (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Levica (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati (S&D) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Slovenska nacionalna stranka (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Gibanje Svoboda (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2022-04-22-Ninamedia-coalitions-seats-pmf-gs–pss–vesna.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 42% | 100% |  |
+| 4 | 58% | 58% | Median |
+| 5 | 0% | 0% | Majority |
 
 ### Levica (GUE/NGL)
 
@@ -227,14 +240,6 @@
 | 0 | 29% | 100% |  |
 | 1 | 71% | 71% | Last Result, Median |
 | 2 | 0% | 0% |  |
-
-### Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2022-04-22-Ninamedia-coalitions-seats-pmf-pss–vesna.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 ### Slovenska nacionalna stranka (NI)
 

@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Gibanje Svoboda (*) | 0.0% | 44.3% | 41.9–46.7% |41.2–47.4% |40.6–48.0% |39.5–49.2% |
+| Gibanje Svoboda (Greens/EFA) | 0.0% | 44.3% | 41.9–46.7% |41.2–47.4% |40.6–48.0% |39.5–49.2% |
 | Slovenska demokratska stranka (EPP) | 24.8% | 23.0% | 21.0–25.1% |20.5–25.7% |20.0–26.3% |19.1–27.3% |
 | Socialni demokrati (S&D) | 8.1% | 6.9% | 5.8–8.2% |5.5–8.6% |5.2–9.0% |4.7–9.7% |
 | Nova Slovenija–Krščanski demokrati (EPP) | 16.5% | 6.7% | 5.6–8.1% |5.3–8.5% |5.1–8.8% |4.6–9.5% |
@@ -32,7 +32,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#gibanje-svoboda-(*)">Gibanje Svoboda (*)</a> | 0 | 5 | 5–6 |5–6 |4–6 |4–6 |
+| <a href="#gibanje-svoboda-(greens/efa)">Gibanje Svoboda (Greens/EFA)</a> | 0 | 5 | 5–6 |5–6 |4–6 |4–6 |
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -42,11 +42,11 @@
 | <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Gibanje Svoboda (*)
+### Gibanje Svoboda (Greens/EFA)
 
-*For a full overview of the results for this party, see the [Gibanje Svoboda (*)](party-gibanjesvoboda.html) page.*
+*For a full overview of the results for this party, see the [Gibanje Svoboda (Greens/EFA)](party-gibanjesvobodagreensefa.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-05-12-Ninamedia-seats-pmf-gibanjesvoboda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-05-12-Ninamedia-seats-pmf-gibanjesvobodagreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -156,9 +156,24 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Gibanje Svoboda (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 5 | 97% | 5–6 | 5–6 | 4–6 | 4–6 |
 | Levica (GUE/NGL) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 | Socialni demokrati (S&D) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Gibanje Svoboda (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2022-05-12-Ninamedia-coalitions-seats-pmf-gs–pss–vesna.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 3% | 100% |  |
+| 5 | 80% | 97% | Median, Majority |
+| 6 | 17% | 17% |  |
+| 7 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
 
@@ -179,14 +194,6 @@
 | 0 | 80% | 100% | Median |
 | 1 | 20% | 20% | Last Result |
 | 2 | 0% | 0% |  |
-
-### Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2022-05-12-Ninamedia-coalitions-seats-pmf-pss–vesna.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
