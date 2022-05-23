@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 3.4–7.2% | 3.1–7.6% | 2.9–8.0% | 2.5–8.7% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.4% | 4.7–7.7% | 4.5–8.1% | 4.0–8.8% |
+| [16–19 May 2022](2022-05-19-Parsifal.html) | Parsifal <br> Nova24TV | 5.8% | 4.8–7.1% | 4.6–7.5% | 4.3–7.8% | 3.9–8.5% |
 | [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6.3% | 5.2–7.6% | 5.0–8.0% | 4.7–8.3% | 4.3–9.0% |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 5.9% | 4.9–7.2% | 4.6–7.6% | 4.4–7.9% | 4.0–8.6% |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7.1% | 6.1–8.3% | 5.8–8.7% | 5.6–9.0% | 5.2–9.6% |
@@ -153,16 +154,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 13% | 99.5% |  |
-| 3.5–4.5% | 19% | 87% |  |
-| 4.5–5.5% | 17% | 68% | Last Result |
-| 5.5–6.5% | 28% | 51% | Median |
-| 6.5–7.5% | 18% | 23% |  |
-| 7.5–8.5% | 5% | 6% |  |
-| 8.5–9.5% | 0.6% | 0.7% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 24% | 97% | Last Result |
+| 5.5–6.5% | 42% | 73% | Median |
+| 6.5–7.5% | 24% | 31% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.8% | 0.8% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -175,6 +174,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–19 May 2022](2022-05-19-Parsifal.html) | Parsifal <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
 | [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
