@@ -10,10 +10,10 @@ Last result: **16.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.6–8.1% | 5.3–8.5% | 5.1–8.8% | 4.6–9.5% |
-| [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 8.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.8% | 4.7–9.0% | 4.4–9.6% | 4.1–10.0% | 3.6–10.9% |
+| [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 8.4% | 7.1–9.8% | 6.8–10.3% | 6.5–10.6% | 6.0–11.4% |
 | [16–19 May 2022](2022-05-19-Parsifal.html) | Parsifal <br> Nova24TV | 10.7% | 9.3–12.3% | 8.9–12.8% | 8.6–13.2% | 8.0–14.0% |
-| [16–19 May 2022](2022-05-19-Mediana.html) | Mediana <br> POP TV | 5.1% | N/A | N/A | N/A | N/A |
+| [16–19 May 2022](2022-05-19-Mediana.html) | Mediana <br> POP TV | 5.1% | 4.2–6.3% | 3.9–6.7% | 3.7–7.0% | 3.3–7.6% |
 | [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6.7% | 5.6–8.1% | 5.3–8.5% | 5.1–8.8% | 4.6–9.5% |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 8.5% | 7.3–10.0% | 6.9–10.4% | 6.6–10.7% | 6.1–11.5% |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 6.9% | 5.9–8.1% | 5.6–8.4% | 5.4–8.7% | 5.0–9.4% |
@@ -156,16 +156,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 8% | 99.6% |  |
-| 5.5–6.5% | 32% | 92% |  |
-| 6.5–7.5% | 38% | 60% | Median |
-| 7.5–8.5% | 18% | 22% |  |
-| 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 7% | 99.6% |  |
+| 4.5–5.5% | 18% | 93% |  |
+| 5.5–6.5% | 21% | 75% |  |
+| 6.5–7.5% | 20% | 55% | Median |
+| 7.5–8.5% | 18% | 35% |  |
+| 8.5–9.5% | 11% | 17% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.9% | 1.0% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -182,9 +183,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV |  |  |  |  |  |
+| [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–19 May 2022](2022-05-19-Parsifal.html) | Parsifal <br> Nova24TV | 1 | 1 | 1 | 1 | 0–1 |
-| [16–19 May 2022](2022-05-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [16–19 May 2022](2022-05-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [10–12 May 2022](2022-05-12-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 May 2022](2022-05-05-Mediana.html) | Mediana <br> Delo | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [20–22 April 2022](2022-04-22-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -329,8 +330,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Median |
-| 1 | 10% | 10% | Last Result |
+| 0 | 66% | 100% | Median |
+| 1 | 34% | 34% | Last Result |
 | 2 | 0% | 0% |  |
 
 
