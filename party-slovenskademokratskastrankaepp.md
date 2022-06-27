@@ -10,7 +10,8 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 24.2–28.6% | 23.6–29.3% | 23.1–29.9% | 22.1–31.0% |
+| N/A | [Poll Average](average.html) | 26.0% | 22.3–28.8% | 21.5–29.5% | 20.9–30.1% | 19.9–31.3% |
+| [20–23 June 2022](2022-06-23-Mediana.html) | Mediana <br> POP TV | 23.1% | 21.2–25.2% | 20.6–25.8% | 20.1–26.3% | 19.3–27.3% |
 | [14–16 June 2022](2022-06-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 26.9% | 24.8–29.1% | 24.2–29.7% | 23.7–30.3% | 22.7–31.4% |
 | [6–9 June 2022](2022-06-09-Mediana.html) | Mediana <br> Delo | 25.8% | 23.7–28.0% | 23.2–28.6% | 22.7–29.1% | 21.7–30.2% |
 | [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 27.2% | 25.1–29.4% | 24.5–30.1% | 24.0–30.6% | 23.1–31.7% |
@@ -158,20 +159,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.0% | 99.8% |  |
-| 22.5–23.5% | 4% | 98.8% |  |
-| 23.5–24.5% | 10% | 95% |  |
-| 24.5–25.5% | 17% | 85% | Last Result |
-| 25.5–26.5% | 22% | 68% | Median |
-| 26.5–27.5% | 21% | 46% |  |
-| 27.5–28.5% | 14% | 25% |  |
-| 28.5–29.5% | 7% | 11% |  |
-| 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 0.8% | 1.0% |  |
-| 31.5–32.5% | 0.2% | 0.2% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.3% | 100% |  |
+| 19.5–20.5% | 1.2% | 99.7% |  |
+| 20.5–21.5% | 4% | 98.5% |  |
+| 21.5–22.5% | 7% | 95% |  |
+| 22.5–23.5% | 9% | 88% |  |
+| 23.5–24.5% | 10% | 79% |  |
+| 24.5–25.5% | 12% | 69% | Last Result |
+| 25.5–26.5% | 15% | 57% | Median |
+| 26.5–27.5% | 16% | 42% |  |
+| 27.5–28.5% | 13% | 26% |  |
+| 28.5–29.5% | 8% | 13% |  |
+| 29.5–30.5% | 3% | 5% |  |
+| 30.5–31.5% | 1.1% | 1.5% |  |
+| 31.5–32.5% | 0.3% | 0.3% |  |
+| 32.5–33.5% | 0% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -183,6 +187,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–23 June 2022](2022-06-23-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–16 June 2022](2022-06-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–9 June 2022](2022-06-09-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -332,8 +337,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 24% | 100% |  |
-| 3 | 76% | 76% | Last Result, Median |
+| 2 | 38% | 100% |  |
+| 3 | 61% | 62% | Last Result, Median |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% | Majority |
 
