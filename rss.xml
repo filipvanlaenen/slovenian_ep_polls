@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 21 Jul 2022 10:01:13 +0200</pubDate>
+    <pubDate>Tue, 26 Jul 2022 21:05:54 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 18–21 July 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana-seats.png"
+        length="251426"
+        type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:05:54 +0200</pubDate>
+      <dc:date>2022-07-26T21:05:54.104001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 18–21 July 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana-coalitions-seats.png"
+        length="200341"
+        type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:05:54 +0200</pubDate>
+      <dc:date>2022-07-26T21:05:54.104001+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 18–21 July 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 21.3–27.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.3–11.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 7.8–12.1%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.2–4.9%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (Greens/EFA): 32.7–39.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-21-Mediana.png"
+        length="239836"
+        type="image/png"/>
+      <pubDate>Tue, 26 Jul 2022 21:05:54 +0200</pubDate>
+      <dc:date>2022-07-26T21:05:54.104001+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 4–7 July 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-07-07-Mediana.html#seats</link>
@@ -3519,6 +3549,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2022-07-21T10:01:13.104179+02:00</dc:date>
+    <dc:date>2022-07-26T21:05:54.104001+02:00</dc:date>
   </channel>
 </rss>
