@@ -176,7 +176,7 @@ Only polls for which at least the sample size has been published are included in
 + **ZS:** Zeleni Slovenije (*)
 + **ND:** Naša dežela (*)
 + **LRG:** Lista Roberta Goloba (*)
-+ **GS:** Gibanje Svoboda (Greens/EFA)
++ **GS:** Gibanje Svoboda (RE)
 + **K:** Konkretno (RE)
 + **PoS:** Povežimo Slovenijo (EPP)
 + **LIDE:** Liberalni demokrati (*)
