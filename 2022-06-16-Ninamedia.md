@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Gibanje Svoboda (Greens/EFA) | 0.0% | 40.6% | 38.2–43.0% |37.6–43.7% |37.0–44.3% |35.9–45.4% |
+| Gibanje Svoboda (RE) | 0.0% | 40.6% | 38.2–43.0% |37.6–43.7% |37.0–44.3% |35.9–45.4% |
 | Slovenska demokratska stranka (EPP) | 24.8% | 26.9% | 24.8–29.1% |24.2–29.7% |23.7–30.3% |22.7–31.4% |
 | Nova Slovenija–Krščanski demokrati (EPP) | 16.5% | 8.1% | 7.0–9.6% |6.6–10.0% |6.3–10.4% |5.8–11.2% |
 | Socialni demokrati (S&D) | 8.1% | 7.1% | 6.0–8.6% |5.7–8.9% |5.5–9.3% |5.0–10.0% |
@@ -29,18 +29,18 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#gibanje-svoboda-(greens/efa)">Gibanje Svoboda (Greens/EFA)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Gibanje Svoboda (Greens/EFA)
+### Gibanje Svoboda (RE)
 
-*For a full overview of the results for this party, see the [Gibanje Svoboda (Greens/EFA)](party-gibanjesvobodagreensefa.html) page.*
+*For a full overview of the results for this party, see the [Gibanje Svoboda (RE)](party-gibanjesvobodare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2022-06-16-Ninamedia-seats-pmf-gibanjesvobodagreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-06-16-Ninamedia-seats-pmf-gibanjesvobodare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
