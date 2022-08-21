@@ -10,11 +10,13 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 23.4–28.8% | 22.7–29.5% | 22.1–30.1% | 21.0–31.3% |
+| N/A | [Poll Average](average.html) | 28.4% | 25.7–31.9% | 25.0–32.7% | 24.5–33.4% | 23.4–34.8% |
+| [8–10 August 2022](2022-08-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 30.9% | 28.7–33.2% | 28.1–33.8% | 27.5–34.4% | 26.5–35.5% |
+| [1–4 August 2022](2022-08-04-Mediana.html) | Mediana <br> Delo | 27.5% | 25.5–29.7% | 24.9–30.4% | 24.4–30.9% | 23.4–32.0% |
 | [18–21 July 2022](2022-07-21-Mediana.html) | Mediana <br> POP TV | 24.3% | 22.4–26.4% | 21.8–27.0% | 21.3–27.6% | 20.4–28.6% |
 | [4–7 July 2022](2022-07-07-Mediana.html) | Mediana <br> Delo | 23.5% | 21.5–25.6% | 21.0–26.2% | 20.5–26.7% | 19.6–27.8% |
 | [20–23 June 2022](2022-06-23-Mediana.html) | Mediana <br> POP TV | 23.1% | 21.2–25.2% | 20.6–25.8% | 20.1–26.3% | 19.3–27.3% |
-| [14–16 June 2022](2022-06-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 26.9% | 24.8–29.1% | 24.2–29.7% | 23.7–30.3% | 22.7–31.4% |
+| [14–16 June 2022](2022-06-16-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 27.9% | 25.8–30.1% | 25.2–30.7% | 24.7–31.3% | 23.7–32.4% |
 | [6–9 June 2022](2022-06-09-Mediana.html) | Mediana <br> Delo | 25.8% | 23.7–28.0% | 23.2–28.6% | 22.7–29.1% | 21.7–30.2% |
 | [24–26 May 2022](2022-05-26-Parsifal.html) | Parsifal <br> Planet TV | 27.2% | 25.1–29.4% | 24.5–30.1% | 24.0–30.6% | 23.1–31.7% |
 | [16–19 May 2022](2022-05-19-Parsifal.html) | Parsifal <br> Nova24TV | 29.9% | 27.7–32.2% | 27.1–32.8% | 26.6–33.4% | 25.6–34.5% |
@@ -161,22 +163,23 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 1.0% | 99.8% |  |
-| 21.5–22.5% | 3% | 98.8% |  |
-| 22.5–23.5% | 7% | 96% |  |
-| 23.5–24.5% | 11% | 89% |  |
-| 24.5–25.5% | 15% | 77% | Last Result |
-| 25.5–26.5% | 18% | 62% | Median |
-| 26.5–27.5% | 18% | 44% |  |
-| 27.5–28.5% | 14% | 27% |  |
-| 28.5–29.5% | 8% | 13% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 1.1% | 1.5% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
-| 32.5–33.5% | 0% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.5% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.4% |  |
+| 24.5–25.5% | 6% | 97% | Last Result |
+| 25.5–26.5% | 12% | 91% |  |
+| 26.5–27.5% | 16% | 79% |  |
+| 27.5–28.5% | 16% | 63% | Median |
+| 28.5–29.5% | 14% | 47% |  |
+| 29.5–30.5% | 11% | 33% |  |
+| 30.5–31.5% | 9% | 22% |  |
+| 31.5–32.5% | 6% | 12% |  |
+| 32.5–33.5% | 4% | 6% |  |
+| 33.5–34.5% | 2% | 2% |  |
+| 34.5–35.5% | 0.5% | 0.7% |  |
+| 35.5–36.5% | 0.1% | 0.2% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -187,7 +190,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–10 August 2022](2022-08-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 3 | 3 | 3 | 2–3 | 2–3 |
+| [1–4 August 2022](2022-08-04-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–21 July 2022](2022-07-21-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4–7 July 2022](2022-07-07-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–23 June 2022](2022-06-23-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -340,9 +345,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 63% | 100% | Median |
-| 3 | 36% | 37% | Last Result |
-| 4 | 0.3% | 0.3% |  |
+| 2 | 35% | 100% |  |
+| 3 | 65% | 65% | Last Result, Median |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% | Majority |
 
 
