@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-08-21T09:22:49.678261+02:00</updated>
+  <updated>2022-09-02T20:59:33.511357+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 25.7–32.3%, 3–4 seats</li><li>Socialni demokrati (S&amp;D): 4.7–8.3%, 0–1 seats</li><li>Levica (GUE/NGL): 4.9–8.6%, 0–1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 5.2–8.9%, 0–1 seats</li><li>Slovenska nacionalna stranka (NI): 1.0–2.9%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 0.5–2.0%, 0 seats</li><li>Piratska stranka Slovenije (Greens/EFA): 1.2–3.2%, 0 seats</li><li>Gibanje Svoboda (RE): 35.3–42.4%, 4–5 seats</li><li>Naša dežela (*): 0.2–1.4%, 0 seats</li><li>Resni.ca (*): 2.6–5.4%, 0 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 0.7–2.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-25-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-25-Mediana.html"/>
+    <title>Opinion Poll by Mediana for POP TV, 22–25 August 2022</title>
+    <updated>2022-09-02T20:59:33.511357+02:00</updated>
+    <dc:date>2022-09-02T20:59:33.511357+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Slovenska demokratska stranka (EPP): 27.5–34.4%, 2–3 seats</li><li>Socialni demokrati (S&amp;D): 5.2–9.0%, 0 seats</li><li>Levica (GUE/NGL): 4.8–8.5%, 0 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 8.5–13.1%, 0–1 seats</li><li>Gibanje Svoboda (RE): 40.4–47.7%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia.html</id>
@@ -967,5 +975,5 @@
     <updated>2019-06-30T12:23:33+02:00</updated>
     <dc:date>2019-06-30T12:23:33+02:00</dc:date>
   </entry>
-  <dc:date>2022-08-21T09:22:49.678261+02:00</dc:date>
+  <dc:date>2022-09-02T20:59:33.511357+02:00</dc:date>
 </feed>
