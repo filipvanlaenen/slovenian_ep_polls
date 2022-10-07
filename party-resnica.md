@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.7–4.6% | 2.5–4.9% | 2.3–5.2% | 2.0–5.8% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.6% | 2.2–4.9% | 1.9–5.4% |
+| [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 6.2% | N/A | N/A | N/A | N/A |
+| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV | 4.7% | N/A | N/A | N/A | N/A |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
+| [5–8 September 2022](2022-09-08-Mediana.html) | Mediana <br> Delo | 3.2% | N/A | N/A | N/A | N/A |
 | [29–31 August 2022](2022-08-31-Parsifal.html) | Parsifal <br> Planet TV | 3.3% | 2.6–4.3% | 2.3–4.6% | 2.2–4.9% | 1.9–5.4% |
 | [22–25 August 2022](2022-08-25-Mediana.html) | Mediana <br> POP TV | 3.7% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–6.0% |
 | [8–10 August 2022](2022-08-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
@@ -168,11 +171,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 42% | 94% |  |
-| 3.5–4.5% | 41% | 52% | Median |
-| 4.5–5.5% | 10% | 11% |  |
-| 5.5–6.5% | 0.9% | 1.0% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 51% | 91% | Median |
+| 3.5–4.5% | 34% | 39% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -185,7 +188,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO |  |  |  |  |  |
+| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
+| [5–8 September 2022](2022-09-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [29–31 August 2022](2022-08-31-Parsifal.html) | Parsifal <br> Planet TV | 0 | 0 | 0 | 0 | 0 |
 | [22–25 August 2022](2022-08-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [8–10 August 2022](2022-08-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
