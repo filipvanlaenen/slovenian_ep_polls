@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.3% | 33.7–42.9% | 33.1–43.8% | 32.6–44.6% | 31.8–45.9% |
+| N/A | [Poll Average](average.html) | 38.7% | 34.0–42.8% | 33.3–43.7% | 32.8–44.4% | 31.9–45.8% |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 34.4% | 32.8–36.0% | 32.4–36.4% | 32.0–36.8% | 31.3–37.6% |
-| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV | 40.3% | N/A | N/A | N/A | N/A |
+| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV | 40.3% | 38.0–42.7% | 37.4–43.4% | 36.8–43.9% | 35.7–45.1% |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 41.9% | 39.5–44.3% | 38.8–45.0% | 38.3–45.6% | 37.1–46.7% |
 | [5–8 September 2022](2022-09-08-Mediana.html) | Mediana <br> Delo | 35.8% | N/A | N/A | N/A | N/A |
 | [29–31 August 2022](2022-08-31-Parsifal.html) | Parsifal <br> Planet TV | 37.3% | 35.0–39.7% | 34.3–40.3% | 33.8–40.9% | 32.7–42.1% |
@@ -200,23 +200,23 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.3% | 100% |  |
-| 31.5–32.5% | 2% | 99.7% |  |
-| 32.5–33.5% | 6% | 98% |  |
-| 33.5–34.5% | 12% | 91% |  |
-| 34.5–35.5% | 13% | 79% |  |
-| 35.5–36.5% | 10% | 67% |  |
-| 36.5–37.5% | 9% | 57% | Median |
-| 37.5–38.5% | 8% | 48% |  |
-| 38.5–39.5% | 7% | 40% |  |
-| 39.5–40.5% | 7% | 33% |  |
-| 40.5–41.5% | 7% | 27% |  |
-| 41.5–42.5% | 7% | 19% |  |
+| 30.5–31.5% | 0.2% | 100% |  |
+| 31.5–32.5% | 1.4% | 99.8% |  |
+| 32.5–33.5% | 5% | 98% |  |
+| 33.5–34.5% | 9% | 93% |  |
+| 34.5–35.5% | 10% | 85% |  |
+| 35.5–36.5% | 8% | 75% |  |
+| 36.5–37.5% | 8% | 67% |  |
+| 37.5–38.5% | 8% | 59% |  |
+| 38.5–39.5% | 9% | 51% | Median |
+| 39.5–40.5% | 10% | 42% |  |
+| 40.5–41.5% | 11% | 31% |  |
+| 41.5–42.5% | 9% | 21% |  |
 | 42.5–43.5% | 6% | 12% |  |
-| 43.5–44.5% | 4% | 6% |  |
-| 44.5–45.5% | 2% | 3% |  |
-| 45.5–46.5% | 0.6% | 0.8% |  |
-| 46.5–47.5% | 0.2% | 0.2% |  |
+| 43.5–44.5% | 3% | 6% |  |
+| 44.5–45.5% | 2% | 2% |  |
+| 45.5–46.5% | 0.5% | 0.7% |  |
+| 46.5–47.5% | 0.1% | 0.2% |  |
 | 47.5–48.5% | 0% | 0% |  |
 
 
@@ -228,9 +228,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 4 | 4 | 4 | 4–5 | 4–5 |
-| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [5–8 September 2022](2022-09-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [29–31 August 2022](2022-08-31-Parsifal.html) | Parsifal <br> Planet TV | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -392,9 +392,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 93% | 98% | Median |
-| 5 | 5% | 5% | Majority |
-| 6 | 0% | 0% |  |
+| 3 | 1.4% | 100% |  |
+| 4 | 80% | 98.6% | Median |
+| 5 | 18% | 18% | Majority |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
