@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–3.0% | 0.8–3.3% | 0.8–3.6% | 0.6–4.1% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.8% | 0.4–3.2% | 0.3–3.5% | 0.2–4.0% |
+| [3–6 October 2022](2022-10-06-Mediana.html) | Mediana <br> Delo | 0.6% | 0.3–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.8% |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 1.1% | 0.8–1.5% | 0.7–1.7% | 0.7–1.8% | 0.6–2.0% |
 | [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0.0% | N/A | N/A | N/A | N/A |
@@ -169,11 +170,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 47% | 99.9% |  |
-| 1.5–2.5% | 29% | 53% | Median |
-| 2.5–3.5% | 21% | 24% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 0.0–0.5% | 12% | 100% | Last Result |
+| 0.5–1.5% | 52% | 88% | Median |
+| 1.5–2.5% | 20% | 36% |  |
+| 2.5–3.5% | 14% | 16% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -187,6 +188,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–6 October 2022](2022-10-06-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [12–19 September 2022](2022-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–15 September 2022](2022-09-15-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer |  |  |  |  |  |
