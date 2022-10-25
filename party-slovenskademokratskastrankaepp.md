@@ -10,7 +10,8 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 22.5–33.0% | 21.8–33.9% | 21.4–34.6% | 20.6–36.0% |
+| N/A | [Poll Average](average.html) | 26.8% | 21.5–33.0% | 20.9–33.9% | 20.4–34.6% | 19.3–36.0% |
+| [17–19 October 2022](2022-10-19-Mediana.html) | Mediana <br> POP TV | 22.4% | 20.5–24.5% | 20.0–25.0% | 19.5–25.6% | 18.6–26.6% |
 | [10–13 October 2022](2022-10-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 30.6% | 28.8–32.5% | 28.3–33.1% | 27.8–33.5% | 27.0–34.5% |
 | [3–6 October 2022](2022-10-06-Mediana.html) | Mediana <br> Delo | 27.3% | 25.2–29.5% | 24.6–30.1% | 24.1–30.6% | 23.2–31.7% |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 22.7% | 21.4–24.1% | 21.0–24.5% | 20.7–24.9% | 20.0–25.6% |
@@ -171,20 +172,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 3% | 99.5% |  |
-| 21.5–22.5% | 8% | 97% |  |
-| 22.5–23.5% | 9% | 89% |  |
-| 23.5–24.5% | 5% | 80% |  |
-| 24.5–25.5% | 3% | 75% | Last Result |
-| 25.5–26.5% | 5% | 72% |  |
-| 26.5–27.5% | 6% | 67% |  |
-| 27.5–28.5% | 7% | 61% |  |
-| 28.5–29.5% | 8% | 54% | Median |
-| 29.5–30.5% | 10% | 45% |  |
-| 30.5–31.5% | 11% | 35% |  |
-| 31.5–32.5% | 10% | 24% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.6% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.3% |  |
+| 20.5–21.5% | 7% | 97% |  |
+| 21.5–22.5% | 14% | 90% |  |
+| 22.5–23.5% | 14% | 76% |  |
+| 23.5–24.5% | 8% | 61% |  |
+| 24.5–25.5% | 3% | 53% | Last Result |
+| 25.5–26.5% | 0.7% | 51% |  |
+| 26.5–27.5% | 0.5% | 50% | Median |
+| 27.5–28.5% | 2% | 50% |  |
+| 28.5–29.5% | 5% | 48% |  |
+| 29.5–30.5% | 9% | 43% |  |
+| 30.5–31.5% | 11% | 34% |  |
+| 31.5–32.5% | 10% | 23% |  |
 | 32.5–33.5% | 7% | 14% |  |
 | 33.5–34.5% | 4% | 7% |  |
 | 34.5–35.5% | 2% | 3% |  |
@@ -203,6 +206,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [17–19 October 2022](2022-10-19-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–13 October 2022](2022-10-13-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–6 October 2022](2022-10-06-Mediana.html) | Mediana <br> Delo | 3 | 3 | 3 | 2–3 | 2–4 |
 | [26–28 September 2022](2022-09-28-Valicon.html) | Valicon <br> RTV SLO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -365,8 +369,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 13% | 100% |  |
-| 3 | 67% | 87% | Last Result, Median |
+| 2 | 35% | 100% |  |
+| 3 | 45% | 65% | Last Result, Median |
 | 4 | 19% | 19% |  |
 | 5 | 0% | 0% | Majority |
 
