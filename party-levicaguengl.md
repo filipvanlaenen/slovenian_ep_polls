@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.1–8.7% | 3.7–9.0% | 3.4–9.4% | 2.9–9.9% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.0–8.7% | 3.7–9.0% | 3.4–9.4% | 2.9–9.9% |
+| [21–24 November 2022](2022-11-24-Mediana.html) | Mediana <br> POP TV | 5.0% | 4.1–6.2% | 3.8–6.5% | 3.6–6.8% | 3.2–7.4% |
 | [7–10 November 2022](2022-11-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 7.1% | 6.0–8.6% | 5.7–8.9% | 5.5–9.3% | 5.0–10.0% |
 | [9 November 2022](2022-11-09-Mediana.html) | Mediana <br> Delo | 5.7% | 4.7–7.0% | 4.5–7.3% | 4.2–7.7% | 3.8–8.3% |
 | [17–19 October 2022](2022-10-19-Mediana.html) | Mediana <br> POP TV | 6.5% | 5.5–7.8% | 5.2–8.2% | 4.9–8.5% | 4.5–9.2% |
@@ -175,12 +176,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 3% | 99.9% |  |
-| 3.5–4.5% | 13% | 97% |  |
-| 4.5–5.5% | 17% | 83% | Last Result |
-| 5.5–6.5% | 17% | 66% |  |
-| 6.5–7.5% | 17% | 49% | Median |
-| 7.5–8.5% | 20% | 32% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 18% | 96% |  |
+| 4.5–5.5% | 20% | 78% | Last Result |
+| 5.5–6.5% | 13% | 58% | Median |
+| 6.5–7.5% | 14% | 45% |  |
+| 7.5–8.5% | 19% | 31% |  |
 | 8.5–9.5% | 10% | 12% |  |
 | 9.5–10.5% | 1.4% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
@@ -196,6 +197,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–24 November 2022](2022-11-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [7–10 November 2022](2022-11-10-Ninamedia.html) | Ninamedia <br> Dnevnik, Večer | 0 | 0 | 0 | 0 | 0–1 |
 | [9 November 2022](2022-11-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 October 2022](2022-10-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
