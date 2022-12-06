@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 16 Nov 2022 17:06:38 +0100</pubDate>
+    <pubDate>Mon, 05 Dec 2022 22:59:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 21–24 November 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana-seats.png"
+        length="254108"
+        type="image/png"/>
+      <pubDate>Mon, 05 Dec 2022 22:59:41 +0100</pubDate>
+      <dc:date>2022-12-05T22:59:41.982281+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 21–24 November 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana-coalitions-seats.png"
+        length="189708"
+        type="image/png"/>
+      <pubDate>Mon, 05 Dec 2022 22:59:41 +0100</pubDate>
+      <dc:date>2022-12-05T22:59:41.982281+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 21–24 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 21.1–27.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 3.6–6.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.6–3.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.0–4.6%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 36.6–43.7%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 1.7–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-24-Mediana.png"
+        length="305608"
+        type="image/png"/>
+      <pubDate>Mon, 05 Dec 2022 22:59:41 +0100</pubDate>
+      <dc:date>2022-12-05T22:59:41.982281+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 7–10 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia.html#seats</link>
@@ -3909,6 +3939,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2022-11-16T17:06:38.269316+01:00</dc:date>
+    <dc:date>2022-12-05T22:59:41.982281+01:00</dc:date>
   </channel>
 </rss>
