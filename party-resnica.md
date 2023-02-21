@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.3% | 3.4–5.4% | 3.2–5.7% | 3.0–6.0% | 2.6–6.6% |
+| [13–15 February 2023](2023-02-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 February 2023](2023-02-10-Mediana.html) | Mediana <br> Delo | 4.2% | 3.4–5.4% | 3.2–5.7% | 3.0–6.0% | 2.6–6.6% |
 | [16–19 January 2023](2023-01-19-Mediana.html) | Mediana <br> POP TV | 2.0% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% | 1.0–3.7% |
 | [9–12 January 2023](2023-01-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -202,6 +203,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–15 February 2023](2023-02-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [6–10 February 2023](2023-02-10-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [16–19 January 2023](2023-01-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [9–12 January 2023](2023-01-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
