@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 2.0% | 1.4–2.8% | 1.3–3.1% | 1.2–3.3% | 1.0–3.8% |
+| [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.7–3.1% |
 | [13–15 March 2023](2023-03-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 March 2023](2023-03-09-Mediana.html) | Mediana <br> Delo | 1.3% | 0.9–2.0% | 0.7–2.2% | 0.7–2.4% | 0.5–2.8% |
 | [21–23 February 2023](2023-02-23-Mediana.html) | Mediana <br> POP TV | 2.1% | 1.6–3.0% | 1.4–3.2% | 1.3–3.4% | 1.1–3.9% |
@@ -186,11 +188,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% | Last Result |
-| 0.5–1.5% | 67% | 99.3% | Median |
-| 1.5–2.5% | 31% | 32% |  |
-| 2.5–3.5% | 1.3% | 1.3% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 65% | 86% | Median |
+| 2.5–3.5% | 19% | 20% |  |
+| 3.5–4.5% | 1.0% | 1.0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -202,6 +205,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
+| [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [13–15 March 2023](2023-03-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [6–9 March 2023](2023-03-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [21–23 February 2023](2023-02-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
