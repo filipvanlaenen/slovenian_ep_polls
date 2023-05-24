@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.2% | 0.1–0.5% | 0.1–0.7% | 0.0–0.8% | 0.0–1.0% |
+| [8–10 May 2023](2023-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 May 2023](2023-05-04-Mediana.html) | Mediana <br> Delo | 0.1% | 0.1–0.5% | 0.0–0.7% | 0.0–0.8% | 0.0–1.0% |
+| [17–20 April 2023](2023-04-20-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 April 2023](2023-04-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 0.7% | 0.4–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–2.0% |
 | [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -204,7 +206,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–10 May 2023](2023-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–4 May 2023](2023-05-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
+| [17–20 April 2023](2023-04-20-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [11–13 April 2023](2023-04-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |

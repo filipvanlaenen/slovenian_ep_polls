@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.2–2.5% | 1.1–2.7% | 1.0–2.9% | 0.8–3.3% |
+| [8–10 May 2023](2023-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 May 2023](2023-05-04-Mediana.html) | Mediana <br> Delo | 1.7% | 1.2–2.5% | 1.1–2.7% | 1.0–2.9% | 0.8–3.3% |
+| [17–20 April 2023](2023-04-20-Mediana.html) | Mediana <br> POP TV | 0.4% | 0.2–0.9% | 0.2–1.1% | 0.1–1.2% | 0.1–1.5% |
 | [11–13 April 2023](2023-04-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
 | [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -207,7 +209,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–10 May 2023](2023-05-10-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–4 May 2023](2023-05-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
+| [17–20 April 2023](2023-04-20-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [11–13 April 2023](2023-04-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–7 April 2023](2023-04-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [20–23 March 2023](2023-03-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
