@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Jul 2023 22:50:34 +0200</pubDate>
+    <pubDate>Fri, 04 Aug 2023 16:58:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 17–20 July 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana-seats.png"
+        length="299857"
+        type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 16:58:06 +0200</pubDate>
+      <dc:date>2023-08-04T16:58:06.760186+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 17–20 July 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana-coalitions-seats.png"
+        length="192905"
+        type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 16:58:06 +0200</pubDate>
+      <dc:date>2023-08-04T16:58:06.760186+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 17–20 July 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.9–11.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.0–35.9%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.1–3.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.4–7.9%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 28.3–35.2%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0.0–0.8%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.7–5.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.9–11.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-20-Mediana.png"
+        length="369321"
+        type="image/png"/>
+      <pubDate>Fri, 04 Aug 2023 16:58:06 +0200</pubDate>
+      <dc:date>2023-08-04T16:58:06.760186+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 July 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia.html#seats</link>
@@ -640,7 +670,7 @@
       <dc:date>2022-12-26T10:47:04.508109+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–14 December 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 December 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia-seats.png"
@@ -650,7 +680,7 @@
       <dc:date>2022-12-20T18:31:31.090211+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–14 December 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 December 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia-coalitions-seats.png"
@@ -660,7 +690,7 @@
       <dc:date>2022-12-20T18:31:31.090211+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–14 December 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 December 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.6–32.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.9–13.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.3–9.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.7–14.5%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 35.5–42.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-12-14-Ninamedia.png"
@@ -730,7 +760,7 @@
       <dc:date>2022-12-05T22:59:41.982281+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 7–10 November 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 7–10 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia-seats.png"
@@ -740,7 +770,7 @@
       <dc:date>2022-11-16T16:54:16.97982+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 7–10 November 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 7–10 November 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia-coalitions-seats.png"
@@ -750,7 +780,7 @@
       <dc:date>2022-11-16T16:54:16.97982+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 7–10 November 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 7–10 November 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.9–32.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.1–12.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.5–9.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.7–14.5%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 34.9–42.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-11-10-Ninamedia.png"
@@ -820,7 +850,7 @@
       <dc:date>2022-10-25T20:07:03.986761+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–13 October 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–13 October 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia-seats.png"
@@ -830,7 +860,7 @@
       <dc:date>2022-10-19T21:19:42.730174+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–13 October 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–13 October 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia-coalitions-seats.png"
@@ -840,7 +870,7 @@
       <dc:date>2022-10-19T21:19:42.730174+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–13 October 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–13 October 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.8–33.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.5–12.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 34.8–40.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-10-13-Ninamedia.png"
@@ -940,7 +970,7 @@
       <dc:date>2022-10-08T09:44:33.238643+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–15 September 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–15 September 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia-seats.png"
@@ -950,7 +980,7 @@
       <dc:date>2022-09-21T16:08:49.061887+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–15 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–15 September 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia-coalitions-seats.png"
@@ -960,7 +990,7 @@
       <dc:date>2022-09-21T16:08:49.061887+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–15 September 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–15 September 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.6–33.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.7–10.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.3–7.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.1–13.9%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 38.3–45.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-09-15-Ninamedia.png"
@@ -1030,7 +1060,7 @@
       <dc:date>2022-09-02T20:59:33.511357+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 8–10 August 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 8–10 August 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia-seats.png"
@@ -1040,7 +1070,7 @@
       <dc:date>2022-08-21T09:07:24.474539+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 8–10 August 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 8–10 August 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia-coalitions-seats.png"
@@ -1050,7 +1080,7 @@
       <dc:date>2022-08-21T09:07:24.474539+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 8–10 August 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 8–10 August 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.5–34.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.2–9.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.8–8.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.5–13.1%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 40.4–47.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-08-10-Ninamedia.png"
@@ -1180,7 +1210,7 @@
       <dc:date>2022-06-27T21:00:23.941253+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 June 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 June 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia-seats.png"
@@ -1190,7 +1220,7 @@
       <dc:date>2022-08-21T09:22:49.678261+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 June 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia-coalitions-seats.png"
@@ -1200,7 +1230,7 @@
       <dc:date>2022-08-21T09:22:49.678261+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 June 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 June 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 24.7–31.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.7–9.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.7–9.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.7–10.9%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 38.5–45.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-06-16-Ninamedia.png"
@@ -1330,7 +1360,7 @@
       <dc:date>2022-06-06T12:49:57.653794+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia-seats.png"
@@ -1340,7 +1370,7 @@
       <dc:date>2022-05-20T20:02:04.941073+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 May 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia-coalitions-seats.png"
@@ -1350,7 +1380,7 @@
       <dc:date>2022-05-20T20:02:04.941073+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 May 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 May 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.0–26.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.2–9.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.7–8.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.1–8.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 40.6–48.0%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.6–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-05-12-Ninamedia.png"
@@ -1390,7 +1420,7 @@
       <dc:date>2022-05-20T20:11:01.244213+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 20–22 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia-seats.png"
@@ -1400,7 +1430,7 @@
       <dc:date>2022-05-20T20:21:20.484203+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 20–22 April 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia-coalitions-seats.png"
@@ -1410,7 +1440,7 @@
       <dc:date>2022-05-20T20:21:20.484203+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 20–22 April 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 20–22 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 21.3–26.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 3.2–5.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.5–10.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.6–9.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.4–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.9–2.6%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.7–3.8%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.5–5.0%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 24.8–30.7%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.6–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-22-Ninamedia.png"
@@ -1420,7 +1450,7 @@
       <dc:date>2022-05-20T20:21:20.484203+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 19–21 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana-seats.png"
@@ -1430,7 +1460,7 @@
       <dc:date>2022-05-20T20:31:38.132036+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 19–21 April 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana-coalitions-seats.png"
@@ -1440,7 +1470,7 @@
       <dc:date>2022-05-20T20:31:38.132036+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 19–21 April 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 19–21 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.5–27.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 24.2–29.6%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-21-Mediana.png"
@@ -1480,7 +1510,7 @@
       <dc:date>2022-05-20T20:42:28.040721+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 4–7 April 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 4–7 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia-seats.png"
@@ -1490,7 +1520,7 @@
       <dc:date>2022-04-10T09:59:22.005283+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 4–7 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 4–7 April 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia-coalitions-seats.png"
@@ -1500,7 +1530,7 @@
       <dc:date>2022-04-10T09:59:22.005283+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 4–7 April 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 4–7 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.3–25.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 4.4–7.2%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.1–11.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 10.0–13.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 24.3–29.6%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 1.8–3.7%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Ninamedia.png"
@@ -1510,7 +1540,7 @@
       <dc:date>2022-04-10T09:59:22.005283+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 4–7 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana-seats.png"
@@ -1520,7 +1550,7 @@
       <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 4–7 April 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana-coalitions-seats.png"
@@ -1530,7 +1560,7 @@
       <dc:date>2022-04-12T09:28:59.296407+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for Delo, POP TV, 4–7 April 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for Delo and POP TV, 4–7 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.5–25.7%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 22.0–27.3%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 1.4–3.2%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-04-07-Mediana.png"
@@ -1630,7 +1660,7 @@
       <dc:date>2022-04-04T19:27:11.434618+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–24 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-seats.png"
@@ -1640,7 +1670,7 @@
       <dc:date>2022-04-04T19:32:48.46481+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–24 March 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia-coalitions-seats.png"
@@ -1650,7 +1680,7 @@
       <dc:date>2022-04-04T19:32:48.46481+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–24 March 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–24 March 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 21.8–27.0%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 4.8–7.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.9–12.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–7.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 23.2–28.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-03-24-Ninamedia.png"
@@ -1750,7 +1780,7 @@
       <dc:date>2022-03-07T19:20:32.886529+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–23 February 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–23 February 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Liberalni demokrati (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia-seats.png"
@@ -1760,7 +1790,7 @@
       <dc:date>2022-03-04T18:22:25.459564+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–23 February 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–23 February 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia-coalitions-seats.png"
@@ -1770,7 +1800,7 @@
       <dc:date>2022-03-04T18:22:25.459564+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 21–23 February 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 21–23 February 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.0–25.0%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 5.1–8.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 9.8–13.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.6–11.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.7–6.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.2–2.8%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.7–4.9%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 22.3–27.6%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 1.9–3.9%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Liberalni demokrati (*): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-02-23-Ninamedia.png"
@@ -1870,7 +1900,7 @@
       <dc:date>2022-02-22T18:55:37.475461+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 25–27 January 2022 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 25–27 January 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;li&gt;Lista Roberta Goloba (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia-seats.png"
@@ -1880,7 +1910,7 @@
       <dc:date>2022-02-22T19:05:36.062868+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 25–27 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 25–27 January 2022 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia-coalitions-seats.png"
@@ -1890,7 +1920,7 @@
       <dc:date>2022-02-22T19:05:36.062868+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnvnk, Včr, PrmNvc, Svt24, 25–27 January 2022 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnvnk, PrmNvc, Svt24 and Včr, 25–27 January 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.3–28.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 11.9–16.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.0–10.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–7.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Lista Roberta Goloba (*): 20.3–25.4%&lt;/li&gt;&lt;li&gt;Povežimo Slovenijo (EPP): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 1.8–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2022-01-27-Ninamedia.png"
@@ -1990,7 +2020,7 @@
       <dc:date>2021-12-04T13:25:29.114937+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 November 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia-seats.png"
@@ -2000,7 +2030,7 @@
       <dc:date>2022-01-19T19:14:28.318988+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 November 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia-coalitions-seats.png"
@@ -2010,7 +2040,7 @@
       <dc:date>2022-01-19T19:14:28.318988+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 November 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 November 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.7–30.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 9.4–14.2%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 19.1–25.2%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 10.6–15.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.4–12.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 5.2–9.0%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.1–3.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.1–3.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.7–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-11-11-Ninamedia.png"
@@ -2110,7 +2140,7 @@
       <dc:date>2021-07-27T12:46:53+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 July 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia-seats.png"
@@ -2120,7 +2150,7 @@
       <dc:date>2021-07-20T10:33:38+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 July 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia-coalitions-seats.png"
@@ -2130,7 +2160,7 @@
       <dc:date>2021-07-20T10:33:38+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 July 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.8–32.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 12.1–17.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 17.3–23.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 13.5–18.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.8–9.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.2–7.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.0–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-07-15-Ninamedia.png"
@@ -2200,7 +2230,7 @@
       <dc:date>2021-06-29T19:06:15+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 June 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia-seats.png"
@@ -2210,7 +2240,7 @@
       <dc:date>2021-06-30T11:19:53+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 June 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia-coalitions-seats.png"
@@ -2220,7 +2250,7 @@
       <dc:date>2021-06-30T11:19:53+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 June 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 28.6–35.6%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 12.3–17.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 13.1–18.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.4–14.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.8–13.4%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.2–7.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.1–3.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.7–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-06-17-Ninamedia.png"
@@ -2380,7 +2410,7 @@
       <dc:date>2021-05-26T07:49:36+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 May 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia-seats.png"
@@ -2390,7 +2420,7 @@
       <dc:date>2021-05-26T07:32:46+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 May 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia-coalitions-seats.png"
@@ -2400,7 +2430,7 @@
       <dc:date>2021-05-26T07:32:46+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 May 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.6–32.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 10.8–15.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 18.0–24.0%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.5–14.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.5–14.3%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.3–7.9%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.4–1.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.0–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-05-13-Ninamedia.png"
@@ -2470,7 +2500,7 @@
       <dc:date>2021-04-26T17:47:09+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia-seats.png"
@@ -2480,7 +2510,7 @@
       <dc:date>2021-04-23T08:44:08+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 April 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia-coalitions-seats.png"
@@ -2490,7 +2520,7 @@
       <dc:date>2021-04-23T08:44:08+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 April 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.4–33.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.2–18.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 17.7–23.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.8–13.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.4–14.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.1–7.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.1–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-04-15-Ninamedia.png"
@@ -2590,7 +2620,7 @@
       <dc:date>2021-03-17T18:55:00+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 March 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia-seats.png"
@@ -2600,7 +2630,7 @@
       <dc:date>2021-04-02T12:11:37+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 March 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia-coalitions-seats.png"
@@ -2610,7 +2640,7 @@
       <dc:date>2021-04-02T12:11:37+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 March 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.6–33.4%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 11.5–16.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 17.5–23.4%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.9–14.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.0–3.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.0–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-03-11-Ninamedia.png"
@@ -2680,7 +2710,7 @@
       <dc:date>2021-03-06T13:10:21+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 February 2021 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia-seats.png"
@@ -2690,7 +2720,7 @@
       <dc:date>2021-02-20T09:07:07+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 February 2021 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia-coalitions-seats.png"
@@ -2700,7 +2730,7 @@
       <dc:date>2021-02-20T09:07:07+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 February 2021 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.4–30.0%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.3–18.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 17.6–23.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 11.4–16.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.1–3.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.2–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2021-02-11-Ninamedia.png"
@@ -3070,7 +3100,7 @@
       <dc:date>2020-12-27T23:55:31+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 November 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia-seats.png"
@@ -3080,7 +3110,7 @@
       <dc:date>2020-11-22T13:52:52+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 November 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia-coalitions-seats.png"
@@ -3090,7 +3120,7 @@
       <dc:date>2020-11-22T13:52:52+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 November 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.0–32.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 15.6–21.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 15.5–21.2%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.7–14.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.4–6.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.4–5.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-11-12-Ninamedia.png"
@@ -3190,7 +3220,7 @@
       <dc:date>2020-11-07T13:05:08+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 October 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia-seats.png"
@@ -3200,7 +3230,7 @@
       <dc:date>2020-10-20T20:44:40+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 October 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia-coalitions-seats.png"
@@ -3210,7 +3240,7 @@
       <dc:date>2020-10-20T20:44:40+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 13–15 October 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.0–32.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 15.6–21.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 15.2–20.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.0–13.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.7–10.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 3.3–6.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.0–3.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.1–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-10-15-Ninamedia.png"
@@ -3310,7 +3340,7 @@
       <dc:date>2020-09-23T20:14:12+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 September 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia-seats.png"
@@ -3320,7 +3350,7 @@
       <dc:date>2020-09-23T18:36:35+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 September 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia-coalitions-seats.png"
@@ -3330,7 +3360,7 @@
       <dc:date>2020-09-23T18:36:35+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 15–17 September 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 15–17 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 30.2–37.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 11.4–16.5%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 17.9–23.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.8–13.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.1–10.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.5–3.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.6–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-09-17-Ninamedia.png"
@@ -3400,7 +3430,7 @@
       <dc:date>2020-08-25T19:51:31+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 August 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia-seats.png"
@@ -3410,7 +3440,7 @@
       <dc:date>2020-08-18T16:16:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 August 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia-coalitions-seats.png"
@@ -3420,7 +3450,7 @@
       <dc:date>2020-08-18T16:16:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 11–13 August 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 32.4–39.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 12.1–17.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 18.5–24.6%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.1–12.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 7.0–11.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.2–4.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-13-Ninamedia.png"
@@ -3430,7 +3460,7 @@
       <dc:date>2020-08-18T16:16:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 3–6 August 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for POP TV, 3–6 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana-seats.png"
@@ -3440,7 +3470,7 @@
       <dc:date>2020-08-17T23:04:51+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 3–6 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for POP TV, 3–6 August 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana-coalitions-seats.png"
@@ -3450,7 +3480,7 @@
       <dc:date>2020-08-17T23:04:51+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 3–6 August 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for POP TV, 3–6 August 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.1–33.8%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 12.7–17.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 14.7–20.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.3–3.4%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.9–13.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.9–4.5%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 1.5–3.8%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.5–3.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.1–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-08-06-Mediana.png"
@@ -3460,7 +3490,7 @@
       <dc:date>2020-08-17T23:04:51+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-seats.png"
@@ -3470,7 +3500,7 @@
       <dc:date>2020-08-08T18:10:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-coalitions-seats.png"
@@ -3480,7 +3510,7 @@
       <dc:date>2020-08-08T18:10:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.4–29.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 10.1–14.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 16.1–21.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 11.9–17.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.4–7.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.6–5.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.1–4.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.4–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.png"
@@ -3610,7 +3640,7 @@
       <dc:date>2020-07-06T17:25:09+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia-seats.png"
@@ -3620,7 +3650,7 @@
       <dc:date>2020-07-05T20:28:58+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 June 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia-coalitions-seats.png"
@@ -3630,7 +3660,7 @@
       <dc:date>2020-07-05T20:28:58+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 9–11 June 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.8–36.7%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.3–18.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 19.4–25.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 9.8–14.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.2–7.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.1–3.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.9–5.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.9–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-06-11-Ninamedia.png"
@@ -3670,7 +3700,7 @@
       <dc:date>2020-05-26T16:46:08+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–13 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia-seats.png"
@@ -3680,7 +3710,7 @@
       <dc:date>2020-05-25T20:01:50+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–13 May 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia-coalitions-seats.png"
@@ -3690,7 +3720,7 @@
       <dc:date>2020-05-25T20:01:50+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 12–13 May 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–13 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 32.1–39.2%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 16.8–22.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 10.8–15.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.9–12.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–8.7%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.0–3.0%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 4.5–8.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.9–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-05-13-Ninamedia.png"
@@ -3790,7 +3820,7 @@
       <dc:date>2020-05-18T23:06:44+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia-seats.png"
@@ -3800,7 +3830,7 @@
       <dc:date>2020-05-21T12:28:39+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 April 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia-coalitions-seats.png"
@@ -3810,7 +3840,7 @@
       <dc:date>2020-05-21T12:28:39+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 14–16 April 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 14–16 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 33.8–40.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 13.6–19.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 12.3–17.5%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.0–3.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 8.1–12.6%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.1–10.1%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.0–6.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 4.3–7.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.5–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-04-16-Ninamedia.png"
@@ -3850,7 +3880,7 @@
       <dc:date>2020-04-15T18:36:55+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 March 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia-seats.png"
@@ -3860,7 +3890,7 @@
       <dc:date>2020-03-18T13:45:42+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 March 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia-coalitions-seats.png"
@@ -3870,7 +3900,7 @@
       <dc:date>2020-03-18T13:45:42+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, Večer, 10–12 March 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 30.7–37.7%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 18.9–25.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 11.2–16.3%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.3–11.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 7.2–11.5%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.7–5.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.9–5.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.9–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-03-12-Ninamedia.png"
@@ -4450,7 +4480,7 @@
       <dc:date>2019-08-31T13:29:37+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 12–14 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia-seats.png"
@@ -4460,7 +4490,7 @@
       <dc:date>2019-08-23T17:58:00+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 12–14 August 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia-coalitions-seats.png"
@@ -4470,7 +4500,7 @@
       <dc:date>2019-08-23T17:58:00+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 12–14 August 2019 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 12–14 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 20.0–26.3%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 29.5–36.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 12.4–17.7%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.3–1.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.2–11.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 3.9–7.2%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.4–5.2%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.4–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-08-14-Ninamedia.png"
@@ -4510,7 +4540,7 @@
       <dc:date>2019-08-25T17:35:19+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 11–13 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia-seats.png"
@@ -4520,7 +4550,7 @@
       <dc:date>2019-07-18T12:52:55+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 11–13 July 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia-coalitions-seats.png"
@@ -4530,7 +4560,7 @@
       <dc:date>2019-07-18T12:52:55+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for RTV SLO and Dnevnik, 11–13 July 2019 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and RTV SLO, 11–13 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.1–28.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 26.6–33.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 11.8–16.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.8–11.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.0–9.9%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0.9–2.8%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 3.5–6.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.7–4.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.4–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2019-07-13-Ninamedia.png"
@@ -4629,6 +4659,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2023-07-20T22:50:34.220393+02:00</dc:date>
+    <dc:date>2023-08-04T16:58:06.760186+02:00</dc:date>
   </channel>
 </rss>
