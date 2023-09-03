@@ -157,7 +157,7 @@ Last result: **16.5%** (General Election of 26 May 2019)
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.4% | 0.2–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.6% |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 1.8% | 1.3–2.6% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.1% | 2.1–5.7% |
-| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 2.5% | 1.9–3.4% | 1.7–3.7% | 1.6–3.9% | 1.3–4.4% |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POP TV | 2.5% | 1.9–3.4% | 1.7–3.7% | 1.6–3.9% | 1.3–4.4% |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 2.5% | 1.9–3.4% | 1.7–3.7% | 1.6–3.9% | 1.3–4.5% |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 3.2% | 2.5–4.2% | 2.3–4.5% | 2.1–4.8% | 1.9–5.3% |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 4.1% | 3.3–5.3% | 3.1–5.6% | 2.9–5.9% | 2.6–6.4% |
@@ -377,7 +377,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0 | 0 | 0 | 0 | 0 |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0 | 0 | 0 | 0 | 0 |
-| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 0 | 0 | 0 | 0 | 0 |
+| [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2020](2020-06-17-Parsifal.html) | Parsifal <br> Nova 24TV | 0 | 0 | 0 | 0 | 0 |
