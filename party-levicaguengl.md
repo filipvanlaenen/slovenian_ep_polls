@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.8–8.3% | 4.5–8.7% | 4.2–9.1% | 3.8–9.9% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.1–8.3% | 4.8–8.7% | 4.5–9.1% | 4.0–9.9% |
+| [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 5.7% | 4.8–7.0% | 4.5–7.4% | 4.3–7.7% | 3.8–8.4% |
 | [22–24 August 2023](2023-08-24-Mediana.html) | Mediana <br> POP TV | 5.5% | 4.5–6.7% | 4.2–7.1% | 4.0–7.4% | 3.6–8.0% |
 | [16–17 August 2023](2023-08-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.3% | 6.2–8.7% | 5.9–9.1% | 5.6–9.5% | 5.1–10.2% |
 | [7–10 August 2023](2023-08-10-Mediana.html) | Mediana <br> Delo | 8.2% | 7.1–9.7% | 6.7–10.1% | 6.4–10.5% | 5.9–11.2% |
@@ -202,13 +203,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 5% | 99.8% |  |
-| 4.5–5.5% | 21% | 94% | Last Result |
-| 5.5–6.5% | 27% | 74% | Median |
-| 6.5–7.5% | 24% | 47% |  |
-| 7.5–8.5% | 16% | 23% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 17% | 97% | Last Result |
+| 5.5–6.5% | 29% | 80% |  |
+| 6.5–7.5% | 27% | 51% | Median |
+| 7.5–8.5% | 17% | 24% |  |
 | 8.5–9.5% | 6% | 7% |  |
 | 9.5–10.5% | 1.0% | 1.1% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
@@ -224,6 +224,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
 | [22–24 August 2023](2023-08-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [16–17 August 2023](2023-08-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–10 August 2023](2023-08-10-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
