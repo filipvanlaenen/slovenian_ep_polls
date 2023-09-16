@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Sep 2023 10:32:16 +0200</pubDate>
+    <pubDate>Fri, 15 Sep 2023 16:04:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 4–7 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana-seats.png"
+        length="325966"
+        type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 16:04:15 +0200</pubDate>
+      <dc:date>2023-09-15T16:04:15.856576+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 4–7 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana-coalitions-seats.png"
+        length="194770"
+        type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 16:04:15 +0200</pubDate>
+      <dc:date>2023-09-15T16:04:15.856576+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 4–7 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.3–5.0%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.7–2.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.2–11.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 29.7–36.5%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.1–10.0%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.1–3.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.7–4.1%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.5–32.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.3–7.7%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.7–4.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.1–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana.png"
+        length="374555"
+        type="image/png"/>
+      <pubDate>Fri, 15 Sep 2023 16:04:15 +0200</pubDate>
+      <dc:date>2023-09-15T16:04:15.856576+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 22–24 August 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana.html#seats</link>
@@ -4749,6 +4779,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2023-09-02T10:32:16.732495+02:00</dc:date>
+    <dc:date>2023-09-15T16:04:15.856576+02:00</dc:date>
   </channel>
 </rss>
