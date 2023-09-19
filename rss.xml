@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 19 Sep 2023 20:29:56 +0200</pubDate>
+    <pubDate>Tue, 19 Sep 2023 22:29:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for Delo, 4–7 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-07-Mediana.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Tue, 19 Sep 2023 20:29:56 +0200</pubDate>
       <dc:date>2023-09-19T20:29:56.629381+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 August 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 4 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana-seats.png"
+        length="236836"
+        type="image/png"/>
+      <pubDate>Tue, 19 Sep 2023 22:29:59 +0200</pubDate>
+      <dc:date>2023-09-19T22:29:59.296913+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 August 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana-coalitions-seats.png"
+        length="144933"
+        type="image/png"/>
+      <pubDate>Tue, 19 Sep 2023 22:29:59 +0200</pubDate>
+      <dc:date>2023-09-19T22:29:59.296913+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 August 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0.6–2.2%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.3–5.0%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.4–11.7%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 28.4–35.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.3–7.7%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.4–3.6%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0.3–1.6%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 28.2–35.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.0–7.4%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.7–5.6%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.8–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-24-Mediana.png"
+        length="373990"
+        type="image/png"/>
+      <pubDate>Tue, 19 Sep 2023 22:29:59 +0200</pubDate>
+      <dc:date>2023-09-19T22:29:59.296913+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 17–20 July 2023 – Seat Projections for the Parties</title>
@@ -4689,6 +4719,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2023-09-19T20:29:56.629381+02:00</dc:date>
+    <dc:date>2023-09-19T22:29:59.296913+02:00</dc:date>
   </channel>
 </rss>
