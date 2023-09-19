@@ -256,13 +256,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [22–24 August 2023](2023-08-24-Mediana.html) | Mediana <br> POP TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [16–17 August 2023](2023-08-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [7–10 August 2023](2023-08-10-Mediana.html) | Mediana <br> Delo | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| [17–20 July 2023](2023-07-20-Mediana.html) | Mediana <br> POP TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [10–12 July 2023](2023-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 4 | 4 | 4 | 4 | 3–5 |
+| [22–24 August 2023](2023-08-24-Mediana.html) | Mediana <br> POP TV | 4 | 4 | 4 | 4 | 3–5 |
+| [16–17 August 2023](2023-08-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [7–10 August 2023](2023-08-10-Mediana.html) | Mediana <br> Delo | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [17–20 July 2023](2023-07-20-Mediana.html) | Mediana <br> POP TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [10–12 July 2023](2023-07-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [3–6 July 2023](2023-07-06-Mediana.html) | Mediana <br> Delo | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–22 June 2023](2023-06-22-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [12–14 June 2023](2023-06-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -454,8 +454,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 62% | 100% | Median |
-| 4 | 38% | 38% |  |
-| 5 | 0% | 0% | Majority |
+| 3 | 23% | 100% |  |
+| 4 | 76% | 77% | Median |
+| 5 | 0.9% | 0.9% | Majority |
+| 6 | 0% | 0% |  |
 
 
