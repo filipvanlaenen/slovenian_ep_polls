@@ -10,7 +10,9 @@ Last result: **8.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 7.4–11.7% | 6.9–12.2% | 6.6–12.7% | 6.0–13.6% |
+| N/A | [Poll Average](average.html) | 10.5% | 9.0–12.1% | 8.6–12.6% | 8.2–13.1% | 7.6–13.9% |
+| [9–11 October 2023](2023-10-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | 9.5–12.5% | 9.1–13.0% | 8.8–13.4% | 8.1–14.2% |
+| [2–5 October 2023](2023-10-05-Mediana.html) | Mediana <br> Delo | 10.0% | 8.7–11.5% | 8.3–12.0% | 8.0–12.4% | 7.4–13.2% |
 | [19–21 September 2023](2023-09-21-Mediana.html) | Mediana <br> POP TV | 8.1% | 6.9–9.6% | 6.6–10.0% | 6.3–10.3% | 5.8–11.1% |
 | [11–13 September 2023](2023-09-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.6% | 9.2–12.2% | 8.8–12.7% | 8.5–13.1% | 7.9–13.9% |
 | [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 9.1% | 7.8–10.6% | 7.5–11.1% | 7.2–11.4% | 6.6–12.2% |
@@ -111,7 +113,7 @@ Last result: **8.1%** (General Election of 26 May 2019)
 | [6–9 September 2021](2021-09-09-Mediana.html) | Mediana <br> Delo | 17.2% | N/A | N/A | N/A | N/A |
 | [30 August–2 September 2021](2021-09-02-Parsifal.html) | Parsifal <br> Nova 24TV | 16.3% | N/A | N/A | N/A | N/A |
 | [1–22 August 2021](2021-08-22-Mediana.html) | Mediana <br> POP TV | 17.6% | N/A | N/A | N/A | N/A |
-| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 19.4% | N/A | N/A | N/A | N/A |
+| [10–12 August 2021](2021-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 19.6% | N/A | N/A | N/A | N/A |
 | [2–5 August 2021](2021-08-05-Mediana.html) | Mediana <br> Delo | 19.2% | N/A | N/A | N/A | N/A |
 | [1–25 July 2021](2021-07-25-Mediana.html) | Mediana <br> POP TV | 17.8% | 16.0–19.7% | 15.6–20.3% | 15.1–20.8% | 14.4–21.7% |
 | [13–15 July 2021](2021-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 20.1% | 18.3–22.2% | 17.8–22.8% | 17.3–23.3% | 16.5–24.3% |
@@ -159,7 +161,7 @@ Last result: **8.1%** (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 14.6% | 13.0–16.4% | 12.5–16.9% | 12.2–17.3% | 11.4–18.3% |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 21.4% | 19.5–23.5% | 19.0–24.1% | 18.5–24.6% | 17.7–25.7% |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 17.4% | 15.6–19.3% | 15.1–19.8% | 14.7–20.3% | 14.0–21.2% |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 18.8% | 17.1–20.8% | 16.6–21.4% | 16.1–21.9% | 15.3–22.8% |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV | 18.8% | 17.1–20.8% | 16.6–21.4% | 16.1–21.9% | 15.3–22.8% |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POP TV | 17.2% | 15.5–19.2% | 15.1–19.7% | 14.7–20.2% | 13.9–21.1% |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 16.5% | 14.8–18.4% | 14.4–18.9% | 14.0–19.4% | 13.2–20.3% |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 13.2% | 11.7–15.0% | 11.3–15.5% | 11.0–15.9% | 10.3–16.8% |
@@ -172,7 +174,7 @@ Last result: **8.1%** (General Election of 26 May 2019)
 | [26 April 2020](2020-04-26-Mediana.html) | Mediana <br> POPTV | 10.6% | 9.3–12.3% | 8.9–12.7% | 8.6–13.1% | 8.0–13.9% |
 | [14–16 April 2020](2020-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 14.7% | 13.1–16.6% | 12.7–17.1% | 12.3–17.5% | 11.6–18.5% |
 | [6–9 April 2020](2020-04-09-Mediana.html) | Mediana <br> Delo | 13.5% | 12.0–15.3% | 11.6–15.8% | 11.2–16.2% | 10.5–17.1% |
-| [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 13.6% | 12.0–15.4% | 11.6–15.9% | 11.2–16.3% | 10.5–17.2% |
+| [10–12 March 2020](2020-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 13.4% | 12.0–15.4% | 11.6–15.9% | 11.2–16.3% | 10.5–17.2% |
 | [25 February–4 March 2020](2020-03-04-Mediana.html) | Mediana <br> Delo | 10.6% | 9.3–12.1% | 8.9–12.5% | 8.6–12.9% | 8.0–13.7% |
 | [19–20 February 2020](2020-02-20-Parsifal.html) | Parsifal <br> Nova 24TV | 7.8% | 6.6–9.2% | 6.3–9.6% | 6.0–10.0% | 5.5–10.7% |
 | [14 January–16 February 2020](2020-02-16-Ninamedia.html) | Ninamedia <br> RTV SLO | 12.1% | 10.7–13.9% | 10.3–14.4% | 9.9–14.8% | 9.3–15.6% |
@@ -205,17 +207,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 11% | 98% |  |
-| 7.5–8.5% | 20% | 87% | Last Result |
-| 8.5–9.5% | 20% | 67% | Median |
-| 9.5–10.5% | 19% | 47% |  |
-| 10.5–11.5% | 16% | 28% |  |
-| 11.5–12.5% | 8% | 11% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 4% | 99.6% | Last Result |
+| 8.5–9.5% | 17% | 95% |  |
+| 9.5–10.5% | 30% | 78% | Median |
+| 10.5–11.5% | 28% | 48% |  |
+| 11.5–12.5% | 14% | 20% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.9% | 1.0% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -228,7 +228,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [9–11 October 2023](2023-10-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
+| [2–5 October 2023](2023-10-05-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 0–1 |
 | [19–21 September 2023](2023-09-21-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 September 2023](2023-09-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–7 September 2023](2023-09-07-Mediana.html) | Mediana <br> Delo | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -377,7 +379,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 2 | 2 | 2 | 2 | 1–2 |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 2 | 2 | 2 | 2 | 2–3 |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2 | 2 | 2–3 |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -425,8 +427,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 89% | 89% | Last Result, Median |
+| 0 | 0.9% | 100% |  |
+| 1 | 99.1% | 99.1% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
