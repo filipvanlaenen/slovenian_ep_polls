@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.8% | 27.3–32.4% | 26.6–33.1% | 26.0–33.8% | 24.8–35.1% |
+| N/A | [Poll Average](average.html) | 28.6% | 26.1–31.6% | 25.5–32.4% | 24.9–33.2% | 23.9–34.6% |
 | [17–27 October 2023](2023-10-27-Ninamedia.html) | Ninamedia <br> Dnevnik | 29.7% | 27.3–32.4% | 26.6–33.2% | 26.0–33.8% | 24.8–35.1% |
-| [17–19 October 2023](2023-10-19-Mediana.html) | Mediana <br> POP TV | 27.7% | N/A | N/A | N/A | N/A |
+| [17–19 October 2023](2023-10-19-Mediana.html) | Mediana <br> POP TV | 27.7% | 25.6–29.9% | 25.0–30.5% | 24.5–31.0% | 23.5–32.1% |
 | [9–11 October 2023](2023-10-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 31.7% | 29.5–34.0% | 28.9–34.7% | 28.4–35.3% | 27.3–36.4% |
 | [2–5 October 2023](2023-10-05-Mediana.html) | Mediana <br> Delo | 26.6% | 24.5–28.7% | 24.0–29.4% | 23.5–29.9% | 22.5–31.0% |
 | [19–21 September 2023](2023-09-21-Mediana.html) | Mediana <br> POP TV | 30.6% | 28.5–32.9% | 27.9–33.5% | 27.4–34.1% | 26.4–35.2% |
@@ -232,22 +232,21 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.3% | 99.9% |  |
-| 24.5–25.5% | 1.1% | 99.7% |  |
-| 25.5–26.5% | 3% | 98.5% |  |
-| 26.5–27.5% | 8% | 95% |  |
-| 27.5–28.5% | 14% | 87% |  |
-| 28.5–29.5% | 19% | 73% |  |
-| 29.5–30.5% | 19% | 55% | Median |
-| 30.5–31.5% | 16% | 35% |  |
-| 31.5–32.5% | 10% | 19% |  |
-| 32.5–33.5% | 5% | 9% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.8% | 1.0% |  |
-| 35.5–36.5% | 0.2% | 0.3% |  |
-| 36.5–37.5% | 0% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 1.2% | 99.7% |  |
+| 24.5–25.5% | 4% | 98% |  |
+| 25.5–26.5% | 9% | 95% |  |
+| 26.5–27.5% | 15% | 85% |  |
+| 27.5–28.5% | 18% | 70% |  |
+| 28.5–29.5% | 18% | 52% | Median |
+| 29.5–30.5% | 14% | 34% |  |
+| 30.5–31.5% | 10% | 20% |  |
+| 31.5–32.5% | 6% | 10% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 1.2% | 2% |  |
+| 34.5–35.5% | 0.4% | 0.5% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -258,9 +257,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 2–4 |
 | [17–27 October 2023](2023-10-27-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3 | 3 | 2–4 | 2–4 |
-| [17–19 October 2023](2023-10-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [17–19 October 2023](2023-10-19-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 3 | 3–4 | 3–4 |
 | [9–11 October 2023](2023-10-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–5 October 2023](2023-10-05-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19–21 September 2023](2023-09-21-Mediana.html) | Mediana <br> POP TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -461,8 +460,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 93% | 97% | Median |
+| 2 | 2% | 100% |  |
+| 3 | 95% | 98% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% | Majority |
 
