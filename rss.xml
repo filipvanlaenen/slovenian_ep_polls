@@ -8,7 +8,67 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Nov 2023 12:45:29 +0100</pubDate>
+    <pubDate>Sat, 25 Nov 2023 21:11:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia-seats.png"
+        length="228273"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 20:56:34 +0100</pubDate>
+      <dc:date>2023-11-25T20:56:34.578718+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia-coalitions-seats.png"
+        length="186902"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 20:56:34 +0100</pubDate>
+      <dc:date>2023-11-25T20:56:34.578718+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 13–15 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 10.3–16.8%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 23.3–31.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.2–14.2%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 33.2–42.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.3–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-15-Ninamedia.png"
+        length="234373"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 20:56:34 +0100</pubDate>
+      <dc:date>2023-11-25T20:56:34.578718+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 6–9 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Dobra država (*): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana-seats.png"
+        length="301248"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 21:11:11 +0100</pubDate>
+      <dc:date>2023-11-25T21:11:11.65103+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 6–9 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana-coalitions-seats.png"
+        length="197028"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 21:11:11 +0100</pubDate>
+      <dc:date>2023-11-25T21:11:11.65103+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 6–9 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Naša dežela (*): 0.7–3.0%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.7–6.4%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.3–2.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.1–13.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 18.0–25.3%&lt;/li&gt;&lt;li&gt;Dobra država (*): 0.3–2.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.2–13.8%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.3–4.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.1–5.4%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.1–37.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.3–8.6%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.6–6.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.5–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-11-09-Mediana.png"
+        length="407396"
+        type="image/png"/>
+      <pubDate>Sat, 25 Nov 2023 21:11:11 +0100</pubDate>
+      <dc:date>2023-11-25T21:11:11.65103+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 17–27 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-27-Ninamedia.html#seats</link>
@@ -70,7 +130,7 @@
       <dc:date>2023-11-04T12:45:29.469081+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 9–11 October 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia-seats.png"
@@ -80,7 +140,7 @@
       <dc:date>2023-10-19T20:39:08.210851+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 9–11 October 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 October 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia-coalitions-seats.png"
@@ -90,7 +150,7 @@
       <dc:date>2023-10-19T20:39:08.210851+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 9–11 October 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 9–11 October 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.8–13.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 28.4–35.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 9.8–14.6%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.8–36.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.0–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-10-11-Ninamedia.png"
@@ -160,7 +220,7 @@
       <dc:date>2023-10-05T13:46:34.009523+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 11–13 September 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia-seats.png"
@@ -170,7 +230,7 @@
       <dc:date>2023-10-05T14:07:56.36684+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 11–13 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 September 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia-coalitions-seats.png"
@@ -180,7 +240,7 @@
       <dc:date>2023-10-05T14:07:56.36684+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 11–13 September 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 11–13 September 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.5–13.1%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 31.8–38.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 10.4–15.4%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 28.6–35.6%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.1–10.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-09-13-Ninamedia.png"
@@ -250,7 +310,7 @@
       <dc:date>2023-09-19T22:29:59.296913+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 16–17 August 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 16–17 August 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia-seats.png"
@@ -260,7 +320,7 @@
       <dc:date>2023-09-20T16:35:18.714661+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 16–17 August 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 16–17 August 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia-coalitions-seats.png"
@@ -270,7 +330,7 @@
       <dc:date>2023-09-20T16:35:18.714661+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 16–17 August 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 16–17 August 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.7–12.1%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 31.6–38.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.0–12.4%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 31.9–38.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.6–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-08-17-Ninamedia.png"
@@ -310,7 +370,7 @@
       <dc:date>2023-08-21T17:16:35.084708+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 July 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 July 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia-seats.png"
@@ -320,7 +380,7 @@
       <dc:date>2023-07-20T22:39:33.932437+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 July 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 July 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia-coalitions-seats.png"
@@ -330,7 +390,7 @@
       <dc:date>2023-07-20T22:39:33.932437+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 July 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 10–12 July 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 7.9–12.3%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 27.0–33.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.8–9.8%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 34.2–41.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.9–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-07-12-Ninamedia.png"
@@ -400,7 +460,7 @@
       <dc:date>2023-06-26T18:23:50.648124+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 12–14 June 2023 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 June 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia-seats.png"
@@ -410,7 +470,7 @@
       <dc:date>2023-06-26T18:53:28.939925+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 12–14 June 2023 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 June 2023 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia-coalitions-seats.png"
@@ -420,7 +480,7 @@
       <dc:date>2023-06-26T18:53:28.939925+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ninamedia for Dnevnik, 12–14 June 2023 – Voting Intentions</title>
+      <title>Opinion Poll by Ninamedia for Dnevnik and Večer, 12–14 June 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.3–33.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 10.8–15.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.3–9.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 8.1–12.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 33.4–40.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2023-06-14-Ninamedia.png"
@@ -3790,7 +3850,7 @@
       <dc:date>2020-08-08T18:10:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 6–9 July 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for POPTV, 6–9 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 2 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana-seats.png"
@@ -3800,7 +3860,7 @@
       <dc:date>2020-08-07T19:55:23+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 6–9 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for POPTV, 6–9 July 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana-coalitions-seats.png"
@@ -3810,7 +3870,7 @@
       <dc:date>2020-08-07T19:55:23+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 6–9 July 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for POPTV, 6–9 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 24.1–30.5%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 15.7–21.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 14.7–20.2%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.7–12.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.8–8.4%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.7–5.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.9–5.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.6–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-09-Mediana.png"
@@ -4929,6 +4989,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2023-11-04T12:45:29.469081+01:00</dc:date>
+    <dc:date>2023-11-25T21:11:11.65103+01:00</dc:date>
   </channel>
 </rss>
