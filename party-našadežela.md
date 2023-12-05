@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.5% | 0.8–2.7% | 0.7–3.0% | 0.5–3.6% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–2.0% |
+| [20–24 November 2023](2023-11-24-Mediana.html) | Mediana <br> POP TV | 0.7% | 0.4–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–2.0% |
 | [13–15 November 2023](2023-11-15-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 November 2023](2023-11-09-Mediana.html) | Mediana <br> Delo | 1.5% | 1.0–2.5% | 0.8–2.7% | 0.7–3.0% | 0.5–3.6% |
 | [17–27 October 2023](2023-10-27-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -165,7 +166,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -211,12 +212,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 46% | 99.5% |  |
-| 1.5–2.5% | 46% | 54% | Median |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 20% | 100% | Last Result |
+| 0.5–1.5% | 76% | 80% | Median |
+| 1.5–2.5% | 3% | 3% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -228,6 +227,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–24 November 2023](2023-11-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [13–15 November 2023](2023-11-15-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer |  |  |  |  |  |
 | [6–9 November 2023](2023-11-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [17–27 October 2023](2023-10-27-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
@@ -382,7 +382,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer |  |  |  |  |  |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
