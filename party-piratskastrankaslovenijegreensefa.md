@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–4.9% | 2.8–5.2% | 2.6–5.4% | 2.3–6.0% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.5% | 2.5–4.8% | 2.4–5.1% | 2.1–5.6% |
+| [5–8 February 2024](2024-02-08-Mediana.html) | Mediana <br> Delo | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.1% | 2.1–5.6% |
 | [22–25 January 2024](2024-01-25-Mediana.html) | Mediana <br> POP TV | 3.8% | 3.0–4.9% | 2.8–5.2% | 2.6–5.4% | 2.3–6.0% |
 | [10–11 January 2024](2024-01-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 January 2024](2024-01-04-Mediana.html) | Mediana <br> Delo | 5.0% | 4.1–6.2% | 3.9–6.6% | 3.7–6.9% | 3.3–7.5% |
@@ -172,7 +173,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -220,13 +221,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 31% | 98% |  |
-| 3.5–4.5% | 49% | 67% | Median |
-| 4.5–5.5% | 16% | 18% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 44% | 95% |  |
+| 3.5–4.5% | 41% | 50% | Median |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -238,6 +238,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–8 February 2024](2024-02-08-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [22–25 January 2024](2024-01-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [10–11 January 2024](2024-01-11-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–4 January 2024](2024-01-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0–1 |
@@ -399,7 +400,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–31 August 2020](2020-08-31-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [11–13 August 2020](2020-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik and Večer |  |  |  |  |  |
 | [3–6 August 2020](2020-08-06-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [1–26 July 2020](2020-07-26-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [6–9 July 2020](2020-07-09-Mediana.html) | Mediana <br> POPTV |  |  |  |  |  |
 | [29 June–2 July 2020](2020-07-02-Parsifal.html) | Parsifal <br> Nova 24TV |  |  |  |  |  |
 | [1–28 June 2020](2020-06-28-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
