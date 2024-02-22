@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 Feb 2024 18:23:23 +0100</pubDate>
+    <pubDate>Thu, 22 Feb 2024 10:29:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 5–8 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (*): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana-seats.png"
+        length="290031"
+        type="image/png"/>
+      <pubDate>Thu, 22 Feb 2024 10:29:51 +0100</pubDate>
+      <dc:date>2024-02-22T10:29:51.885346+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 5–8 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana-coalitions-seats.png"
+        length="177275"
+        type="image/png"/>
+      <pubDate>Thu, 22 Feb 2024 10:29:51 +0100</pubDate>
+      <dc:date>2024-02-22T10:29:51.885346+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 5–8 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.2–3.2%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 2.5–5.2%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.3–10.3%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.0–0.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2.7–5.6%&lt;/li&gt;&lt;li&gt;Resni.ca (*): 2.5–5.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.9–9.8%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 32.5–39.6%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 22.5–28.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-02-08-Mediana.png"
+        length="370190"
+        type="image/png"/>
+      <pubDate>Thu, 22 Feb 2024 10:29:51 +0100</pubDate>
+      <dc:date>2024-02-22T10:29:51.885346+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 22–25 January 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-01-25-Mediana.html#seats</link>
@@ -4030,7 +4060,7 @@
       <dc:date>2020-08-17T23:04:51+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 0 seats&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-seats.png"
@@ -4040,7 +4070,7 @@
       <dc:date>2020-08-08T18:10:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana-coalitions-seats.png"
@@ -4050,7 +4080,7 @@
       <dc:date>2020-08-08T18:10:05+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Mediana for POP TV, 1–26 July 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Mediana for POPTV, 1–26 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.4–29.9%&lt;/li&gt;&lt;li&gt;Lista Marjana Šarca (RE): 10.1–14.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 16.1–21.9%&lt;/li&gt;&lt;li&gt;Stranka modernega centra (RE): 0.2–1.4%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 11.9–17.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.4–7.8%&lt;/li&gt;&lt;li&gt;Stranka Alenke Bratušek (RE): 2.6–5.4%&lt;/li&gt;&lt;li&gt;Demokratična stranka upokojencev Slovenije (RE): 2.4–5.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (NI): 2.1–4.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.4–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2020-07-26-Mediana.png"
@@ -5199,6 +5229,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2024-02-03T18:23:23.766137+01:00</dc:date>
+    <dc:date>2024-02-22T10:29:51.885346+01:00</dc:date>
   </channel>
 </rss>
