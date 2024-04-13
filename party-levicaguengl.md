@@ -11,7 +11,7 @@ Last result: **5.5%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.6% | 5.5–7.8% | 5.2–8.2% | 4.9–8.5% | 4.5–9.2% |
-| [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 6.5% | 5.5–7.8% | 5.2–8.2% | 4.9–8.6% | 4.5–9.2% |
+| [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 6.6% | 5.5–7.8% | 5.2–8.2% | 4.9–8.6% | 4.5–9.2% |
 | [22–25 January 2024](2024-01-25-Mediana.html) | Mediana <br> POP TV | 7.8% | 6.7–9.3% | 6.3–9.7% | 6.1–10.0% | 5.6–10.8% |
 | [10–11 January 2024](2024-01-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.1% | 8.8–11.8% | 8.4–12.2% | 8.1–12.6% | 7.5–13.4% |
 | [3–4 January 2024](2024-01-04-Mediana.html) | Mediana <br> Delo | 6.6% | 5.5–7.9% | 5.2–8.3% | 5.0–8.6% | 4.5–9.3% |
