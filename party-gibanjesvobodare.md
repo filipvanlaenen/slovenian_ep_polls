@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 26.7% | 24.6–28.9% | 24.1–29.6% | 23.6–30.1% | 22.6–31.2% |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 23.2% | 21.2–25.3% | 20.7–25.9% | 20.2–26.5% | 19.3–27.5% |
 | [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 23.0% | 21.1–25.1% | 20.6–25.7% | 20.1–26.3% | 19.2–27.3% |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 25.4% | N/A | N/A | N/A | N/A |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 25.4% | 23.4–27.6% | 22.8–28.2% | 22.3–28.8% | 21.4–29.9% |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 18.9% | 17.3–21.1% | 16.8–21.6% | 16.4–22.1% | 15.6–23.1% |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV | 24.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 19.9% | N/A | N/A | N/A | N/A |
@@ -273,8 +273,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 3 | 2–3 | 2–3 |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |

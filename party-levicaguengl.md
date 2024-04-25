@@ -14,7 +14,7 @@ Last result: **5.5%** (General Election of 26 May 2019)
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.6% | 7.3–10.1% | 7.0–10.5% | 6.7–10.9% | 6.2–11.6% |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 4.4% | 3.5–5.5% | 3.3–5.9% | 3.1–6.2% | 2.7–6.8% |
 | [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 4.5% | 3.6–5.7% | 3.4–6.0% | 3.2–6.3% | 2.8–6.9% |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.6% | N/A | N/A | N/A | N/A |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.6% | 7.3–10.1% | 7.0–10.5% | 6.7–10.9% | 6.2–11.6% |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 6.6% | 5.5–7.8% | 5.2–8.2% | 4.9–8.6% | 4.5–9.2% |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV | 7.6% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
@@ -252,7 +252,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |

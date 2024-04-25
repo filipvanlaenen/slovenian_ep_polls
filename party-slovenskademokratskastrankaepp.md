@@ -14,7 +14,7 @@ Last result: **24.8%** (General Election of 26 May 2019)
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 38.7% | 36.4–41.1% | 35.7–41.8% | 35.2–42.4% | 34.1–43.5% |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 35.5% | 33.2–37.9% | 32.6–38.5% | 32.1–39.1% | 31.0–40.2% |
 | [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 34.4% | 32.2–36.7% | 31.6–37.4% | 31.0–38.0% | 30.0–39.1% |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 41.6% | N/A | N/A | N/A | N/A |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 41.6% | 39.2–44.0% | 38.5–44.7% | 38.0–45.3% | 36.9–46.4% |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 30.3% | 28.2–32.6% | 27.6–33.2% | 27.1–33.7% | 26.0–34.8% |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV | 34.7% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 44.6% | N/A | N/A | N/A | N/A |
@@ -260,8 +260,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
