@@ -10,10 +10,10 @@ Last result: **24.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.7% | 36.4–41.1% | 35.7–41.8% | 35.2–42.4% | 34.1–43.5% |
+| N/A | [Poll Average](average.html) | 37.1% | 34.0–40.3% | 33.2–41.1% | 32.6–41.8% | 31.4–43.1% |
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 38.7% | 36.4–41.1% | 35.7–41.8% | 35.2–42.4% | 34.1–43.5% |
-| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 35.5% | N/A | N/A | N/A | N/A |
-| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 34.4% | N/A | N/A | N/A | N/A |
+| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 35.5% | 33.2–37.9% | 32.6–38.5% | 32.1–39.1% | 31.0–40.2% |
+| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 34.4% | 32.2–36.7% | 31.6–37.4% | 31.0–38.0% | 30.0–39.1% |
 | [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 41.6% | N/A | N/A | N/A | N/A |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 30.3% | 28.2–32.6% | 27.6–33.2% | 27.1–33.7% | 26.0–34.8% |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV | 34.7% | N/A | N/A | N/A | N/A |
@@ -231,23 +231,22 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0.2% | 100% |  |
-| 33.5–34.5% | 0.8% | 99.8% |  |
-| 34.5–35.5% | 3% | 99.0% |  |
-| 35.5–36.5% | 8% | 96% |  |
-| 36.5–37.5% | 14% | 88% |  |
-| 37.5–38.5% | 20% | 74% |  |
-| 38.5–39.5% | 21% | 54% | Median |
-| 39.5–40.5% | 16% | 33% |  |
-| 40.5–41.5% | 10% | 16% |  |
-| 41.5–42.5% | 4% | 6% |  |
-| 42.5–43.5% | 2% | 2% |  |
-| 43.5–44.5% | 0.4% | 0.5% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.5% | 99.9% |  |
+| 31.5–32.5% | 2% | 99.4% |  |
+| 32.5–33.5% | 4% | 98% |  |
+| 33.5–34.5% | 8% | 93% |  |
+| 34.5–35.5% | 12% | 85% |  |
+| 35.5–36.5% | 14% | 73% |  |
+| 36.5–37.5% | 15% | 59% | Median |
+| 37.5–38.5% | 14% | 44% |  |
+| 38.5–39.5% | 12% | 29% |  |
+| 39.5–40.5% | 9% | 17% |  |
+| 40.5–41.5% | 5% | 8% |  |
+| 41.5–42.5% | 2% | 3% |  |
+| 42.5–43.5% | 0.8% | 1.0% |  |
+| 43.5–44.5% | 0.2% | 0.2% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -258,10 +257,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -476,9 +475,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 7% | 100% | Last Result |
-| 4 | 91% | 93% | Median |
-| 5 | 2% | 2% | Majority |
+| 3 | 3% | 100% | Last Result |
+| 4 | 76% | 97% | Median |
+| 5 | 21% | 21% | Majority |
 | 6 | 0% | 0% |  |
 
 
