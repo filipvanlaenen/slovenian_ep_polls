@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Apr 2024 16:58:09 +0200</pubDate>
+    <pubDate>Fri, 26 Apr 2024 19:23:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 8–10 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-04-10-Ninamedia.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-04-04-Mediana-seats.png"
         length="309686"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2024 17:52:53 +0200</pubDate>
-      <dc:date>2024-04-25T17:52:53.337734+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 19:23:41 +0200</pubDate>
+      <dc:date>2024-04-26T19:23:41.901234+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 2–4 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-04-04-Mediana-coalitions-seats.png"
         length="182284"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2024 17:52:53 +0200</pubDate>
-      <dc:date>2024-04-25T17:52:53.337734+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 19:23:41 +0200</pubDate>
+      <dc:date>2024-04-26T19:23:41.901234+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 2–4 April 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-04-04-Mediana.png"
         length="372430"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2024 17:52:53 +0200</pubDate>
-      <dc:date>2024-04-25T17:52:53.337734+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 19:23:41 +0200</pubDate>
+      <dc:date>2024-04-26T19:23:41.901234+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 19–21 March 2024 – Seat Projections for the Parties</title>
@@ -5349,6 +5349,6 @@
       <pubDate>Sun, 30 Jun 2019 12:23:33 +0200</pubDate>
       <dc:date>2019-06-30T12:23:33+02:00</dc:date>
     </item>
-    <dc:date>2024-04-26T16:58:09.24363+02:00</dc:date>
+    <dc:date>2024-04-26T19:23:41.901234+02:00</dc:date>
   </channel>
 </rss>
