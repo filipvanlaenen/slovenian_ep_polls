@@ -249,9 +249,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–10 April 2024](2024-04-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
-| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [2–4 April 2024](2024-04-04-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–21 March 2024](2024-03-21-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–14 March 2024](2024-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 0–1 |
@@ -467,8 +467,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 8% | 100% |  |
+| 1 | 92% | 92% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
