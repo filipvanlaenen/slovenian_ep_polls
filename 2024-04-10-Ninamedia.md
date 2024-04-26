@@ -28,7 +28,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 4 | 4 |3–4 |3–4 |3–5 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 4 | 4 |3–4 |3–5 |3–5 |
 | <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 1 | 1 |1 |1 |0–1 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 1 |1 |1 |0–1 |
@@ -42,9 +42,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 7% | 100% | Last Result |
-| 4 | 91% | 93% | Median |
-| 5 | 2% | 2% | Majority |
+| 3 | 6% | 100% | Last Result |
+| 4 | 91% | 94% | Median |
+| 5 | 3% | 3% | Majority |
 | 6 | 0% | 0% |  |
 
 ### Gibanje Svoboda (RE)
@@ -57,8 +57,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Median |
+| 2 | 39% | 100% |  |
+| 3 | 61% | 61% | Median |
 | 4 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -69,8 +69,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% |  |
-| 1 | 99.3% | 99.4% | Last Result, Median |
+| 0 | 0.7% | 100% |  |
+| 1 | 99.3% | 99.3% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -141,6 +141,6 @@
 ### Calculations
 
 + **Sample size:** 700
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.81%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.41%
 
