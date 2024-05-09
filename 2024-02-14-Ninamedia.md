@@ -83,7 +83,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 99.6% | 99.6% | Median |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -117,7 +117,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 99.6% | 99.6% | Median |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
