@@ -246,7 +246,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–25 April 2024](2024-04-25-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [20–22 February 2024](2024-02-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 1 |
+| [12–14 February 2024](2024-02-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [5–8 February 2024](2024-02-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [22–25 January 2024](2024-01-25-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 January 2024](2024-01-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 0–1 | 0–1 | 0–1 |
