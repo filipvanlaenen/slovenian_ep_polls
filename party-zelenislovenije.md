@@ -10,7 +10,8 @@ Last result: **2.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.6–5.2% | 2.3–5.7% |
+| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 3.7% | 2.9–4.8% | 2.7–5.1% | 2.5–5.3% | 2.2–5.9% |
 | [13–16 May 2024](2024-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [23–25 April 2024](2024-04-25-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
@@ -226,10 +227,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% | Last Result |
-| 2.5–3.5% | 41% | 98% |  |
-| 3.5–4.5% | 49% | 57% | Median |
-| 4.5–5.5% | 8% | 8% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 38% | 98% |  |
+| 3.5–4.5% | 48% | 60% | Median |
+| 4.5–5.5% | 11% | 11% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -242,6 +243,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [13–16 May 2024](2024-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [23–25 April 2024](2024-04-25-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
