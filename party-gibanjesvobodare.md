@@ -261,7 +261,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
-| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2 | 2–3 | 1–3 |
+| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13–16 May 2024](2024-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 2 | 2 | 2 | 2 | 2–3 |
 | [23–25 April 2024](2024-04-25-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–7 March 2024](2024-03-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
