@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 23–30% <br> 3–4 | 6–10% <br> 0–1 | 3–6% <br> 0 | 2–4% <br> 0 | 10–15% <br> 1–2 | N/A <br> N/A | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–10% <br> 0–1 | 10–16% <br> 1–2 |
-| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 22–29% <br> 3–4 | 7–11% <br> 0–1 | 3–6% <br> 0 | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 0–1 | 9–14% <br> 1–2 |
+| [21–24 May 2024](2024-05-24-Mediana.html) | Mediana <br> POP TV | 22–29% <br> 3–4 | 7–11% <br> 0–1 | 3–6% <br> 0 | N/A <br> N/A | 11–16% <br> 1–2 | N/A <br> N/A | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 0–1 | 9–14% <br> 1 |
 | [13–16 May 2024](2024-05-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 25–30% <br> 3–4 | 6–10% <br> 0–1 | 3–6% <br> 0 | 2–4% <br> 0 | 10–14% <br> 1 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 12–16% <br> 1–2 |
 | 26 May 2019 | General Election | 24.8% <br> 3 | 16.5% <br> 1 | 16.5% <br> 1 | 8.2% <br> 1 | 8.1% <br> 1 | 6.6% <br> 0 | 5.5% <br> 0 | 4.0% <br> 0 | 1.1% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 24.8% <br> 4 | 0.0% <br> 0 | 0.5% <br> 0 | 2.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -305,7 +305,7 @@ Only polls for which at least the sample size has been published are included in
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 3 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
 | <a href="#slovenska-demokratska-stranka–slovenska-ljudska-stranka-(epp)">Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)</a> | 4 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 1 | 1 |0–1 | 0–1 | 0–1 |
+| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#slovenska-ljudska-stranka-(epp)">Slovenska ljudska stranka (EPP)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#demokratična-stranka-upokojencev-slovenije-(re)">Demokratična stranka upokojencev Slovenije (RE)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 1 | 1 | 1 |1–2 | 1–2 | 1–2 |
@@ -339,9 +339,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 1.1% | 100% |  |
-| 3 | 77% | 98.9% | Last Result, Median |
-| 4 | 21% | 21% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 76% | 99.1% | Last Result, Median |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)
@@ -563,7 +563,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) – Povežimo Slovenijo (EPP) | 5 | 4 | 16% | 4–5 | 3–5 | 3–5 | 3–5 |
+| Slovenska demokratska stranka (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Slovenska ljudska stranka (EPP) – Povežimo Slovenijo (EPP) | 5 | 4 | 17% | 4–5 | 3–5 | 3–5 | 3–5 |
 | Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Gibanje Svoboda (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Piratska stranka Slovenije (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Socialni demokrati (S&D) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
@@ -579,7 +579,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
 | 4 | 78% | 95% | Median |
-| 5 | 16% | 16% | Last Result, Majority |
+| 5 | 17% | 17% | Last Result, Majority |
 | 6 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Gibanje Svoboda (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE)
@@ -646,6 +646,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.15%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 1.95%

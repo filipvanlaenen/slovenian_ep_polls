@@ -52,8 +52,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 62% | 100% | Last Result, Median |
-| 4 | 38% | 38% |  |
+| 3 | 59% | 100% | Last Result, Median |
+| 4 | 41% | 41% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Gibanje Svoboda (RE)
@@ -65,9 +65,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 98.6% | 99.8% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 98.6% | 99.9% | Median |
+| 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
@@ -79,8 +79,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 64% | 64% | Median |
+| 1 | 37% | 100% |  |
+| 2 | 63% | 63% | Median |
 | 3 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -91,8 +91,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.7% | 100% | Last Result, Median |
-| 2 | 1.3% | 1.3% |  |
+| 1 | 98% | 100% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -103,8 +103,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% |  |
-| 1 | 88% | 88% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -115,8 +115,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 7% | 7% |  |
 | 2 | 0% | 0% |  |
 
 ### Slovenska ljudska stranka (EPP)
@@ -180,8 +180,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.7% | 100% | Last Result, Median |
-| 2 | 1.3% | 1.3% |  |
+| 1 | 98% | 100% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -190,8 +190,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 7% | 7% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -206,6 +206,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.15%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.87%
 
