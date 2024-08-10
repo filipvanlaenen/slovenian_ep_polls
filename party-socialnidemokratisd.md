@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.5% | 9.0–12.2% | 8.6–12.6% | 8.3–13.1% | 7.7–13.9% |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | 8.8–11.6% | 8.4–12.1% | 8.1–12.5% | 7.5–13.3% |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | 8.8–11.6% | 8.4–12.1% | 8.1–12.5% | 7.5–13.3% |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | 5.9–8.3% | 5.6–8.6% | 5.4–8.9% | 4.9–9.6% |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | 9.5–12.5% | 9.1–13.0% | 8.8–13.4% | 8.1–14.2% |
 
