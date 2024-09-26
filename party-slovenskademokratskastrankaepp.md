@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.8% | 31.6–38.2% | 30.8–39.1% | 30.2–39.8% | 29.1–41.1% |
+| N/A | [Poll Average](average.html) | 34.7% | 32.4–37.0% | 31.8–37.7% | 31.2–38.2% | 30.1–39.4% |
+| [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV | 34.9% | 32.6–37.2% | 32.0–37.8% | 31.5–38.4% | 30.4–39.6% |
+| [9–11 September 2024](2024-09-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 34.4% | 32.2–36.8% | 31.6–37.4% | 31.0–38.0% | 29.9–39.2% |
 | [2–5 September 2024](2024-09-05-Mediana.html) | Mediana <br> Delo | 33.0% | 30.8–35.3% | 30.2–36.0% | 29.7–36.5% | 28.6–37.7% |
 | [20–22 August 2024](2024-08-22-Mediana.html) | Mediana <br> POP TV | 34.8% | 32.6–37.2% | 32.0–37.8% | 31.4–38.4% | 30.4–39.5% |
 | [12–14 August 2024](2024-08-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 36.6% | 34.3–39.1% | 33.6–39.7% | 33.0–40.4% | 31.9–41.5% |
@@ -55,23 +57,21 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 0.9% | 99.8% |  |
-| 29.5–30.5% | 3% | 98.9% |  |
-| 30.5–31.5% | 6% | 96% |  |
-| 31.5–32.5% | 10% | 90% |  |
-| 32.5–33.5% | 13% | 80% |  |
-| 33.5–34.5% | 14% | 67% |  |
-| 34.5–35.5% | 13% | 53% | Median |
-| 35.5–36.5% | 13% | 40% |  |
-| 36.5–37.5% | 11% | 27% |  |
-| 37.5–38.5% | 8% | 16% |  |
-| 38.5–39.5% | 5% | 8% |  |
-| 39.5–40.5% | 2% | 3% |  |
-| 40.5–41.5% | 0.7% | 1.0% |  |
-| 41.5–42.5% | 0.2% | 0.2% |  |
-| 42.5–43.5% | 0% | 0% |  |
-| 43.5–44.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0.2% | 100% |  |
+| 29.5–30.5% | 0.8% | 99.8% |  |
+| 30.5–31.5% | 3% | 99.0% |  |
+| 31.5–32.5% | 8% | 96% |  |
+| 32.5–33.5% | 15% | 88% |  |
+| 33.5–34.5% | 21% | 74% |  |
+| 34.5–35.5% | 21% | 53% | Median |
+| 35.5–36.5% | 16% | 31% |  |
+| 36.5–37.5% | 9% | 15% |  |
+| 37.5–38.5% | 4% | 6% |  |
+| 38.5–39.5% | 1.3% | 2% |  |
+| 39.5–40.5% | 0.3% | 0.4% |  |
+| 40.5–41.5% | 0.1% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -82,9 +82,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| [2–5 September 2024](2024-09-05-Mediana.html) | Mediana <br> Delo | 4 | 4 | 4–5 | 4–5 | 3–5 |
-| [20–22 August 2024](2024-08-22-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–11 September 2024](2024-09-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [2–5 September 2024](2024-09-05-Mediana.html) | Mediana <br> Delo | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [20–22 August 2024](2024-08-22-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–14 August 2024](2024-08-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -104,9 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 4% | 100% |  |
-| 4 | 90% | 96% | Median |
-| 5 | 5% | 5% | Majority |
-| 6 | 0% | 0% |  |
+| 3 | 3% | 100% |  |
+| 4 | 56% | 97% | Median |
+| 5 | 41% | 41% | Majority |
+| 6 | 0.2% | 0.2% |  |
+| 7 | 0% | 0% |  |
 
 
