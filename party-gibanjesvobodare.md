@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 20.6% | 17.8–23.5% | 17.2–24.3% | 16.7–24.9% | 15.8–26.0% |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 22.1% | 20.2–24.2% | 19.7–24.9% | 19.2–25.4% | 18.3–26.4% |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 19.0% | 17.2–21.0% | 16.7–21.5% | 16.3–22.0% | 15.5–23.0% |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 17.4% | N/A | N/A | N/A | N/A |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 17.4% | 15.7–19.3% | 15.2–19.8% | 14.8–20.3% | 14.0–21.3% |
 | [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 21.9% | N/A | N/A | N/A | N/A |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo | 24.0% | N/A | N/A | N/A | N/A |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV | 21.4% | N/A | N/A | N/A | N/A |
@@ -76,7 +76,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 2 | 2 | 2 | 1–2 | 1–3 |
 | [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -101,8 +101,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 86% | 100% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 78% | 100% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0% | 0% |  |
 
 
