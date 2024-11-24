@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Nov 2024 22:16:15 +0100</pubDate>
+    <pubDate>Sun, 24 Nov 2024 16:02:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 11–13 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-11-13-Ninamedia.html#seats</link>
@@ -99,6 +99,36 @@
       <pubDate>Sat, 23 Nov 2024 22:16:15 +0100</pubDate>
       <dc:date>2024-11-23T22:16:15.395049+01:00</dc:date>
     </item>
-    <dc:date>2024-11-23T22:16:15.395049+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 14–16 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (*): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia-seats.png"
+        length="258310"
+        type="image/png"/>
+      <pubDate>Sun, 24 Nov 2024 16:02:06 +0100</pubDate>
+      <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 14–16 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia-coalitions-seats.png"
+        length="215496"
+        type="image/png"/>
+      <pubDate>Sun, 24 Nov 2024 16:02:06 +0100</pubDate>
+      <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 14–16 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (*): 3.3–6.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.5–10.6%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 30.4–37.4%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.9–12.3%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 3.1–6.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.9–4.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 18.9–25.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.7–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.png"
+        length="288726"
+        type="image/png"/>
+      <pubDate>Sun, 24 Nov 2024 16:02:06 +0100</pubDate>
+      <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
+    </item>
+    <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
   </channel>
 </rss>
