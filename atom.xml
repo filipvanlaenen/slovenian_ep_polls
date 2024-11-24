@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-11-23T22:16:15.395049+01:00</updated>
+  <updated>2024-11-24T16:02:06.287981+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (*): 2.7–5.6%, 0 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 7.1–11.4%, 0–1 seats</li><li>Slovenska demokratska stranka (EPP): 33.6–40.8%, 4–5 seats</li><li>Socialni demokrati (S&amp;D): 9.1–13.9%, 1 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 3.5–6.7%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 1.5–3.9%, 0 seats</li><li>Gibanje Svoboda (RE): 19.2–25.4%, 2–3 seats</li><li>Levica (GUE/NGL): 6.8–11.1%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-11-13-Ninamedia.html</id>
@@ -31,5 +31,13 @@
     <updated>2024-11-23T22:16:15.395049+01:00</updated>
     <dc:date>2024-11-23T22:16:15.395049+01:00</dc:date>
   </entry>
-  <dc:date>2024-11-23T22:16:15.395049+01:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (*): 3.3–6.4%, 0 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 6.5–10.6%, 0–1 seats</li><li>Slovenska demokratska stranka (EPP): 30.4–37.4%, 3–5 seats</li><li>Socialni demokrati (S&amp;D): 7.9–12.3%, 1 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 3.1–6.2%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 1.9–4.4%, 0 seats</li><li>Gibanje Svoboda (RE): 18.9–25.1%, 2–3 seats</li><li>Levica (GUE/NGL): 6.7–10.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2024-10-16-Ninamedia.html"/>
+    <title>Opinion Poll by Ninamedia for Dnevnik, 14–16 October 2024</title>
+    <updated>2024-11-24T16:02:06.287981+01:00</updated>
+    <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
+  </entry>
+  <dc:date>2024-11-24T16:02:06.287981+01:00</dc:date>
 </feed>
