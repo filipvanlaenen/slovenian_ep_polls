@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4 | 3–5 | 3–5 |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -118,9 +118,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.5% | 100% |  |
-| 4 | 87% | 99.5% | Median |
-| 5 | 12% | 12% | Majority |
+| 3 | 0.4% | 100% |  |
+| 4 | 82% | 99.6% | Median |
+| 5 | 17% | 17% | Majority |
 | 6 | 0% | 0% |  |
 
 

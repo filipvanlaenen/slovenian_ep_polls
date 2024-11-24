@@ -55,10 +55,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
-| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -81,8 +81,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 
