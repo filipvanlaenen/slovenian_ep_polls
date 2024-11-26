@@ -31,7 +31,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 4 |4 |3–5 |3–5 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 4 |4–5 |3–5 |3–5 |
 | <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -51,8 +51,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 90% | 95% | Median |
+| 3 | 4% | 100% |  |
+| 4 | 90% | 96% | Median |
 | 5 | 5% | 5% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -66,8 +66,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 73% | 100% | Median |
-| 3 | 27% | 27% |  |
+| 2 | 71% | 100% | Median |
+| 3 | 29% | 29% |  |
 | 4 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -79,7 +79,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.1% | 100% | Last Result |
-| 1 | 98.8% | 98.9% | Median |
+| 1 | 98.9% | 98.9% | Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -102,8 +102,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 83% | 83% | Median |
+| 0 | 19% | 100% | Last Result |
+| 1 | 81% | 81% | Median |
 | 2 | 0% | 0% |  |
 
 ### Demokrati (*)
@@ -159,7 +159,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.1% | 100% | Last Result |
-| 1 | 98.8% | 98.9% | Median |
+| 1 | 98.9% | 98.9% | Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -184,6 +184,6 @@
 ### Calculations
 
 + **Sample size:** 700
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.01%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.05%
 
