@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 5.7% | 4.7–6.9% | 4.4–7.3% | 4.2–7.6% | 3.8–8.2% |
 | [9–11 December 2024](2024-12-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 December 2024](2024-12-05-Mediana.html) | Mediana <br> Delo | 5.7% | 4.7–6.9% | 4.4–7.3% | 4.2–7.6% | 3.8–8.2% |
-| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 3.7% | N/A | N/A | N/A | N/A |
+| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 3.5% | 2.7–4.5% | 2.5–4.8% | 2.4–5.1% | 2.0–5.6% |
 | [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 4.7% | 3.8–5.9% | 3.6–6.2% | 3.4–6.5% | 3.0–7.1% |
@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–11 December 2024](2024-12-11-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [2–5 December 2024](2024-12-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
