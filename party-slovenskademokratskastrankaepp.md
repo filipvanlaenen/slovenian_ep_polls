@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [9–11 December 2024](2024-12-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [2–5 December 2024](2024-12-05-Mediana.html) | Mediana <br> Delo | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 4 | 4 | 4–5 | 3–5 | 3–5 |
