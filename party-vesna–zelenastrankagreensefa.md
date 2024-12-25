@@ -15,9 +15,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–5 December 2024](2024-12-05-Mediana.html) | Mediana <br> Delo | 6.8% | 5.7–8.1% | 5.4–8.5% | 5.2–8.8% | 4.7–9.5% |
 | [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 5.2% | 4.3–6.4% | 4.0–6.7% | 3.8–7.0% | 3.4–7.6% |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.9% | 4.0–6.1% | 3.7–6.4% | 3.5–6.7% | 3.1–7.3% |
-| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 6.0% | 5.0–7.2% | 4.7–7.6% | 4.5–7.9% | 4.0–8.6% |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 5.2% | 4.3–6.5% | 4.1–6.8% | 3.8–7.1% | 3.4–7.7% |
-| [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.4% | 3.6–5.6% | 3.3–5.9% | 3.1–6.2% | 2.8–6.8% |
+| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 6.0% | N/A | N/A | N/A | N/A |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 5.2% | N/A | N/A | N/A | N/A |
+| [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.4% | N/A | N/A | N/A | N/A |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo | 4.6% | N/A | N/A | N/A | N/A |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV | 4.4% | N/A | N/A | N/A | N/A |
 | [9–11 September 2024](2024-09-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.7% | N/A | N/A | N/A | N/A |
@@ -64,9 +64,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–5 December 2024](2024-12-05-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 November 2024](2024-11-21-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 November 2024](2024-11-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
-| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
-| [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [4–7 November 2024](2024-11-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [21–24 October 2024](2024-10-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [14–16 October 2024](2024-10-16-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [30 September–3 October 2024](2024-10-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [16–19 September 2024](2024-09-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [9–11 September 2024](2024-09-11-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
