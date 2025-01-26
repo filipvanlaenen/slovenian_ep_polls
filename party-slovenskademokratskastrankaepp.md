@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.8% | 30.2–35.5% | 29.5–36.3% | 28.9–36.9% | 27.8–38.1% |
+| N/A | [Poll Average](average.html) | 33.0% | 30.2–35.9% | 29.5–36.7% | 28.9–37.3% | 27.8–38.6% |
+| [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 34.3% | 32.0–36.6% | 31.4–37.3% | 30.9–37.9% | 29.8–39.0% |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 31.7% | 29.5–34.0% | 28.9–34.6% | 28.4–35.2% | 27.4–36.3% |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 34.0% | 31.8–36.3% | 31.2–37.0% | 30.7–37.5% | 29.6–38.6% |
 | [9–11 December 2024](2024-12-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 33.9% | 31.6–36.2% | 31.0–36.9% | 30.4–37.4% | 29.4–38.6% |
@@ -70,16 +71,16 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 1.2% | 99.7% |  |
 | 28.5–29.5% | 4% | 98% |  |
 | 29.5–30.5% | 8% | 95% |  |
-| 30.5–31.5% | 14% | 86% |  |
-| 31.5–32.5% | 18% | 72% |  |
-| 32.5–33.5% | 18% | 54% | Median |
-| 33.5–34.5% | 16% | 36% |  |
-| 34.5–35.5% | 11% | 20% |  |
-| 35.5–36.5% | 6% | 10% |  |
-| 36.5–37.5% | 3% | 4% |  |
-| 37.5–38.5% | 0.8% | 1.1% |  |
-| 38.5–39.5% | 0.2% | 0.3% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 30.5–31.5% | 13% | 87% |  |
+| 31.5–32.5% | 16% | 74% |  |
+| 32.5–33.5% | 17% | 58% | Median |
+| 33.5–34.5% | 16% | 41% |  |
+| 34.5–35.5% | 12% | 25% |  |
+| 35.5–36.5% | 8% | 13% |  |
+| 36.5–37.5% | 4% | 6% |  |
+| 37.5–38.5% | 1.4% | 2% |  |
+| 38.5–39.5% | 0.4% | 0.5% |  |
+| 39.5–40.5% | 0.1% | 0.1% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
 
@@ -91,7 +92,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [9–11 December 2024](2024-12-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4–5 | 3–5 | 3–5 |
