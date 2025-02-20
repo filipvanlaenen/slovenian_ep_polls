@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 26 Jan 2025 10:44:47 +0100</pubDate>
+    <pubDate>Thu, 20 Feb 2025 22:50:38 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for Delo, 3–6 February 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-02-06-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.2–8.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 1.3–4.2%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 16.3–23.5%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.3–8.7%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.8–6.5%&lt;/li&gt;&lt;li&gt;Konkretno (RE): 0.1–1.5%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 2.8–6.5%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 32.6–41.4%&lt;/li&gt;&lt;li&gt;Naša prihodnost (*): 0.2–1.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.6–13.1%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 2.3–5.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.3–2.2%&lt;/li&gt;&lt;li&gt;Naša dežela (*): 0.5–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-02-06-Mediana.png"
+        length="391109"
+        type="image/png"/>
+      <pubDate>Thu, 20 Feb 2025 22:50:38 +0100</pubDate>
+      <dc:date>2025-02-20T22:50:38.692146+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 13–15 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-01-15-Ninamedia.html#seats</link>
@@ -219,6 +229,6 @@
       <pubDate>Wed, 25 Dec 2024 19:33:00 +0100</pubDate>
       <dc:date>2024-12-25T19:33:00.855137+01:00</dc:date>
     </item>
-    <dc:date>2025-01-26T10:44:47.426012+01:00</dc:date>
+    <dc:date>2025-02-20T22:50:38.692146+01:00</dc:date>
   </channel>
 </rss>
