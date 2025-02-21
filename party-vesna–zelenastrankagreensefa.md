@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.0–5.2% | 2.7–5.5% | 2.5–5.8% | 2.1–6.5% |
 | [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 3.6% | 2.7–5.0% | 2.5–5.4% | 2.3–5.7% | 1.9–6.5% |
-| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 5.0% | N/A | N/A | N/A | N/A |
+| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 5.0% | 3.9–6.5% | 3.6–7.0% | 3.3–7.3% | 2.9–8.2% |
 | [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.1% | 3.3–5.3% | 3.1–5.6% | 2.9–5.9% | 2.5–6.5% |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.2–4.9% | 1.9–5.4% |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 1.6% | 1.2–2.4% | 1.1–2.7% | 0.9–2.9% | 0.8–3.3% |
@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
-| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
@@ -95,8 +95,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 

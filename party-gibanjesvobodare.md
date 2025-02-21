@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.7% | 18.2–24.7% | 17.4–25.4% | 16.8–26.0% | 15.7–27.2% |
 | [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 19.6% | 17.4–22.1% | 16.8–22.8% | 16.3–23.5% | 15.3–24.7% |
-| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 19.2% | N/A | N/A | N/A | N/A |
+| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 19.2% | 17.0–21.7% | 16.4–22.5% | 15.9–23.1% | 14.9–24.3% |
 | [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 23.3% | 21.3–25.4% | 20.8–26.0% | 20.3–26.6% | 19.4–27.6% |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 22.3% | 20.4–24.4% | 19.9–25.0% | 19.4–25.5% | 18.5–26.5% |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 23.2% | 21.3–25.3% | 20.8–25.9% | 20.3–26.4% | 19.4–27.5% |
@@ -83,8 +83,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–15 January 2025](2025-01-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–9 January 2025](2025-01-09-Mediana.html) | Mediana <br> Delo | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–19 December 2024](2024-12-19-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -118,8 +118,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 59% | 100% | Median |
-| 3 | 41% | 41% |  |
+| 2 | 63% | 100% | Median |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 
