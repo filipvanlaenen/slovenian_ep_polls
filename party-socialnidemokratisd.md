@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.6–12.1% | 8.1–12.7% | 7.7–13.1% | 7.0–14.2% |
+| N/A | [Poll Average](average.html) | 10.9% | 9.0–12.9% | 8.6–13.5% | 8.2–14.0% | 7.4–15.1% |
+| [17–20 February 2025](2025-02-20-Mediana.html) | Mediana <br> POP TV | 11.3% | 9.6–13.3% | 9.1–13.9% | 8.8–14.4% | 8.0–15.4% |
 | [10–12 February 2025](2025-02-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.2% | 8.7–12.2% | 8.2–12.7% | 7.9–13.2% | 7.2–14.2% |
 | [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 10.0% | 8.4–12.0% | 8.0–12.6% | 7.6–13.1% | 6.9–14.1% |
 | [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 10.4% | 8.7–12.4% | 8.3–13.0% | 7.9–13.5% | 7.2–14.5% |
@@ -33,7 +34,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo | 7.6% | N/A | N/A | N/A | N/A |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV | 8.6% | N/A | N/A | N/A | N/A |
 | [15–17 July 2024](2024-07-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 12.9% | N/A | N/A | N/A | N/A |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | N/A | N/A | N/A | N/A |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | N/A | N/A | N/A | N/A |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
 
@@ -49,17 +50,18 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 8% | 98% |  |
-| 8.5–9.5% | 21% | 90% |  |
-| 9.5–10.5% | 28% | 69% | Median |
-| 10.5–11.5% | 23% | 41% |  |
-| 11.5–12.5% | 12% | 18% |  |
-| 12.5–13.5% | 4% | 6% |  |
-| 13.5–14.5% | 1.1% | 1.4% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.6% | 100% |  |
+| 7.5–8.5% | 4% | 99.3% |  |
+| 8.5–9.5% | 13% | 95% |  |
+| 9.5–10.5% | 23% | 82% |  |
+| 10.5–11.5% | 26% | 58% | Median |
+| 11.5–12.5% | 18% | 32% |  |
+| 12.5–13.5% | 9% | 14% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.9% | 1.1% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,7 +72,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [17–20 February 2025](2025-02-20-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–12 February 2025](2025-02-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [3–6 February 2025](2025-02-06-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 1 | 1–2 |
 | [21–23 January 2025](2025-01-23-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -105,9 +108,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 98.6% | 99.0% | Median |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 94% | 99.2% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
