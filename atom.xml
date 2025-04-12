@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovenian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-03-27T13:57:30.388087+01:00</updated>
+  <updated>2025-04-12T22:34:55.708635+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (EPP): 4.6–9.1%, 0–1 seats</li><li>Piratska stranka Slovenije (Greens/EFA): 1.0–3.5%, 0 seats</li><li>Resni.ca (NI): 5.3–10.0%, 0–1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 2.1–5.4%, 0 seats</li><li>Slovenska nacionalna stranka (PfE): 1.1–3.8%, 0 seats</li><li>Slovenska demokratska stranka (EPP): 30.7–39.2%, 4–5 seats</li><li>Socialni demokrati (S&amp;D): 6.0–10.9%, 0–1 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 2.6–6.1%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 0.6–2.7%, 0 seats</li><li>Gibanje Svoboda (RE): 15.5–22.5%, 2–3 seats</li><li>Levica (GUE/NGL): 5.5–10.2%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-04-Mediana.html</id>
+    <link href="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-04-Mediana.html"/>
+    <title>Opinion Poll by Mediana for Delo, 31 March–4 April 2025</title>
+    <updated>2025-04-12T22:34:55.708635+02:00</updated>
+    <dc:date>2025-04-12T22:34:55.708635+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (EPP): 3.5–7.5%, 0–1 seats</li><li>Nova Slovenija–Krščanski demokrati (EPP): 4.3–8.6%, 0–1 seats</li><li>Slovenska nacionalna stranka (PfE): 1.1–3.7%, 0 seats</li><li>Gibanje Svoboda (RE): 18.9–26.2%, 2–3 seats</li><li>Levica (GUE/NGL): 5.5–10.3%, 0–1 seats</li><li>Piratska stranka Slovenije (Greens/EFA): 1.7–4.8%, 0 seats</li><li>Zeleni Slovenije (*): 0.1–1.5%, 0 seats</li><li>Resni.ca (NI): 5.2–9.8%, 0–1 seats</li><li>Slovenska demokratska stranka (EPP): 27.0–35.2%, 3–5 seats</li><li>Socialni demokrati (S&amp;D): 5.7–10.5%, 0–1 seats</li><li>VESNA–Zelena stranka (Greens/EFA): 1.1–3.7%, 0 seats</li><li>Slovenska ljudska stranka (EPP): 1.3–4.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-03-21-Mediana.html</id>
@@ -119,5 +127,5 @@
     <updated>2024-12-25T19:33:00.855137+01:00</updated>
     <dc:date>2024-12-25T19:33:00.855137+01:00</dc:date>
   </entry>
-  <dc:date>2025-03-27T13:57:30.388087+01:00</dc:date>
+  <dc:date>2025-04-12T22:34:55.708635+02:00</dc:date>
 </feed>
