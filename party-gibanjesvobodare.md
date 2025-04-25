@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 16.2–24.6% | 15.6–25.6% | 15.0–26.4% | 14.0–27.9% |
+| N/A | [Poll Average](average.html) | 19.3% | 16.2–23.8% | 15.6–24.8% | 15.0–25.5% | 14.0–27.0% |
+| [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 22.8% | 20.5–25.2% | 19.9–25.9% | 19.4–26.6% | 18.4–27.8% |
 | [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 17.2% | 15.4–19.4% | 14.8–20.0% | 14.4–20.6% | 13.5–21.6% |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 18.8% | 16.7–21.2% | 16.0–21.9% | 15.5–22.5% | 14.6–23.7% |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 22.3% | 20.1–24.9% | 19.4–25.6% | 18.9–26.2% | 17.8–27.5% |
@@ -68,19 +69,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 8% | 95% |  |
 | 16.5–17.5% | 13% | 87% |  |
 | 17.5–18.5% | 14% | 74% |  |
-| 18.5–19.5% | 12% | 60% | Median |
-| 19.5–20.5% | 9% | 47% |  |
-| 20.5–21.5% | 7% | 38% |  |
-| 21.5–22.5% | 7% | 31% |  |
-| 22.5–23.5% | 7% | 24% |  |
-| 23.5–24.5% | 7% | 17% |  |
-| 24.5–25.5% | 5% | 10% |  |
-| 25.5–26.5% | 3% | 5% |  |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.5% | 0.7% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 13% | 60% | Median |
+| 19.5–20.5% | 10% | 47% |  |
+| 20.5–21.5% | 9% | 37% |  |
+| 21.5–22.5% | 9% | 28% |  |
+| 22.5–23.5% | 8% | 20% |  |
+| 23.5–24.5% | 6% | 12% |  |
+| 24.5–25.5% | 3% | 6% |  |
+| 25.5–26.5% | 2% | 2% |  |
+| 26.5–27.5% | 0.6% | 0.8% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
-| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -92,6 +92,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 2 | 2 | 2 | 2 | 1–3 |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -134,9 +135,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.9% | 100% |  |
-| 2 | 73% | 99.1% | Median |
-| 3 | 26% | 26% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% | Majority |
+| 2 | 78% | 99.1% | Median |
+| 3 | 21% | 21% |  |
+| 4 | 0% | 0% |  |
 
 
