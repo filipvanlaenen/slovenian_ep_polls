@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 25 Apr 2025 20:04:43 +0200</pubDate>
+    <pubDate>Sun, 04 May 2025 12:02:14 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana-seats.png"
+        length="317135"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 12:02:14 +0200</pubDate>
+      <dc:date>2025-05-04T12:02:14.487793+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana-coalitions-seats.png"
+        length="218544"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 12:02:14 +0200</pubDate>
+      <dc:date>2025-05-04T12:02:14.487793+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–24 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 2.4–5.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.1–8.4%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 2.1–5.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 18.3–25.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.0–9.6%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0.3–2.1%&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (*): 0.9–3.3%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 2.8–6.4%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 26.5–34.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.2–12.5%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 4.5–8.9%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.6–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-24-Mediana.png"
+        length="390189"
+        type="image/png"/>
+      <pubDate>Sun, 04 May 2025 12:02:14 +0200</pubDate>
+      <dc:date>2025-05-04T12:02:14.487793+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 14–16 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-04-16-Ninamedia.html#seats</link>
@@ -519,6 +549,6 @@
       <pubDate>Wed, 25 Dec 2024 19:33:00 +0100</pubDate>
       <dc:date>2024-12-25T19:33:00.855137+01:00</dc:date>
     </item>
-    <dc:date>2025-04-25T20:04:43.062547+02:00</dc:date>
+    <dc:date>2025-05-04T12:02:14.487793+02:00</dc:date>
   </channel>
 </rss>
