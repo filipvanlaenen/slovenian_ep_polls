@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 8.8% | 5.5–11.1% | 5.1–11.7% | 4.7–12.2% | 4.1–13.2% |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 9.5% | 8.0–11.5% | 7.5–12.0% | 7.2–12.5% | 6.5–13.5% |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 9.7% | 8.2–11.5% | 7.8–12.0% | 7.4–12.5% | 6.8–13.4% |
-| [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 5.9% | 4.8–7.4% | 4.5–7.8% | 4.3–8.2% | 3.8–8.9% |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5.9% | 4.8–7.4% | 4.5–7.8% | 4.3–8.2% | 3.8–8.9% |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 8.1% | 6.7–10.0% | 6.3–10.5% | 6.0–10.9% | 5.4–11.9% |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 7.8% | 6.4–9.6% | 6.1–10.1% | 5.7–10.5% | 5.1–11.4% |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 9.9% | 8.4–11.8% | 7.9–12.4% | 7.6–12.9% | 6.9–13.9% |
@@ -41,7 +41,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo | 7.6% | N/A | N/A | N/A | N/A |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV | 8.6% | N/A | N/A | N/A | N/A |
 | [15–17 July 2024](2024-07-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 12.9% | N/A | N/A | N/A | N/A |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | N/A | N/A | N/A | N/A |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | N/A | N/A | N/A | N/A |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
 
@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 0–2 |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 0–1 | 0–1 |
-| [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 0–1 | 0–1 |

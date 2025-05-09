@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4.6% | 3.5–5.9% | 3.2–6.3% | 2.9–6.6% | 2.5–7.4% |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 4.2% | 3.2–5.7% | 3.0–6.1% | 2.8–6.4% | 2.3–7.2% |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 4.7% | 3.7–6.1% | 3.5–6.4% | 3.2–6.8% | 2.9–7.5% |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4.7% | 3.7–6.1% | 3.5–6.4% | 3.2–6.8% | 2.9–7.5% |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 7.3% | 6.0–9.1% | 5.6–9.6% | 5.3–10.0% | 4.7–10.9% |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 7.2% | 5.9–8.9% | 5.5–9.4% | 5.2–9.8% | 4.6–10.7% |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
-| [7–10 April 2025](2025-04-10-Parsifal.html) | Parsifal <br> Nova24TV | 0 | 0 | 0 | 0 | 0–1 |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0–1 |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
