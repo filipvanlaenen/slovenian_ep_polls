@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.1–4.4% | 0.9–4.8% | 0.8–5.2% | 0.5–6.0% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.7–4.4% | 1.5–4.9% | 1.3–5.2% | 1.0–6.0% |
+| [5–7 May 2025](2025-05-07-Mediana.html) | Mediana <br> Delo | 2.3% | 1.6–3.4% | 1.4–3.7% | 1.3–4.0% | 1.0–4.6% |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 1.3% | 0.8–2.2% | 0.7–2.5% | 0.6–2.7% | 0.4–3.3% |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.7% | 0.9–4.3% |
 | [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.8% | 3.0–5.1% | 2.7–5.4% | 2.5–5.7% | 2.2–6.4% |
@@ -51,11 +52,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 24% | 99.4% |  |
-| 1.5–2.5% | 31% | 76% | Median |
-| 2.5–3.5% | 20% | 44% |  |
-| 3.5–4.5% | 16% | 24% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 36% | 93% |  |
+| 2.5–3.5% | 30% | 57% | Median |
+| 3.5–4.5% | 19% | 27% |  |
 | 4.5–5.5% | 7% | 8% |  |
 | 5.5–6.5% | 1.2% | 1.3% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -71,6 +72,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–7 May 2025](2025-05-07-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
