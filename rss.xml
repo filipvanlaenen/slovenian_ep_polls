@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Jun 2025 16:21:34 +0200</pubDate>
+    <pubDate>Sat, 07 Jun 2025 21:03:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Valicon for TSmedia, 23–26 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-05-26-Valicon.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-05-22-Mediana-seats.png"
         length="300883"
         type="image/png"/>
-      <pubDate>Fri, 06 Jun 2025 19:43:29 +0200</pubDate>
-      <dc:date>2025-06-06T19:43:29.073975+02:00</dc:date>
+      <pubDate>Sat, 07 Jun 2025 21:03:41 +0200</pubDate>
+      <dc:date>2025-06-07T21:03:41.28877+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 19–22 May 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-05-22-Mediana-coalitions-seats.png"
         length="200561"
         type="image/png"/>
-      <pubDate>Fri, 06 Jun 2025 19:43:29 +0200</pubDate>
-      <dc:date>2025-06-06T19:43:29.073975+02:00</dc:date>
+      <pubDate>Sat, 07 Jun 2025 21:03:41 +0200</pubDate>
+      <dc:date>2025-06-07T21:03:41.28877+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 19–22 May 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-05-22-Mediana.png"
         length="388868"
         type="image/png"/>
-      <pubDate>Fri, 06 Jun 2025 19:43:29 +0200</pubDate>
-      <dc:date>2025-06-06T19:43:29.073975+02:00</dc:date>
+      <pubDate>Sat, 07 Jun 2025 21:03:41 +0200</pubDate>
+      <dc:date>2025-06-07T21:03:41.28877+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 12–14 May 2025 – Seat Projections for the Parties</title>
@@ -249,6 +249,6 @@
       <pubDate>Sat, 24 May 2025 20:46:24 +0200</pubDate>
       <dc:date>2025-05-24T20:46:24.093823+02:00</dc:date>
     </item>
-    <dc:date>2025-06-07T16:21:34.080114+02:00</dc:date>
+    <dc:date>2025-06-07T21:03:41.28877+02:00</dc:date>
   </channel>
 </rss>
