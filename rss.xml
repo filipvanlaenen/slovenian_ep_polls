@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Jun 2025 21:38:05 +0200</pubDate>
+    <pubDate>Sat, 14 Jun 2025 12:12:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for Delo, 2–5 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-05-Mediana.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-05-Mediana-seats.png"
-        length="308174"
+        length="287562"
         type="image/png"/>
-      <pubDate>Thu, 12 Jun 2025 21:38:05 +0200</pubDate>
-      <dc:date>2025-06-12T21:38:05.602874+02:00</dc:date>
+      <pubDate>Sat, 14 Jun 2025 12:12:11 +0200</pubDate>
+      <dc:date>2025-06-14T12:12:11.209476+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 2–5 June 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-05-Mediana.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-05-Mediana-coalitions-seats.png"
-        length="203774"
+        length="203508"
         type="image/png"/>
-      <pubDate>Thu, 12 Jun 2025 21:38:05 +0200</pubDate>
-      <dc:date>2025-06-12T21:38:05.602874+02:00</dc:date>
+      <pubDate>Sat, 14 Jun 2025 12:12:11 +0200</pubDate>
+      <dc:date>2025-06-14T12:12:11.209476+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for Delo, 2–5 June 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-05-Mediana.png"
         length="367440"
         type="image/png"/>
-      <pubDate>Thu, 12 Jun 2025 21:38:05 +0200</pubDate>
-      <dc:date>2025-06-12T21:38:05.602874+02:00</dc:date>
+      <pubDate>Sat, 14 Jun 2025 12:12:11 +0200</pubDate>
+      <dc:date>2025-06-14T12:12:11.209476+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Valicon for TSmedia, 23–26 May 2025 – Seat Projections for the Parties</title>
@@ -279,6 +279,6 @@
       <pubDate>Sat, 24 May 2025 20:46:24 +0200</pubDate>
       <dc:date>2025-05-24T20:46:24.093823+02:00</dc:date>
     </item>
-    <dc:date>2025-06-12T21:38:05.602874+02:00</dc:date>
+    <dc:date>2025-06-14T12:12:11.209476+02:00</dc:date>
   </channel>
 </rss>
