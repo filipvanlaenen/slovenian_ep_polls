@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.1–6.9% | 1.8–7.3% | 1.7–7.6% | 1.3–8.2% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.1–6.9% | 1.9–7.3% | 1.7–7.6% | 1.4–8.2% |
+| [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.1% | 2.3–4.3% | 2.1–4.6% | 2.0–4.9% | 1.6–5.6% |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.1% |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 6.7% | 5.8–7.6% | 5.6–7.9% | 5.4–8.2% | 5.0–8.6% |
 | [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 3.8% | 2.9–5.2% | 2.7–5.5% | 2.5–5.9% | 2.1–6.6% |
@@ -58,12 +59,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 26% | 98% |  |
-| 2.5–3.5% | 35% | 72% | Median |
-| 3.5–4.5% | 11% | 37% |  |
-| 4.5–5.5% | 2% | 26% |  |
-| 5.5–6.5% | 9% | 24% |  |
+| 0.5–1.5% | 1.2% | 100% |  |
+| 1.5–2.5% | 23% | 98.8% |  |
+| 2.5–3.5% | 36% | 76% | Median |
+| 3.5–4.5% | 13% | 41% |  |
+| 4.5–5.5% | 3% | 27% |  |
+| 5.5–6.5% | 10% | 24% |  |
 | 6.5–7.5% | 12% | 15% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
@@ -79,6 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
