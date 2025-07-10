@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.4–7.7% | 4.1–8.2% | 3.9–8.6% | 3.5–9.5% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.4–7.7% | 4.1–8.2% | 3.8–8.6% | 3.5–9.5% |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.5–5.7% | 3.2–6.2% |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 6.6% | 5.4–8.2% | 5.1–8.6% | 4.8–9.0% | 4.3–9.8% |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 6.2% | 5.0–7.8% | 4.7–8.3% | 4.4–8.7% | 3.9–9.6% |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 4.6% | 3.9–5.4% | 3.7–5.6% | 3.6–5.9% | 3.3–6.3% |
@@ -61,10 +62,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 13% | 99.4% |  |
-| 4.5–5.5% | 24% | 87% |  |
-| 5.5–6.5% | 28% | 63% | Median |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 14% | 99.2% |  |
+| 4.5–5.5% | 23% | 86% |  |
+| 5.5–6.5% | 27% | 63% | Median |
 | 6.5–7.5% | 23% | 35% |  |
 | 7.5–8.5% | 10% | 13% |  |
 | 8.5–9.5% | 2% | 3% |  |
@@ -81,6 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
