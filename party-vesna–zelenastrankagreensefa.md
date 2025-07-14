@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.8% | 1.9–5.1% | 1.7–5.4% | 1.4–5.8% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.8–4.8% | 1.6–5.1% | 1.4–5.3% | 1.1–5.8% |
+| [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 2.0% | 1.4–3.0% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.5–5.7% | 3.2–6.2% |
+| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 2.5% | 1.8–3.6% | 1.6–4.0% | 1.4–4.3% | 1.1–4.9% |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.1% | 2.3–4.3% | 2.1–4.6% | 2.0–4.9% | 1.6–5.6% |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.1% |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 6.7% | 5.8–7.6% | 5.6–7.9% | 5.4–8.2% | 5.0–8.6% |
@@ -60,12 +62,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 23% | 98.8% |  |
-| 2.5–3.5% | 36% | 76% | Median |
-| 3.5–4.5% | 25% | 40% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 28% | 95% |  |
+| 2.5–3.5% | 31% | 68% | Median |
+| 3.5–4.5% | 23% | 37% |  |
 | 4.5–5.5% | 13% | 14% |  |
-| 5.5–6.5% | 1.3% | 1.4% |  |
+| 5.5–6.5% | 1.3% | 1.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -78,7 +80,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
+| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
