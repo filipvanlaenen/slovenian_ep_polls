@@ -84,7 +84,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
 | [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -137,8 +137,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 51% | 51% | Median |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 50% | 50% |  |
 | 2 | 0% | 0% |  |
 
 
