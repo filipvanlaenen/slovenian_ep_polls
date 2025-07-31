@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Jul 2025 23:07:37 +0200</pubDate>
+    <pubDate>Thu, 31 Jul 2025 23:23:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 21–24 July 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-24-Mediana.html#seats</link>
@@ -40,15 +40,45 @@
       <dc:date>2025-07-31T22:02:01.159709+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 7–9 July 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia-seats.png"
+        length="234085"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jul 2025 23:12:43 +0200</pubDate>
+      <dc:date>2025-07-31T23:12:43.43063+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 7–9 July 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia-coalitions-seats.png"
+        length="209817"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jul 2025 23:12:43 +0200</pubDate>
+      <dc:date>2025-07-31T23:12:43.43063+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 7–9 July 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.6–7.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.5–10.4%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 32.2–41.1%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.1–1.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.6–14.4%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.1–1.6%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 21.0–28.9%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 5.5–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-Ninamedia.png"
         length="287177"
         type="image/png"/>
-      <pubDate>Thu, 31 Jul 2025 23:07:37 +0200</pubDate>
-      <dc:date>2025-07-31T23:07:37.699863+02:00</dc:date>
+      <pubDate>Thu, 31 Jul 2025 23:12:43 +0200</pubDate>
+      <dc:date>2025-07-31T23:12:43.43063+02:00</dc:date>
     </item>
-    <dc:date>2025-07-31T23:07:37.699863+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 3–9 July 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-IJEK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.3–7.0%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.1–9.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 1.3–4.0%&lt;/li&gt;&lt;li&gt;Vladimir Prebilič (*): 1.9–5.0%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 18.9–26.0%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 3.3–7.0%&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0.5–2.5%&lt;/li&gt;&lt;li&gt;Stranka ZAUPANJE (*): 0.3–2.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.1–3.5%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 5.1–9.5%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.9–30.5%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.3–4.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.2–12.3%&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 1.6–4.5%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0.4–2.2%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-07-09-IJEK.png"
+        length="470356"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jul 2025 23:23:27 +0200</pubDate>
+      <dc:date>2025-07-31T23:23:27.497772+02:00</dc:date>
+    </item>
+    <dc:date>2025-07-31T23:23:27.497772+02:00</dc:date>
   </channel>
 </rss>
