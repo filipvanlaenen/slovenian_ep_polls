@@ -10,18 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% | 0.0–1.5% |
+| [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0.2% | 0.1–0.8% | 0.1–0.9% | 0.0–1.1% | 0.0–1.5% |
+| [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
+| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 2.7% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
-| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0.6% | 0.4–1.4% | 0.3–1.6% | 0.2–1.8% | 0.1–2.2% |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 1.7% | N/A | N/A | N/A | N/A |
+| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0.6% | N/A | N/A | N/A | N/A |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 1.8% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.1–2.5% | 0.9–2.8% |
-| [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
+| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 1.6% | N/A | N/A | N/A | N/A |
+| [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 1.6% | N/A | N/A | N/A | N/A |
 | [12–14 May 2025](2025-05-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2025](2025-05-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
-| [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 1.7% | 1.1–2.7% | 1.0–3.0% | 0.9–3.3% | 0.7–3.9% |
+| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 1.7% | N/A | N/A | N/A | N/A |
+| [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 1.7% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
@@ -61,11 +66,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 29% | 100% |  |
-| 1.5–2.5% | 69% | 71% | Median |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 77% | 100% | Last Result, Median |
+| 0.5–1.5% | 23% | 23% |  |
+| 1.5–2.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,17 +81,22 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
-| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
+| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
-| [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [12–14 May 2025](2025-05-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [5–7 May 2025](2025-05-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 0 | 0 | 0 | 0 | 0 |
-| [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net |  |  |  |  |  |
+| [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |

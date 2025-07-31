@@ -1,4 +1,4 @@
-# Glas upokojencev (*)
+# FOKUS – za Slovenijo s ciljem (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
