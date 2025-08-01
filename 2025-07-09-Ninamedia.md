@@ -52,8 +52,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 75% | 97% | Median |
-| 5 | 21% | 22% | Majority |
+| 4 | 77% | 97% | Median |
+| 5 | 20% | 20% | Majority |
 | 6 | 0% | 0% |  |
 
 ### Gibanje Svoboda (RE)
@@ -66,8 +66,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 21% | 100% |  |
-| 3 | 78% | 79% | Median |
+| 2 | 22% | 100% |  |
+| 3 | 77% | 78% | Median |
 | 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -80,8 +80,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% | Last Result |
-| 1 | 98.8% | 99.4% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 98.6% | 99.4% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -92,8 +92,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 46% | 46% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -104,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
+| 0 | 56% | 100% | Last Result, Median |
+| 1 | 44% | 44% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokrati (EPP)
@@ -159,8 +159,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% | Last Result |
-| 1 | 98.8% | 99.4% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 98.6% | 99.4% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -169,8 +169,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 42% | 42% |  |
+| 0 | 56% | 100% | Last Result, Median |
+| 1 | 44% | 44% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -185,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 449
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.21%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.09%
 

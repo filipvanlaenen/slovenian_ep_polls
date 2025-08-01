@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.1–8.2% | 4.7–8.7% | 4.4–9.1% | 3.9–10.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 3.8–8.6% | 3.4–9.0% | 3.1–9.3% | 2.5–10.0% |
 | [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 5.9% | 4.8–7.5% | 4.4–7.9% | 4.2–8.3% | 3.7–9.1% |
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 7.0% | 5.7–8.6% | 5.4–9.1% | 5.1–9.5% | 4.5–10.3% |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 7.4% | N/A | N/A | N/A | N/A |
-| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 8.1% | N/A | N/A | N/A | N/A |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 8.1% | 7.2–9.1% | 7.0–9.4% | 6.8–9.7% | 6.4–10.2% |
 | [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 5.6% | N/A | N/A | N/A | N/A |
-| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.9% | N/A | N/A | N/A | N/A |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.9% | 3.0–5.2% | 2.8–5.6% | 2.6–6.0% | 2.2–6.6% |
 | [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 8.2% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 5.8% | N/A | N/A | N/A | N/A |
@@ -68,16 +68,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 3% | 99.8% |  |
-| 4.5–5.5% | 16% | 96% |  |
-| 5.5–6.5% | 31% | 80% |  |
-| 6.5–7.5% | 28% | 50% | Median |
-| 7.5–8.5% | 15% | 21% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 1.0% | 1.2% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 6% | 99.5% |  |
+| 3.5–4.5% | 13% | 93% |  |
+| 4.5–5.5% | 14% | 80% |  |
+| 5.5–6.5% | 17% | 67% |  |
+| 6.5–7.5% | 19% | 50% | Median |
+| 7.5–8.5% | 20% | 31% |  |
+| 8.5–9.5% | 9% | 11% |  |
+| 9.5–10.5% | 1.4% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -94,9 +94,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
 | [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0–1 |
 | [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
@@ -147,8 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 55% | 55% | Median |
+| 0 | 47% | 100% | Last Result |
+| 1 | 53% | 53% | Median |
 | 2 | 0% | 0% |  |
 
 
