@@ -1,4 +1,4 @@
-# Glas upokojencev (*)
+# Vladimir Prebilič (Greens/EFA)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,29 +10,29 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.6% |
 | [11–13 August 2025](2025-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 August 2025](2025-08-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 1.2% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.4–3.1% |
+| [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.6% |
 | [25–28 July 2025](2025-07-28-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 1.2% | N/A | N/A | N/A | N/A |
+| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 3.1% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 1.7% | N/A | N/A | N/A | N/A |
+| [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1.9% | N/A | N/A | N/A | N/A |
-| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 2.7% | N/A | N/A | N/A | N/A |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 1.2% | N/A | N/A | N/A | N/A |
+| [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 May 2025](2025-05-22-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 May 2025](2025-05-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2025](2025-05-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 1.1% | N/A | N/A | N/A | N/A |
+| [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.5% | N/A | N/A | N/A | N/A |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,16 +66,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Glas upokojencev (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Vladimir Prebilič (Greens/EFA).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 64% | 98% | Median |
-| 1.5–2.5% | 31% | 34% |  |
-| 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 20% | 99.4% |  |
+| 2.5–3.5% | 49% | 79% | Median |
+| 3.5–4.5% | 25% | 30% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -142,9 +144,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-glasupokojencev.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-vladimirprebiličgreensefa.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Glas upokojencev (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Vladimir Prebilič (Greens/EFA).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
