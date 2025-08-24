@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–7 August 2025](2025-08-07-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 July 2025](2025-07-28-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
-| [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0–1 |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
