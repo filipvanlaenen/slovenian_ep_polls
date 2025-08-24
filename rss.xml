@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Aug 2025 15:39:34 +0200</pubDate>
+    <pubDate>Sun, 24 Aug 2025 16:59:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 11–13 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-08-13-Ninamedia.html#seats</link>
@@ -222,12 +222,12 @@
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 10–12 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-12-ParsifalSC.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Stranka ZAUPANJE (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Stranka ZAUPANJE (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-12-ParsifalSC-seats.png"
-        length="349833"
+        length="327330"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 21:19:00 +0200</pubDate>
-      <dc:date>2025-08-23T21:19:00.697672+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 16:59:24 +0200</pubDate>
+      <dc:date>2025-08-24T16:59:24.211664+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 10–12 June 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -236,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-12-ParsifalSC-coalitions-seats.png"
         length="236065"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 21:19:00 +0200</pubDate>
-      <dc:date>2025-08-23T21:19:00.697672+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 16:59:24 +0200</pubDate>
+      <dc:date>2025-08-24T16:59:24.211664+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Parsifal SC for Nova24TV, 10–12 June 2025 – Voting Intentions</title>
@@ -246,9 +246,9 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-06-12-ParsifalSC.png"
         length="404254"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 21:19:00 +0200</pubDate>
-      <dc:date>2025-08-23T21:19:00.697672+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 16:59:24 +0200</pubDate>
+      <dc:date>2025-08-24T16:59:24.211664+02:00</dc:date>
     </item>
-    <dc:date>2025-08-24T15:39:34.898862+02:00</dc:date>
+    <dc:date>2025-08-24T16:59:24.211664+02:00</dc:date>
   </channel>
 </rss>
