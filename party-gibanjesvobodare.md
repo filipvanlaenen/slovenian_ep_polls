@@ -118,7 +118,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–13 August 2025](2025-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [4–7 August 2025](2025-08-07-Mediana.html) | Mediana <br> Delo | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [25–28 July 2025](2025-07-28-Valicon.html) | Valicon <br> TSmedia | 3 | 3 | 3 | 3 | 2–3 |
+| [25–28 July 2025](2025-07-28-Valicon.html) | Valicon <br> TSmedia | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 3 | 3 | 3 | 2–4 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 29% | 100% |  |
-| 3 | 67% | 71% | Median |
+| 2 | 30% | 100% |  |
+| 3 | 65% | 70% | Median |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% | Majority |
 
