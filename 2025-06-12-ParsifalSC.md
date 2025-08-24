@@ -36,7 +36,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–5 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–5 |
 | <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
@@ -61,9 +61,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 77% | 97% | Median |
-| 5 | 20% | 20% | Majority |
+| 3 | 2% | 100% |  |
+| 4 | 82% | 98% | Median |
+| 5 | 16% | 16% | Majority |
 | 6 | 0% | 0% |  |
 
 ### Gibanje Svoboda (RE)
@@ -76,8 +76,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 76% | 100% | Median |
-| 3 | 24% | 24% |  |
+| 2 | 71% | 100% | Median |
+| 3 | 29% | 29% |  |
 | 4 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -88,8 +88,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 71% | 71% | Median |
+| 0 | 22% | 100% | Last Result |
+| 1 | 78% | 78% | Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -100,9 +100,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 84% | 84% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
 
@@ -112,8 +113,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 80% | 80% | Median |
+| 0 | 35% | 100% | Last Result |
+| 1 | 65% | 65% | Median |
 | 2 | 0% | 0% |  |
 
 ### Demokrati (EPP)
@@ -124,8 +125,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% |  |
 
 ### Resni.ca (NI)
@@ -136,8 +137,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
@@ -148,7 +149,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 ### Piratska stranka Slovenije (Greens/EFA)
 
@@ -158,7 +161,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 ### Glas upokojencev (*)
 
@@ -219,9 +224,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 84% | 84% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
 
@@ -229,8 +235,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 80% | 80% | Median |
+| 0 | 35% | 100% | Last Result |
+| 1 | 65% | 65% | Median |
 | 2 | 0% | 0% |  |
 
 ### Resni.ca (NI)
@@ -239,8 +245,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -255,6 +261,6 @@
 ### Calculations
 
 + **Sample size:** 533
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.10%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 4.71%
 
