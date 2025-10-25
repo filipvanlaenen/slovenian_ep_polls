@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.2–6.8% | 3.9–7.2% | 3.6–7.6% | 3.2–8.4% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.3–6.5% | 4.0–6.9% | 3.8–7.3% | 3.3–8.1% |
+| [17–20 October 2025](2025-10-20-Valicon.html) | Valicon <br> POP TV | 5.3% | 4.4–6.3% | 4.2–6.6% | 4.0–6.9% | 3.6–7.5% |
+| [13–15 October 2025](2025-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 October 2025](2025-10-09-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 September 2025](2025-09-29-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2025](2025-09-25-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -81,13 +83,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 18% | 98% |  |
-| 4.5–5.5% | 37% | 80% | Median |
-| 5.5–6.5% | 30% | 43% |  |
-| 6.5–7.5% | 11% | 14% |  |
-| 7.5–8.5% | 2% | 3% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 1.2% | 100% |  |
+| 3.5–4.5% | 15% | 98.8% |  |
+| 4.5–5.5% | 42% | 83% | Median |
+| 5.5–6.5% | 31% | 41% |  |
+| 6.5–7.5% | 8% | 10% |  |
+| 7.5–8.5% | 1.4% | 2% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -100,6 +102,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–20 October 2025](2025-10-20-Valicon.html) | Valicon <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 October 2025](2025-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [6–9 October 2025](2025-10-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [26–29 September 2025](2025-09-29-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [22–25 September 2025](2025-09-25-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
@@ -169,8 +173,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
+| 0 | 50% | 100% | Last Result |
+| 1 | 50% | 50% | Median |
 | 2 | 0% | 0% |  |
 
 
