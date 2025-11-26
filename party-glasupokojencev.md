@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.1–4.7% | 0.0–5.1% | 0.0–5.5% | 0.0–6.2% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.1–4.4% | 0.1–4.9% | 0.0–5.3% | 0.0–6.0% |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 1.3% | 0.9–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | 0.0–0.7% | 0.0–1.0% | 0.0–1.2% | 0.0–1.7% |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -88,14 +89,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 41% | 100% | Last Result |
-| 0.5–1.5% | 9% | 59% |  |
-| 1.5–2.5% | 1.5% | 50% | Median |
-| 2.5–3.5% | 14% | 49% |  |
-| 3.5–4.5% | 23% | 35% |  |
-| 4.5–5.5% | 10% | 12% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 27% | 100% | Last Result |
+| 0.5–1.5% | 31% | 73% | Median |
+| 1.5–2.5% | 9% | 42% |  |
+| 2.5–3.5% | 9% | 33% |  |
+| 3.5–4.5% | 15% | 23% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 1.3% | 1.4% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija |  |  |  |  |  |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
