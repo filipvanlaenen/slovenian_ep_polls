@@ -31,9 +31,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 4 |3–5 |3–5 |3–5 |
 | <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
@@ -51,8 +51,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 10% | 100% |  |
-| 4 | 82% | 90% | Median |
+| 3 | 9% | 100% |  |
+| 4 | 83% | 91% | Median |
 | 5 | 8% | 8% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -66,8 +66,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 59% | 100% | Median |
-| 3 | 41% | 41% |  |
+| 2 | 60% | 100% | Median |
+| 3 | 40% | 40% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -92,8 +92,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 68% | 68% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
 | 2 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
@@ -104,8 +104,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 62% | 62% | Median |
+| 0 | 40% | 100% | Last Result |
+| 1 | 60% | 60% | Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -116,8 +116,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 36% | 36% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
@@ -150,7 +150,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Levica (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Socialni demokrati (S&D) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati (S&D) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 
 ### Levica (GUE/NGL)
 
@@ -158,8 +158,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 36% | 36% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 ### Socialni demokrati (S&D)
@@ -185,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 453
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.39%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.72%
 
