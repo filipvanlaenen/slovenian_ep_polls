@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.4% | 4.4–7.8% | 4.2–8.2% | 3.7–9.0% |
+| N/A | [Poll Average](average.html) | 5.5% | 3.2–6.8% | 2.7–7.2% | 2.4–7.6% | 1.9–8.5% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 5.8% | 4.7–7.4% | 4.4–7.8% | 4.1–8.2% | 3.7–9.0% |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 3.5% | 2.7–4.8% | 2.4–5.2% | 2.2–5.5% | 1.9–6.2% |
-| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 5.8% | N/A | N/A | N/A | N/A |
-| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 3.5% | N/A | N/A | N/A | N/A |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 5.8% | 5.1–6.8% | 4.9–7.0% | 4.7–7.2% | 4.4–7.7% |
+| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 3.5% | 2.5–5.3% | 2.2–5.8% | 2.0–6.2% | 1.6–7.2% |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija | 5.7% | N/A | N/A | N/A | N/A |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo | 4.8% | N/A | N/A | N/A | N/A |
@@ -92,16 +92,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 7% | 99.7% |  |
-| 4.5–5.5% | 27% | 93% |  |
-| 5.5–6.5% | 37% | 66% | Median |
-| 6.5–7.5% | 21% | 29% |  |
-| 7.5–8.5% | 6% | 8% |  |
-| 8.5–9.5% | 1.1% | 1.2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 3% | 99.9% |  |
+| 2.5–3.5% | 11% | 97% |  |
+| 3.5–4.5% | 14% | 86% |  |
+| 4.5–5.5% | 24% | 72% | Median |
+| 5.5–6.5% | 32% | 48% |  |
+| 6.5–7.5% | 12% | 15% |  |
+| 7.5–8.5% | 2% | 3% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -113,11 +113,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
-| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
+| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0–1 |
+| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija |  |  |  |  |  |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
@@ -196,8 +196,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 27% | 27% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% |  |
 
 
