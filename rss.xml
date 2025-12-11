@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 11 Dec 2025 18:21:38 +0100</pubDate>
+    <pubDate>Thu, 11 Dec 2025 20:48:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Mediana for Delo, 1–4 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-04-Mediana.html#seats</link>
@@ -40,15 +40,105 @@
       <dc:date>2025-12-11T17:49:30.97836+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–27 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Stranka generacij (*): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana-seats.png"
+        length="408516"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 18:50:04 +0100</pubDate>
+      <dc:date>2025-12-11T18:50:04.761894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP TV, 22–27 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana-coalitions-seats.png"
+        length="242517"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 18:50:04 +0100</pubDate>
+      <dc:date>2025-12-11T18:50:04.761894+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Mediana for POP TV, 22–27 November 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.8–7.8%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.5–8.7%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 1.6–4.5%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 4.5–8.7%&lt;/li&gt;&lt;li&gt;Stranka generacij (*): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 17.4–24.4%&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 1.2–3.8%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 2.1–5.3%&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 2.2–5.5%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 24.8–32.6%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.3–9.8%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0.9–3.3%&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0.9–3.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 2.2–5.5%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.7–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-27-Mediana.png"
         length="505528"
         type="image/png"/>
-      <pubDate>Thu, 11 Dec 2025 18:21:38 +0100</pubDate>
-      <dc:date>2025-12-11T18:21:38.013526+01:00</dc:date>
+      <pubDate>Thu, 11 Dec 2025 18:50:04 +0100</pubDate>
+      <dc:date>2025-12-11T18:50:04.761894+01:00</dc:date>
     </item>
-    <dc:date>2025-12-11T18:21:38.013526+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Valicon for TSmedia, 21–24 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon-seats.png"
+        length="333680"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 19:06:57 +0100</pubDate>
+      <dc:date>2025-12-11T19:06:57.146493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon for TSmedia, 21–24 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon-coalitions-seats.png"
+        length="194505"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 19:06:57 +0100</pubDate>
+      <dc:date>2025-12-11T19:06:57.146493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon for TSmedia, 21–24 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 6.4–9.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.6–7.1%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 2.9–5.0%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 3.2–5.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 19.8–24.2%&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 1.6–3.3%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 2.9–5.0%&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0.8–2.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.9–3.6%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 4.7–7.2%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 23.6–28.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.8–8.6%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 1.3–2.8%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.4–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-24-Valicon.png"
+        length="437115"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 19:06:57 +0100</pubDate>
+      <dc:date>2025-12-11T19:06:57.146493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 1–20 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Stranka generacij (*): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Stranka ZAUPANJE (*): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK-seats.png"
+        length="326187"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 20:47:48 +0100</pubDate>
+      <dc:date>2025-12-11T20:47:48.627034+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 1–20 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK-coalitions-seats.png"
+        length="168935"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 20:47:48 +0100</pubDate>
+      <dc:date>2025-12-11T20:47:48.627034+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 1–20 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 4.5–10.2%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–10.9%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 2.2–6.6%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 3.5–8.6%&lt;/li&gt;&lt;li&gt;Stranka generacij (*): 0.5–3.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 15.9–24.8%&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0.0–1.2%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 3.0–7.8%&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0.0–1.2%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 2.2–6.6%&lt;/li&gt;&lt;li&gt;Stranka ZAUPANJE (*): 0.0–1.2%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 2.0–6.2%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 22.5–32.3%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.6–13.1%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.3–5.0%&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0.7–3.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.1–4.6%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.0–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-20-IJEK.png"
+        length="535735"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 20:47:48 +0100</pubDate>
+      <dc:date>2025-12-11T20:47:48.627034+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-12-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 7.2–12.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.3–9.9%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 25.8–33.7%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.2–12.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 18.9–26.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 6.9–11.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-11-12-Ninamedia.png"
+        length="245948"
+        type="image/png"/>
+      <pubDate>Thu, 11 Dec 2025 20:48:41 +0100</pubDate>
+      <dc:date>2025-12-11T20:48:41.813794+01:00</dc:date>
+    </item>
+    <dc:date>2025-12-11T20:48:41.813794+01:00</dc:date>
   </channel>
 </rss>
