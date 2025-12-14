@@ -126,7 +126,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [24–26 October 2025](2025-10-26-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [20–23 October 2025](2025-10-23-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [20–22 October 2025](2025-10-22-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0–1 |
+| [20–22 October 2025](2025-10-22-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [17–20 October 2025](2025-10-20-Valicon.html) | Valicon <br> POP TV |  |  |  |  |  |
 | [1–20 October 2025](2025-10-20-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [13–15 October 2025](2025-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
