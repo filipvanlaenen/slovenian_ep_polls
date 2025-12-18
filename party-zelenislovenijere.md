@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.1–2.6% | 1.0–2.9% | 0.8–3.2% | 0.6–4.0% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.6% | 1.0–2.9% | 0.8–3.3% | 0.6–4.0% |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 1.6% | 1.1–2.5% | 0.9–2.8% | 0.8–3.0% | 0.6–3.6% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 1.5% | 1.0–2.4% | 0.9–2.7% | 0.8–3.0% | 0.6–3.5% |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 1.8% | 1.2–2.8% | 1.1–3.0% | 0.9–3.3% | 0.7–3.9% |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.2–3.1% |
@@ -91,11 +92,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 30% | 99.6% |  |
-| 1.5–2.5% | 58% | 70% | Median |
-| 2.5–3.5% | 11% | 12% |  |
-| 3.5–4.5% | 1.1% | 1.3% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 29% | 99.7% |  |
+| 1.5–2.5% | 58% | 71% | Median |
+| 2.5–3.5% | 11% | 13% |  |
+| 3.5–4.5% | 1.2% | 1.3% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -109,6 +110,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |

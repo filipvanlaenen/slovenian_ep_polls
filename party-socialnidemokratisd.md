@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 6.8–10.8% | 6.5–11.5% | 6.2–12.1% | 5.7–13.3% |
+| N/A | [Poll Average](average.html) | 8.8% | 6.9–10.9% | 6.5–11.5% | 6.2–12.1% | 5.7–13.3% |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 8.5% | 7.1–10.3% | 6.7–10.8% | 6.4–11.3% | 5.8–12.2% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 8.1% | 6.8–9.8% | 6.4–10.3% | 6.1–10.8% | 5.5–11.6% |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 7.2% | 5.9–8.9% | 5.6–9.4% | 5.3–9.8% | 4.7–10.7% |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 7.1% | 6.3–8.1% | 6.0–8.4% | 5.8–8.6% | 5.5–9.1% |
@@ -81,7 +82,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo | 7.6% | N/A | N/A | N/A | N/A |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV | 8.6% | N/A | N/A | N/A | N/A |
 | [15–17 July 2024](2024-07-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 12.9% | N/A | N/A | N/A | N/A |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | N/A | N/A | N/A | N/A |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | N/A | N/A | N/A | N/A |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
 
@@ -96,15 +97,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 6% | 99.7% |  |
-| 6.5–7.5% | 19% | 94% |  |
-| 7.5–8.5% | 23% | 75% |  |
-| 8.5–9.5% | 22% | 52% | Median |
-| 9.5–10.5% | 16% | 30% |  |
-| 10.5–11.5% | 9% | 13% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 5% | 99.8% |  |
+| 6.5–7.5% | 17% | 95% |  |
+| 7.5–8.5% | 23% | 77% |  |
+| 8.5–9.5% | 23% | 55% | Median |
+| 9.5–10.5% | 17% | 32% |  |
+| 10.5–11.5% | 9% | 14% |  |
 | 11.5–12.5% | 3% | 5% |  |
-| 12.5–13.5% | 1.0% | 1.4% |  |
+| 12.5–13.5% | 1.1% | 1.4% |  |
 | 13.5–14.5% | 0.3% | 0.4% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -119,6 +120,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 1 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 0–1 | 0–1 |

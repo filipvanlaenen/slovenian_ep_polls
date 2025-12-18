@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 4.7–9.9% | 4.2–10.6% | 3.8–11.2% | 3.2–12.4% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.1–9.9% | 5.6–10.6% | 5.2–11.2% | 4.4–12.4% |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 7.0% | 5.7–8.6% | 5.4–9.1% | 5.1–9.5% | 4.5–10.4% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 4.7% | 3.7–6.1% | 3.4–6.5% | 3.2–6.9% | 2.8–7.6% |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 5.5% | 4.4–7.0% | 4.1–7.4% | 3.8–7.8% | 3.3–8.6% |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 7.7% | 6.8–8.7% | 6.6–9.0% | 6.4–9.3% | 6.0–9.8% |
@@ -94,14 +95,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 7% | 98.7% |  |
-| 4.5–5.5% | 10% | 92% |  |
-| 5.5–6.5% | 11% | 81% |  |
-| 6.5–7.5% | 19% | 70% |  |
-| 7.5–8.5% | 23% | 51% | Median |
-| 8.5–9.5% | 15% | 28% |  |
-| 9.5–10.5% | 8% | 13% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 4% | 99.3% |  |
+| 5.5–6.5% | 12% | 95% |  |
+| 6.5–7.5% | 25% | 83% |  |
+| 7.5–8.5% | 28% | 58% | Median |
+| 8.5–9.5% | 17% | 30% |  |
+| 9.5–10.5% | 8% | 14% |  |
 | 10.5–11.5% | 4% | 5% |  |
 | 11.5–12.5% | 1.3% | 2% |  |
 | 12.5–13.5% | 0.3% | 0.4% |  |
@@ -118,6 +119,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
@@ -200,8 +202,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 71% | 71% | Median |
+| 0 | 14% | 100% | Last Result |
+| 1 | 86% | 86% | Median |
 | 2 | 0% | 0% |  |
 
 
