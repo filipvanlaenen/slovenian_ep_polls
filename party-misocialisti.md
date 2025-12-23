@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 0.1–2.9% | 0.1–3.2% | 0.0–3.4% | 0.0–4.0% |
+| N/A | [Poll Average](average.html) | 2.4% | 0.1–4.7% | 0.1–5.2% | 0.0–5.6% | 0.0–6.4% |
+| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 4.1% | 3.2–5.4% | 2.9–5.8% | 2.7–6.1% | 2.3–6.8% |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 2.1% | 1.5–3.2% | 1.3–3.5% | 1.2–3.8% | 1.0–4.4% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.7% | 0.9–4.3% |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 2.1% | 1.5–3.2% | 1.3–3.5% | 1.2–3.8% | 1.0–4.4% |
@@ -93,12 +94,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 27% | 100% | Last Result |
-| 0.5–1.5% | 10% | 73% |  |
-| 1.5–2.5% | 40% | 63% | Median |
-| 2.5–3.5% | 21% | 22% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 6% | 73% |  |
+| 1.5–2.5% | 22% | 66% | Median |
+| 2.5–3.5% | 18% | 44% |  |
+| 3.5–4.5% | 15% | 27% |  |
+| 4.5–5.5% | 9% | 12% |  |
+| 5.5–6.5% | 2% | 3% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -110,6 +113,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
