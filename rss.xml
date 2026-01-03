@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 23 Dec 2025 19:50:12 +0100</pubDate>
+    <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by Mediana for RTV Slovenija, 15–18 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-18-Mediana.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Tue, 23 Dec 2025 19:50:12 +0100</pubDate>
       <dc:date>2025-12-23T19:50:12.948868+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia-seats.png"
+        length="236088"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
+      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia-coalitions-seats.png"
+        length="212513"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
+      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 6.3–11.4%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–9.7%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 29.5–38.1%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 8.3–14.1%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 22.3–30.3%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.8–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia.png"
+        length="248413"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
+      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 8–11 December 2025 – Seat Projections for the Parties</title>
@@ -249,6 +279,6 @@
       <pubDate>Sun, 14 Dec 2025 22:14:04 +0100</pubDate>
       <dc:date>2025-12-14T22:14:04.233419+01:00</dc:date>
     </item>
-    <dc:date>2025-12-23T19:50:12.948868+01:00</dc:date>
+    <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
   </channel>
 </rss>
