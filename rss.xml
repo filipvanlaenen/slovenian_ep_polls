@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
+    <pubDate>Sat, 03 Jan 2026 16:33:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Mediana for RTV Slovenija, 15–18 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-18-Mediana.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia-seats.png"
         length="236088"
         type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
-      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+      <pubDate>Sat, 03 Jan 2026 16:33:06 +0100</pubDate>
+      <dc:date>2026-01-03T16:33:06.804518+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia-coalitions-seats.png"
         length="212513"
         type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
-      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+      <pubDate>Sat, 03 Jan 2026 16:33:06 +0100</pubDate>
+      <dc:date>2026-01-03T16:33:06.804518+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 15–17 December 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2025-12-17-Ninamedia.png"
         length="248413"
         type="image/png"/>
-      <pubDate>Sat, 03 Jan 2026 14:08:24 +0100</pubDate>
-      <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+      <pubDate>Sat, 03 Jan 2026 16:33:06 +0100</pubDate>
+      <dc:date>2026-01-03T16:33:06.804518+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 8–11 December 2025 – Seat Projections for the Parties</title>
@@ -279,6 +279,6 @@
       <pubDate>Sun, 14 Dec 2025 22:14:04 +0100</pubDate>
       <dc:date>2025-12-14T22:14:04.233419+01:00</dc:date>
     </item>
-    <dc:date>2026-01-03T14:08:24.53668+01:00</dc:date>
+    <dc:date>2026-01-03T16:33:06.804518+01:00</dc:date>
   </channel>
 </rss>
