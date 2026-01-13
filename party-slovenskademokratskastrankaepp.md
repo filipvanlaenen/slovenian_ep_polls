@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 25.1–34.1% | 24.4–35.4% | 23.8–36.4% | 22.4–38.1% |
+| N/A | [Poll Average](average.html) | 29.0% | 25.6–34.1% | 24.9–35.4% | 24.1–36.4% | 22.4–38.1% |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 26.8% | 25.3–28.4% | 24.9–28.8% | 24.5–29.2% | 23.8–30.0% |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 28.4% | 26.0–31.0% | 25.3–31.7% | 24.7–32.3% | 23.6–33.6% |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 33.7% | 31.0–36.6% | 30.2–37.4% | 29.5–38.1% | 28.2–39.6% |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 26.9% | 24.5–29.6% | 23.9–30.3% | 23.3–30.9% | 22.2–32.2% |
@@ -117,13 +118,13 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 99.9% |  |
 | 21.5–22.5% | 0.4% | 99.8% |  |
-| 22.5–23.5% | 1.3% | 99.4% |  |
-| 23.5–24.5% | 4% | 98% |  |
-| 24.5–25.5% | 8% | 94% |  |
-| 25.5–26.5% | 11% | 86% |  |
-| 26.5–27.5% | 11% | 74% |  |
-| 27.5–28.5% | 10% | 63% |  |
-| 28.5–29.5% | 9% | 54% | Median |
+| 22.5–23.5% | 0.9% | 99.4% |  |
+| 23.5–24.5% | 2% | 98% |  |
+| 24.5–25.5% | 5% | 96% |  |
+| 25.5–26.5% | 10% | 91% |  |
+| 26.5–27.5% | 13% | 80% |  |
+| 27.5–28.5% | 12% | 67% |  |
+| 28.5–29.5% | 10% | 55% | Median |
 | 29.5–30.5% | 9% | 45% |  |
 | 30.5–31.5% | 9% | 36% |  |
 | 31.5–32.5% | 8% | 27% |  |
@@ -147,6 +148,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 4 | 4 | 4 | 4 | 3–4 |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -235,8 +237,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 28% | 100% |  |
-| 4 | 70% | 72% | Median |
+| 3 | 22% | 100% |  |
+| 4 | 77% | 78% | Median |
 | 5 | 2% | 2% | Majority |
 | 6 | 0% | 0% |  |
 

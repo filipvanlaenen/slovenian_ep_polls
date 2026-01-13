@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 17.0–26.5% | 16.1–27.7% | 15.4–28.6% | 14.3–30.3% |
+| N/A | [Poll Average](average.html) | 21.6% | 17.0–26.5% | 16.1–27.7% | 15.4–28.6% | 14.3–30.3% |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 21.3% | 19.9–22.8% | 19.5–23.2% | 19.2–23.5% | 18.5–24.2% |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 23.5% | 21.3–26.0% | 20.7–26.7% | 20.1–27.3% | 19.1–28.5% |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 26.1% | 23.6–28.8% | 22.9–29.6% | 22.3–30.3% | 21.1–31.6% |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 22.3% | 20.1–24.8% | 19.4–25.5% | 18.9–26.1% | 17.9–27.3% |
@@ -113,13 +114,13 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 4% | 97% |  |
 | 16.5–17.5% | 6% | 93% |  |
 | 17.5–18.5% | 7% | 86% |  |
-| 18.5–19.5% | 6% | 80% |  |
-| 19.5–20.5% | 7% | 73% |  |
-| 20.5–21.5% | 11% | 66% |  |
-| 21.5–22.5% | 13% | 55% | Median |
-| 22.5–23.5% | 11% | 42% |  |
-| 23.5–24.5% | 9% | 31% |  |
-| 24.5–25.5% | 7% | 23% |  |
+| 18.5–19.5% | 7% | 79% |  |
+| 19.5–20.5% | 9% | 72% |  |
+| 20.5–21.5% | 12% | 63% |  |
+| 21.5–22.5% | 12% | 51% | Median |
+| 22.5–23.5% | 9% | 39% |  |
+| 23.5–24.5% | 8% | 30% |  |
+| 24.5–25.5% | 7% | 22% |  |
 | 25.5–26.5% | 6% | 16% |  |
 | 26.5–27.5% | 4% | 10% |  |
 | 27.5–28.5% | 3% | 5% |  |
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 3 | 3 | 3 | 3 | 2–3 |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 3 | 3 | 3 | 3 | 3–4 |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 3 | 3 | 3 | 3 | 2–4 |

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.5–2.5% | 0.4–2.8% | 0.3–3.2% | 0.2–4.0% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.5–2.3% | 0.4–2.7% | 0.3–3.1% | 0.2–4.0% |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0.6% | 0.3–1.2% | 0.2–1.4% | 0.2–1.6% | 0.1–2.0% |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 1.6% | 1.1–2.5% | 0.9–2.8% | 0.8–3.0% | 0.6–3.6% |
@@ -95,10 +96,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 12% | 100% | Last Result |
-| 0.5–1.5% | 36% | 88% |  |
-| 1.5–2.5% | 43% | 52% | Median |
-| 2.5–3.5% | 8% | 10% |  |
-| 3.5–4.5% | 1.0% | 1.2% |  |
+| 0.5–1.5% | 48% | 88% | Median |
+| 1.5–2.5% | 34% | 41% |  |
+| 2.5–3.5% | 6% | 7% |  |
+| 3.5–4.5% | 1.0% | 1.1% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -112,6 +113,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
