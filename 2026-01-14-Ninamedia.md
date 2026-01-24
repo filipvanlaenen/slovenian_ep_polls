@@ -1,0 +1,342 @@
+# Opinion Poll by Ninamedia for Dnevnik, 12–14 January 2026
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2026-01-14-Ninamedia.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Slovenska demokratska stranka (EPP) | 0.0% | 28.7% | 26.4–31.2% |25.8–31.9% |25.2–32.5% |24.2–33.7% |
+| Gibanje Svoboda (RE) | 0.0% | 21.6% | 19.5–23.9% |19.0–24.5% |18.5–25.1% |17.5–26.2% |
+| Demokrati (EPP) | 0.0% | 9.2% | 7.8–10.9% |7.4–11.4% |7.1–11.8% |6.5–12.7% |
+| Socialni demokrati (S&D) | 0.0% | 8.0% | 6.7–9.6% |6.4–10.1% |6.1–10.5% |5.5–11.3% |
+| Nova Slovenija–Krščanski demokrati (EPP) | 0.0% | 6.5% | 5.3–8.0% |5.0–8.4% |4.7–8.7% |4.3–9.5% |
+| Levica (GUE/NGL) | 0.0% | 4.3% | 3.4–5.5% |3.1–5.9% |2.9–6.2% |2.5–6.9% |
+| Resni.ca (NI) | 0.0% | 4.1% | 3.2–5.3% |3.0–5.7% |2.8–6.0% |2.4–6.7% |
+| Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) | 0.0% | 3.4% | 2.6–4.6% |2.4–4.9% |2.2–5.2% |1.9–5.8% |
+| Slovenska nacionalna stranka (PfE) | 0.0% | 2.2% | 1.6–3.2% |1.4–3.5% |1.3–3.7% |1.1–4.3% |
+| VESNA–Zelena stranka (Greens/EFA) | 0.0% | 2.2% | 1.6–3.2% |1.4–3.5% |1.3–3.7% |1.1–4.3% |
+| Piratska stranka Slovenije (Greens/EFA) | 0.0% | 2.0% | 1.5–3.0% |1.3–3.3% |1.2–3.5% |0.9–4.1% |
+| Mi, socialisti! (*) | 0.0% | 1.7% | 1.2–2.6% |1.0–2.9% |0.9–3.1% |0.7–3.6% |
+| Glas upokojencev (*) | 0.0% | 1.4% | 0.9–2.2% |0.8–2.4% |0.7–2.7% |0.5–3.1% |
+| Slovenska ljudska stranka (EPP) | 0.0% | 1.4% | 0.9–2.2% |0.8–2.4% |0.7–2.7% |0.5–3.1% |
+| FOKUS – za Slovenijo s ciljem (*) | 0.0% | 1.0% | 0.7–1.8% |0.5–2.0% |0.5–2.2% |0.3–2.6% |
+| Stranka generacij (*) | 0.0% | 0.7% | 0.4–1.4% |0.3–1.6% |0.3–1.7% |0.2–2.1% |
+| Zeleni Slovenije (RE) | 0.0% | 0.7% | 0.4–1.4% |0.3–1.6% |0.3–1.7% |0.2–2.1% |
+| Stranka ZAUPANJE (*) | 0.0% | 0.2% | 0.1–0.7% |0.0–0.8% |0.0–0.9% |0.0–1.3% |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
+
+## Seats
+
+![Graph with seats not yet produced](2026-01-14-Ninamedia-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2026-01-14-Ninamedia-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
+| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
+| <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#resni.ca-(ni)">Resni.ca (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#prerod-–-stranka-vladimirja-prebiliča-(greens/efa)">Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#slovenska-nacionalna-stranka-(pfe)">Slovenska nacionalna stranka (PfE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#mi,-socialisti!-(*)">Mi, socialisti! (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#glas-upokojencev-(*)">Glas upokojencev (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#slovenska-ljudska-stranka-(epp)">Slovenska ljudska stranka (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#fokus-–-za-slovenijo-s-ciljem-(*)">FOKUS – za Slovenijo s ciljem (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#stranka-generacij-(*)">Stranka generacij (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#zeleni-slovenije-(re)">Zeleni Slovenije (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#stranka-zaupanje-(*)">Stranka ZAUPANJE (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### Slovenska demokratska stranka (EPP)
+
+*For a full overview of the results for this party, see the [Slovenska demokratska stranka (EPP)](party-slovenskademokratskastrankaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-slovenskademokratskastrankaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 20% | 100% |  |
+| 4 | 74% | 80% | Median |
+| 5 | 6% | 6% | Majority |
+| 6 | 0% | 0% |  |
+
+### Gibanje Svoboda (RE)
+
+*For a full overview of the results for this party, see the [Gibanje Svoboda (RE)](party-gibanjesvobodare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-gibanjesvobodare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 9% | 100% |  |
+| 3 | 91% | 91% | Median |
+| 4 | 0.2% | 0.2% |  |
+| 5 | 0% | 0% | Majority |
+
+### Demokrati (EPP)
+
+*For a full overview of the results for this party, see the [Demokrati (EPP)](party-demokratiepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-demokratiepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
+
+### Socialni demokrati (S&D)
+
+*For a full overview of the results for this party, see the [Socialni demokrati (S&D)](party-socialnidemokratisd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-socialnidemokratisd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
+
+### Nova Slovenija–Krščanski demokrati (EPP)
+
+*For a full overview of the results for this party, see the [Nova Slovenija–Krščanski demokrati (EPP)](party-novaslovenija–krščanskidemokratiepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-novaslovenija–krščanskidemokratiepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
+| 2 | 0% | 0% |  |
+
+### Levica (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Levica (GUE/NGL)](party-levicaguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-levicaguengl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
+| 2 | 0% | 0% |  |
+
+### Resni.ca (NI)
+
+*For a full overview of the results for this party, see the [Resni.ca (NI)](party-resnicani.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-resnicani.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
+| 2 | 0% | 0% |  |
+
+### Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)](party-prerod–strankavladimirjaprebiličagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-prerod–strankavladimirjaprebiličagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Slovenska nacionalna stranka (PfE)
+
+*For a full overview of the results for this party, see the [Slovenska nacionalna stranka (PfE)](party-slovenskanacionalnastrankapfe.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-slovenskanacionalnastrankapfe.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### VESNA–Zelena stranka (Greens/EFA)
+
+*For a full overview of the results for this party, see the [VESNA–Zelena stranka (Greens/EFA)](party-vesna–zelenastrankagreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-vesna–zelenastrankagreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Piratska stranka Slovenije (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Piratska stranka Slovenije (Greens/EFA)](party-piratskastrankaslovenijegreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-piratskastrankaslovenijegreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Mi, socialisti! (*)
+
+*For a full overview of the results for this party, see the [Mi, socialisti! (*)](party-misocialisti.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-misocialisti.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Glas upokojencev (*)
+
+*For a full overview of the results for this party, see the [Glas upokojencev (*)](party-glasupokojencev.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-glasupokojencev.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Slovenska ljudska stranka (EPP)
+
+*For a full overview of the results for this party, see the [Slovenska ljudska stranka (EPP)](party-slovenskaljudskastrankaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-slovenskaljudskastrankaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### FOKUS – za Slovenijo s ciljem (*)
+
+*For a full overview of the results for this party, see the [FOKUS – za Slovenijo s ciljem (*)](party-fokus–zaslovenijosciljem.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-fokus–zaslovenijosciljem.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Stranka generacij (*)
+
+*For a full overview of the results for this party, see the [Stranka generacij (*)](party-strankageneracij.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-strankageneracij.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Zeleni Slovenije (RE)
+
+*For a full overview of the results for this party, see the [Zeleni Slovenije (RE)](party-zelenislovenijere.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-zelenislovenijere.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Stranka ZAUPANJE (*)
+
+*For a full overview of the results for this party, see the [Stranka ZAUPANJE (*)](party-strankazaupanje.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-seats-pmf-strankazaupanje.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2026-01-14-Ninamedia-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Levica (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Resni.ca (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Slovenska nacionalna stranka (PfE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Levica (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-coalitions-seats-pmf-levica.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
+| 2 | 0% | 0% |  |
+
+### Socialni demokrati (S&D)
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 31% | 100% | Last Result |
+| 1 | 69% | 69% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
+
+### Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) – Piratska stranka Slovenije (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-coalitions-seats-pmf-pvp–vesna–pss.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Resni.ca (NI)
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-coalitions-seats-pmf-res.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
+| 2 | 0% | 0% |  |
+
+### Slovenska nacionalna stranka (PfE)
+
+![Graph with seats probability mass function not yet produced](2026-01-14-Ninamedia-coalitions-seats-pmf-sns.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** Ninamedia
++ **Commissioner(s):** Dnevnik
++ **Fieldwork period:** 12–14 January 2026
+
+### Calculations
+
++ **Sample size:** 588
++ **Simulations done:** 1,048,576
++ **Error estimate:** 4.01%
+

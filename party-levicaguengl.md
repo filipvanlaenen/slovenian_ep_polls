@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 2.9–7.1% | 2.6–7.8% | 2.4–8.4% | 2.0–9.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.7% | 2.9–6.1% | 2.7–6.5% | 2.4–7.2% |
+| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 4.4% | 3.5–5.8% | 3.2–6.2% | 3.0–6.5% | 2.6–7.2% |
+| [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3.9% | 3.0–5.2% | 2.8–5.6% | 2.6–5.9% | 2.2–6.6% |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4.3% | 3.4–5.5% | 3.1–5.9% | 2.9–6.2% | 2.5–6.9% |
+| [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo | 2.7% | N/A | N/A | N/A | N/A |
 | [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 3.3% | 2.8–4.0% | 2.6–4.2% | 2.5–4.4% | 2.2–4.8% |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 3.2% | 2.4–4.4% | 2.2–4.7% | 2.0–5.0% | 1.7–5.7% |
+| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 4.9% | 3.9–6.3% | 3.6–6.7% | 3.4–7.1% | 3.0–7.8% |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 6.7% | 5.5–8.5% | 5.1–9.0% | 4.8–9.4% | 4.2–10.3% |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 1.9% | 1.4–3.0% | 1.2–3.3% | 1.1–3.5% | 0.8–4.1% |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 4.9% | 3.9–6.3% | 3.6–6.7% | 3.4–7.1% | 2.9–7.8% |
@@ -97,17 +102,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 25% | 96% |  |
-| 3.5–4.5% | 25% | 71% | Median |
-| 4.5–5.5% | 17% | 46% |  |
-| 5.5–6.5% | 13% | 28% |  |
-| 6.5–7.5% | 9% | 15% |  |
-| 7.5–8.5% | 5% | 7% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 24% | 98.7% |  |
+| 3.5–4.5% | 37% | 75% | Median |
+| 4.5–5.5% | 26% | 38% |  |
+| 5.5–6.5% | 10% | 12% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.2% | 0.3% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -118,9 +120,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0–1 |
+| [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
+| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -205,8 +212,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 
