@@ -155,7 +155,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 4 | 4 | 4 | 4 | 3–4 |
@@ -247,9 +247,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 28% | 99.7% |  |
-| 4 | 55% | 71% | Median |
-| 5 | 16% | 16% | Majority |
+| 3 | 29% | 99.7% |  |
+| 4 | 59% | 71% | Median |
+| 5 | 12% | 12% | Majority |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
