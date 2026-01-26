@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 1.3–5.7% | 1.0–6.2% | 0.9–6.6% | 0.6–7.4% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.0–5.1% | 0.9–5.5% | 0.8–5.8% | 0.6–6.3% |
+| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 1.1% | 0.9–1.3% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 1.3% | 0.9–2.2% | 0.7–2.4% | 0.6–2.7% | 0.5–3.1% |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.2% | 1.6–3.2% | 1.4–3.5% | 1.3–3.7% | 1.1–4.3% |
@@ -101,15 +102,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 17% | 99.7% |  |
-| 1.5–2.5% | 23% | 83% |  |
-| 2.5–3.5% | 9% | 60% |  |
-| 3.5–4.5% | 12% | 50% | Median |
-| 4.5–5.5% | 25% | 38% |  |
-| 5.5–6.5% | 11% | 13% |  |
-| 6.5–7.5% | 2% | 3% |  |
-| 7.5–8.5% | 0.3% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 42% | 99.7% |  |
+| 1.5–2.5% | 23% | 58% | Median |
+| 2.5–3.5% | 9% | 35% |  |
+| 3.5–4.5% | 7% | 26% |  |
+| 4.5–5.5% | 15% | 19% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,7 +120,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
 | [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
@@ -212,8 +213,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
