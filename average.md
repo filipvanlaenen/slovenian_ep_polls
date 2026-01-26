@@ -9,12 +9,12 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Levica | PSS | PVP | VESNA | SD | DeSUS | DL | GS | K | LMŠ | SMC | SAB | ZS | Demokrati | NSi | PoS | SDS–SLS | SDS | SLS | SNS | Res | DD | Fokus | GU | GOD | GOD–NLS | LIDE | LRG | MS | ND | NP | NLS | PS | SG | SZ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 3–6% <br> 0–1 | 1–5% <br> 0 | 1–5% <br> 0 | 1–4% <br> 0 | 5–13% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 18–29% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–3% <br> 0 | 5–11% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 23–36% <br> 3–5 | 0–3% <br> 0 | 1–7% <br> 0 | 2–7% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 |
+| N/A | Poll Average | 2–6% <br> 0 | 1–5% <br> 0 | 2–11% <br> 0–1 | 1–4% <br> 0 | 5–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 13–29% <br> 1–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 6–17% <br> 0–2 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 25–36% <br> 3–5 | 0–3% <br> 0 | 1–6% <br> 0 | 3–7% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 |
+| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 2–3% <br> 0 | N/A <br> N/A | 10–12% <br> 1 | 1–2% <br> 0 | 5–6% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–17% <br> 2 | 6–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 27–29% <br> 3–4 | 2–3% <br> 0 | 1% <br> 0 | 5–6% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 3–7% <br> 0 | 2–6% <br> 0 | 2–5% <br> 0 | 1–4% <br> 0 | 6–11% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 19–26% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 5–9% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 24–31% <br> 3–4 | 0–2% <br> 0 | 1–3% <br> 0 | 4–8% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3–6% <br> 0 | 1–3% <br> 0 | 2–5% <br> 0 | 1–4% <br> 0 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 23–31% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 30–38% <br> 4–5 | 0–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 3–6% <br> 0–1 | 1–4% <br> 0 | 2–5% <br> 0 | 1–4% <br> 0 | 6–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 18–25% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 7–12% <br> 1 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 25–33% <br> 3–5 | 1–3% <br> 0 | 1–4% <br> 0 | 3–6% <br> 0 | N/A <br> N/A | 0–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–1% <br> 0 |
 | [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 19–24% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 7–9% <br> 1 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 24–29% <br> 3–4 | 1–2% <br> 0 | 4–6% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 3–7% <br> 0–1 | 3–6% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 9–14% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 17–23% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 5–9% <br> 0–1 | 4–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 22–29% <br> 3–4 | 1–4% <br> 0 | 4–7% <br> 0–1 | 2–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 0–2% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -68,41 +68,41 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0.0% | 4.2% | 3.1–5.7% |2.9–6.1% | 2.7–6.5% | 2.4–7.2% |
-| <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0.0% | 2.9% | 1.7–4.6% |1.4–5.0% | 1.3–5.4% | 1.0–6.2% |
-| <a href="#prerod-–-stranka-vladimirja-prebiliča-(greens/efa)">Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)</a> | 0.0% | 3.1% | 1.7–4.3% |1.4–4.7% | 1.2–5.0% | 0.9–5.7% |
-| <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0.0% | 2.3% | 1.5–3.3% |1.4–3.6% | 1.3–3.9% | 1.0–4.5% |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0.0% | 8.4% | 6.3–11.3% |5.7–12.2% | 5.3–12.9% | 4.6–14.1% |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0.0% | 3.7% | 2.2–5.2% |2.0–5.6% | 1.9–6.0% | 1.8–6.7% |
+| <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0.0% | 2.6% | 1.6–4.0% |1.4–4.5% | 1.2–4.9% | 1.0–5.7% |
+| <a href="#prerod-–-stranka-vladimirja-prebiliča-(greens/efa)">Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)</a> | 0.0% | 3.6% | 2.6–10.6% |2.4–10.9% | 2.2–11.2% | 1.9–11.6% |
+| <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0.0% | 2.0% | 1.2–3.0% |1.0–3.3% | 1.0–3.7% | 0.9–4.2% |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0.0% | 7.6% | 5.3–9.4% |5.1–9.9% | 4.9–10.3% | 4.5–11.3% |
 | <a href="#demokratična-stranka-upokojencev-slovenije-(re)">Demokratična stranka upokojencev Slovenije (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#državljanska-lista-(re)">Državljanska lista (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0.0% | 21.8% | 19.2–27.0% |18.4–28.2% | 17.8–29.2% | 16.6–30.8% |
+| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0.0% | 21.7% | 13.4–27.0% |13.0–28.2% | 12.8–29.2% | 12.4–30.8% |
 | <a href="#konkretno-(re)">Konkretno (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-modernega-centra-(re)">Stranka modernega centra (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-alenke-bratušek-(re)">Stranka Alenke Bratušek (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#zeleni-slovenije-(re)">Zeleni Slovenije (RE)</a> | 0.0% | 1.5% | 0.7–2.6% |0.5–2.9% | 0.4–3.2% | 0.3–3.9% |
-| <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0.0% | 7.6% | 6.0–9.5% |5.6–10.2% | 5.3–10.7% | 4.7–11.8% |
-| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0.0% | 6.0% | 4.8–7.4% |4.4–7.9% | 4.2–8.3% | 3.6–9.1% |
+| <a href="#zeleni-slovenije-(re)">Zeleni Slovenije (RE)</a> | 0.0% | 1.3% | 0.6–2.0% |0.5–2.2% | 0.4–2.4% | 0.2–2.8% |
+| <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0.0% | 8.2% | 6.3–15.9% |5.9–16.3% | 5.5–16.6% | 4.8–17.1% |
+| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0.0% | 6.2% | 4.9–7.3% |4.5–7.7% | 4.2–8.1% | 3.6–9.0% |
 | <a href="#povežimo-slovenijo-(epp)">Povežimo Slovenijo (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#slovenska-demokratska-stranka–slovenska-ljudska-stranka-(epp)">Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0.0% | 27.6% | 24.7–34.0% |23.8–35.4% | 23.1–36.4% | 21.7–38.1% |
-| <a href="#slovenska-ljudska-stranka-(epp)">Slovenska ljudska stranka (EPP)</a> | 0.0% | 1.4% | 0.7–2.4% |0.5–2.8% | 0.4–3.1% | 0.3–3.8% |
-| <a href="#slovenska-nacionalna-stranka-(pfe)">Slovenska nacionalna stranka (PfE)</a> | 0.0% | 3.6% | 1.3–5.7% |1.0–6.2% | 0.9–6.6% | 0.6–7.4% |
-| <a href="#resni.ca-(ni)">Resni.ca (NI)</a> | 0.0% | 4.6% | 3.0–6.3% |2.7–6.8% | 2.5–7.3% | 2.1–8.2% |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0.0% | 28.1% | 25.8–34.0% |25.2–35.4% | 24.6–36.4% | 23.4–38.1% |
+| <a href="#slovenska-ljudska-stranka-(epp)">Slovenska ljudska stranka (EPP)</a> | 0.0% | 1.4% | 0.7–2.5% |0.5–2.7% | 0.4–2.8% | 0.3–3.0% |
+| <a href="#slovenska-nacionalna-stranka-(pfe)">Slovenska nacionalna stranka (PfE)</a> | 0.0% | 1.9% | 1.0–5.1% |0.9–5.5% | 0.8–5.8% | 0.6–6.3% |
+| <a href="#resni.ca-(ni)">Resni.ca (NI)</a> | 0.0% | 5.2% | 3.4–6.4% |3.0–6.8% | 2.7–7.3% | 2.3–8.2% |
 | <a href="#dobra-država-(*)">Dobra država (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#fokus-–-za-slovenijo-s-ciljem-(*)">FOKUS – za Slovenijo s ciljem (*)</a> | 0.0% | 1.0% | 0.5–1.7% |0.4–2.0% | 0.3–2.2% | 0.2–2.6% |
-| <a href="#glas-upokojencev-(*)">Glas upokojencev (*)</a> | 0.0% | 1.5% | 0.9–2.3% |0.8–2.6% | 0.7–2.8% | 0.5–3.4% |
+| <a href="#fokus-–-za-slovenijo-s-ciljem-(*)">FOKUS – za Slovenijo s ciljem (*)</a> | 0.0% | 1.1% | 0.6–1.6% |0.4–1.8% | 0.3–2.0% | 0.2–2.5% |
+| <a href="#glas-upokojencev-(*)">Glas upokojencev (*)</a> | 0.0% | 1.4% | 0.9–2.2% |0.7–2.5% | 0.6–2.7% | 0.4–3.2% |
 | <a href="#glas-za-otroke-in-družine-(*)">Glas za otroke in družine (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#glas-za-otroke-in-družine–nova-ljudska-stranka-slovenije-(*)">Glas za otroke in družine–Nova ljudska stranka Slovenije (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#liberalni-demokrati-(*)">Liberalni demokrati (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lista-roberta-goloba-(*)">Lista Roberta Goloba (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#mi,-socialisti!-(*)">Mi, socialisti! (*)</a> | 0.0% | 1.8% | 0.7–2.7% |0.5–2.9% | 0.3–3.1% | 0.2–3.6% |
+| <a href="#mi,-socialisti!-(*)">Mi, socialisti! (*)</a> | 0.0% | 2.0% | 1.3–2.7% |1.1–2.9% | 1.0–3.1% | 0.7–3.6% |
 | <a href="#naša-dežela-(*)">Naša dežela (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#naša-prihodnost-(*)">Naša prihodnost (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#nova-ljudska-stranka-slovenije-(*)">Nova ljudska stranka Slovenije (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pozitivna-slovenija-(*)">Pozitivna Slovenija (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#stranka-generacij-(*)">Stranka generacij (*)</a> | 0.0% | 0.6% | 0.3–1.2% |0.2–1.4% | 0.2–1.6% | 0.1–2.0% |
-| <a href="#stranka-zaupanje-(*)">Stranka ZAUPANJE (*)</a> | 0.0% | 0.4% | 0.1–1.1% |0.1–1.3% | 0.1–1.5% | 0.0–1.9% |
+| <a href="#stranka-generacij-(*)">Stranka generacij (*)</a> | 0.0% | 0.6% | 0.3–1.2% |0.2–1.4% | 0.1–1.6% | 0.1–2.0% |
+| <a href="#stranka-zaupanje-(*)">Stranka ZAUPANJE (*)</a> | 0.0% | 0.4% | 0.1–0.8% |0.1–1.0% | 0.1–1.2% | 0.0–1.5% |
 
 ### Demokrati (EPP)
 
@@ -114,17 +114,22 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 4% | 99.6% |  |
-| 5.5–6.5% | 16% | 95% |  |
-| 6.5–7.5% | 27% | 79% |  |
-| 7.5–8.5% | 27% | 52% | Median |
-| 8.5–9.5% | 15% | 25% |  |
-| 9.5–10.5% | 6% | 10% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.6% | 0.8% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 10% | 97% |  |
+| 6.5–7.5% | 20% | 87% |  |
+| 7.5–8.5% | 23% | 67% | Median |
+| 8.5–9.5% | 14% | 43% |  |
+| 9.5–10.5% | 6% | 29% |  |
+| 10.5–11.5% | 2% | 23% |  |
+| 11.5–12.5% | 0.6% | 21% |  |
+| 12.5–13.5% | 0.1% | 20% |  |
+| 13.5–14.5% | 0.2% | 20% |  |
+| 14.5–15.5% | 5% | 20% |  |
+| 15.5–16.5% | 12% | 15% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
 
@@ -136,13 +141,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 6% | 99.6% |  |
-| 4.5–5.5% | 25% | 94% |  |
-| 5.5–6.5% | 39% | 68% | Median |
-| 6.5–7.5% | 21% | 29% |  |
-| 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 1.3% | 2% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 5% | 99.6% |  |
+| 4.5–5.5% | 21% | 95% |  |
+| 5.5–6.5% | 39% | 74% | Median |
+| 6.5–7.5% | 28% | 35% |  |
+| 7.5–8.5% | 5% | 7% |  |
+| 8.5–9.5% | 1.0% | 1.2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (PfE)
@@ -152,15 +157,14 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 17% | 99.7% |  |
-| 1.5–2.5% | 23% | 83% |  |
-| 2.5–3.5% | 9% | 60% |  |
-| 3.5–4.5% | 12% | 50% | Median |
-| 4.5–5.5% | 25% | 38% |  |
-| 5.5–6.5% | 11% | 13% |  |
-| 6.5–7.5% | 2% | 3% |  |
-| 7.5–8.5% | 0.3% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 42% | 99.7% |  |
+| 1.5–2.5% | 23% | 58% | Median |
+| 2.5–3.5% | 9% | 35% |  |
+| 3.5–4.5% | 7% | 26% |  |
+| 4.5–5.5% | 15% | 19% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 ### Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)
 
@@ -169,26 +173,19 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 20% | 93% |  |
-| 2.5–3.5% | 43% | 73% | Median |
-| 3.5–4.5% | 24% | 30% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
-
-### Stranka generacij (*)
-
-*For a full overview of the results for this party, see the [Stranka generacij (*)](party-strankageneracij.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 38% | 100% | Last Result |
-| 0.5–1.5% | 59% | 62% | Median |
-| 1.5–2.5% | 3% | 3% |  |
-| 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 9% | 99.9% |  |
+| 2.5–3.5% | 41% | 91% |  |
+| 3.5–4.5% | 24% | 50% | Median |
+| 4.5–5.5% | 6% | 26% |  |
+| 5.5–6.5% | 0.7% | 21% |  |
+| 6.5–7.5% | 0% | 20% |  |
+| 7.5–8.5% | 0% | 20% |  |
+| 8.5–9.5% | 0.2% | 20% |  |
+| 9.5–10.5% | 9% | 20% |  |
+| 10.5–11.5% | 11% | 11% |  |
+| 11.5–12.5% | 0.6% | 0.6% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 ### Gibanje Svoboda (RE)
 
@@ -208,18 +205,18 @@ Only polls for which at least the sample size has been published are included in
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.4% | 99.9% |  |
-| 16.5–17.5% | 1.4% | 99.5% |  |
-| 17.5–18.5% | 4% | 98% |  |
-| 18.5–19.5% | 8% | 95% |  |
-| 19.5–20.5% | 14% | 87% |  |
-| 20.5–21.5% | 19% | 73% |  |
-| 21.5–22.5% | 17% | 55% | Median |
-| 22.5–23.5% | 11% | 38% |  |
+| 11.5–12.5% | 1.0% | 100% |  |
+| 12.5–13.5% | 11% | 99.0% |  |
+| 13.5–14.5% | 7% | 88% |  |
+| 14.5–15.5% | 0.3% | 80% |  |
+| 15.5–16.5% | 0% | 80% |  |
+| 16.5–17.5% | 0.1% | 80% |  |
+| 17.5–18.5% | 0.8% | 80% |  |
+| 18.5–19.5% | 3% | 79% |  |
+| 19.5–20.5% | 9% | 76% |  |
+| 20.5–21.5% | 15% | 67% |  |
+| 21.5–22.5% | 15% | 52% | Median |
+| 22.5–23.5% | 10% | 37% |  |
 | 23.5–24.5% | 6% | 27% |  |
 | 24.5–25.5% | 5% | 21% |  |
 | 25.5–26.5% | 5% | 16% |  |
@@ -238,9 +235,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 32% | 93% |  |
-| 1.5–2.5% | 46% | 60% | Median |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 21% | 99.9% |  |
+| 1.5–2.5% | 65% | 79% | Median |
 | 2.5–3.5% | 14% | 15% |  |
 | 3.5–4.5% | 0.6% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -253,55 +250,14 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.3% | 100% |  |
-| 2.5–3.5% | 24% | 98.7% |  |
-| 3.5–4.5% | 37% | 75% | Median |
-| 4.5–5.5% | 26% | 38% |  |
-| 5.5–6.5% | 10% | 12% |  |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.2% | 0.3% |  |
+| 1.5–2.5% | 20% | 100% |  |
+| 2.5–3.5% | 24% | 80% |  |
+| 3.5–4.5% | 32% | 56% | Median |
+| 4.5–5.5% | 18% | 24% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.7% | 0.8% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
-
-### Glas upokojencev (*)
-
-*For a full overview of the results for this party, see the [Glas upokojencev (*)](party-glasupokojencev.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% | Last Result |
-| 0.5–1.5% | 52% | 99.0% |  |
-| 1.5–2.5% | 41% | 47% | Median |
-| 2.5–3.5% | 5% | 6% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
-| 4.5–5.5% | 0% | 0% |  |
-
-### Piratska stranka Slovenije (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Piratska stranka Slovenije (Greens/EFA)](party-piratskastrankaslovenijegreensefa.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 30% | 93% |  |
-| 2.5–3.5% | 33% | 63% | Median |
-| 3.5–4.5% | 20% | 30% |  |
-| 4.5–5.5% | 8% | 10% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
-
-### Stranka ZAUPANJE (*)
-
-*For a full overview of the results for this party, see the [Stranka ZAUPANJE (*)](party-strankazaupanje.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 60% | 100% | Last Result, Median |
-| 0.5–1.5% | 38% | 40% |  |
-| 1.5–2.5% | 2% | 2% |  |
-| 2.5–3.5% | 0% | 0% |  |
-| 3.5–4.5% | 0% | 0% |  |
 
 ### Resni.ca (NI)
 
@@ -311,11 +267,11 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 20% | 97% |  |
-| 3.5–4.5% | 27% | 77% |  |
-| 4.5–5.5% | 24% | 50% | Median |
-| 5.5–6.5% | 18% | 26% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 12% | 98.6% |  |
+| 3.5–4.5% | 19% | 87% |  |
+| 4.5–5.5% | 33% | 67% | Median |
+| 5.5–6.5% | 27% | 35% |  |
 | 6.5–7.5% | 6% | 7% |  |
 | 7.5–8.5% | 1.4% | 2% |  |
 | 8.5–9.5% | 0.2% | 0.3% |  |
@@ -347,16 +303,16 @@ Only polls for which at least the sample size has been published are included in
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.3% | 99.9% |  |
-| 21.5–22.5% | 1.0% | 99.6% |  |
-| 22.5–23.5% | 3% | 98.6% |  |
-| 23.5–24.5% | 5% | 96% |  |
-| 24.5–25.5% | 9% | 91% |  |
-| 25.5–26.5% | 14% | 81% |  |
-| 26.5–27.5% | 16% | 67% |  |
-| 27.5–28.5% | 13% | 51% | Median |
-| 28.5–29.5% | 9% | 38% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.5% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.4% |  |
+| 24.5–25.5% | 5% | 98% |  |
+| 25.5–26.5% | 11% | 93% |  |
+| 26.5–27.5% | 19% | 82% |  |
+| 27.5–28.5% | 22% | 63% | Median |
+| 28.5–29.5% | 12% | 41% |  |
 | 29.5–30.5% | 6% | 29% |  |
 | 30.5–31.5% | 4% | 24% |  |
 | 31.5–32.5% | 4% | 19% |  |
@@ -380,19 +336,16 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 3% | 99.5% |  |
-| 5.5–6.5% | 9% | 96% |  |
-| 6.5–7.5% | 16% | 87% |  |
-| 7.5–8.5% | 25% | 71% | Median |
-| 8.5–9.5% | 19% | 45% |  |
-| 9.5–10.5% | 10% | 26% |  |
-| 10.5–11.5% | 7% | 16% |  |
-| 11.5–12.5% | 5% | 9% |  |
-| 12.5–13.5% | 2% | 4% |  |
-| 13.5–14.5% | 0.8% | 1.1% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 16% | 99.4% |  |
+| 5.5–6.5% | 16% | 83% |  |
+| 6.5–7.5% | 16% | 67% |  |
+| 7.5–8.5% | 25% | 51% | Median |
+| 8.5–9.5% | 18% | 26% |  |
+| 9.5–10.5% | 6% | 8% |  |
+| 10.5–11.5% | 1.5% | 2% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
 
@@ -401,25 +354,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 55% | 90% | Median |
-| 2.5–3.5% | 29% | 35% |  |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
-| 5.5–6.5% | 0% | 0% |  |
-
-### Zeleni Slovenije (RE)
-
-*For a full overview of the results for this party, see the [Zeleni Slovenije (RE)](party-zelenislovenijere.html) page.*
-
-| Voting Intentions | Probability | Accumulated | Special Marks |
-|:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 47% | 94% |  |
-| 1.5–2.5% | 37% | 47% | Median |
-| 2.5–3.5% | 9% | 10% |  |
-| 3.5–4.5% | 1.1% | 1.2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 30% | 100% |  |
+| 1.5–2.5% | 47% | 70% | Median |
+| 2.5–3.5% | 20% | 23% |  |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 ### Slovenska ljudska stranka (EPP)
@@ -429,12 +368,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 54% | 95% | Median |
-| 1.5–2.5% | 32% | 41% |  |
-| 2.5–3.5% | 7% | 8% |  |
-| 3.5–4.5% | 0.9% | 1.0% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 52% | 95% | Median |
+| 1.5–2.5% | 33% | 42% |  |
+| 2.5–3.5% | 9% | 9% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### FOKUS – za Slovenijo s ciljem (*)
 
@@ -442,10 +379,74 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 74% | 89% | Median |
-| 1.5–2.5% | 14% | 15% |  |
-| 2.5–3.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 10% | 100% | Last Result |
+| 0.5–1.5% | 79% | 90% | Median |
+| 1.5–2.5% | 11% | 11% |  |
+| 2.5–3.5% | 0.4% | 0.5% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Stranka generacij (*)
+
+*For a full overview of the results for this party, see the [Stranka generacij (*)](party-strankageneracij.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 40% | 100% | Last Result |
+| 0.5–1.5% | 57% | 60% | Median |
+| 1.5–2.5% | 3% | 3% |  |
+| 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Glas upokojencev (*)
+
+*For a full overview of the results for this party, see the [Glas upokojencev (*)](party-glasupokojencev.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 1.3% | 100% | Last Result |
+| 0.5–1.5% | 58% | 98.7% | Median |
+| 1.5–2.5% | 37% | 41% |  |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
+
+### Piratska stranka Slovenije (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Piratska stranka Slovenije (Greens/EFA)](party-piratskastrankaslovenijegreensefa.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 37% | 91% |  |
+| 2.5–3.5% | 36% | 54% | Median |
+| 3.5–4.5% | 13% | 18% |  |
+| 4.5–5.5% | 4% | 5% |  |
+| 5.5–6.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### Stranka ZAUPANJE (*)
+
+*For a full overview of the results for this party, see the [Stranka ZAUPANJE (*)](party-strankazaupanje.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 73% | 100% | Last Result, Median |
+| 0.5–1.5% | 26% | 27% |  |
+| 1.5–2.5% | 0.4% | 0.4% |  |
+| 2.5–3.5% | 0% | 0% |  |
+
+### Zeleni Slovenije (RE)
+
+*For a full overview of the results for this party, see the [Zeleni Slovenije (RE)](party-zelenislovenijere.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 8% | 100% | Last Result |
+| 0.5–1.5% | 59% | 92% | Median |
+| 1.5–2.5% | 31% | 33% |  |
+| 2.5–3.5% | 1.4% | 1.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -459,26 +460,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#piratska-stranka-slovenije-(greens/efa)">Piratska stranka Slovenije (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#prerod-–-stranka-vladimirja-prebiliča-(greens/efa)">Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#prerod-–-stranka-vladimirja-prebiliča-(greens/efa)">Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 0–1 |0–2 | 0–2 | 0–2 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#demokratična-stranka-upokojencev-slovenije-(re)">Demokratična stranka upokojencev Slovenije (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#državljanska-lista-(re)">Državljanska lista (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 3–4 |2–4 | 2–4 | 2–4 |
+| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 2–4 |1–4 | 1–4 | 1–4 |
 | <a href="#konkretno-(re)">Konkretno (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lista-marjana-šarca-(re)">Lista Marjana Šarca (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-modernega-centra-(re)">Stranka modernega centra (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stranka-alenke-bratušek-(re)">Stranka Alenke Bratušek (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#zeleni-slovenije-(re)">Zeleni Slovenije (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–2 |
 | <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#povežimo-slovenijo-(epp)">Povežimo Slovenijo (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#slovenska-demokratska-stranka–slovenska-ljudska-stranka-(epp)">Slovenska demokratska stranka–Slovenska ljudska stranka (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 4 | 3–5 |3–5 | 3–5 | 3–5 |
 | <a href="#slovenska-ljudska-stranka-(epp)">Slovenska ljudska stranka (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#slovenska-nacionalna-stranka-(pfe)">Slovenska nacionalna stranka (PfE)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
+| <a href="#slovenska-nacionalna-stranka-(pfe)">Slovenska nacionalna stranka (PfE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#resni.ca-(ni)">Resni.ca (NI)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#dobra-država-(*)">Dobra država (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#fokus-–-za-slovenijo-s-ciljem-(*)">FOKUS – za Slovenijo s ciljem (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -503,8 +504,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Piratska stranka Slovenije (Greens/EFA)
@@ -515,9 +516,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Prerod – Stranka Vladimirja Prebiliča (Greens/EFA)
 
@@ -527,7 +526,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
+| 2 | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
 
@@ -547,10 +548,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 71% | 78% | Median |
-| 2 | 7% | 7% |  |
-| 3 | 0% | 0% |  |
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
+| 2 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (RE)
 
@@ -573,9 +573,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 77% | 95% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 16% | 94% |  |
+| 3 | 60% | 78% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -621,9 +621,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 62% | 82% | Median |
+| 2 | 20% | 20% |  |
+| 3 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
 
@@ -633,8 +634,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 19% | 19% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% |  |
 
 ### Povežimo Slovenijo (EPP)
@@ -660,8 +661,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
-| 3 | 29% | 99.7% |  |
-| 4 | 59% | 71% | Median |
+| 3 | 20% | 99.7% |  |
+| 4 | 68% | 80% | Median |
 | 5 | 12% | 12% | Majority |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -684,8 +685,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 ### Resni.ca (NI)
@@ -696,8 +697,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 ### Dobra država (*)
@@ -813,14 +814,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Demokrati (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Povežimo Slovenijo (EPP) – Slovenska demokratska stranka (EPP) – Slovenska ljudska stranka (EPP) | 0 | 5 | 69% | 4–5 | 4–6 | 4–6 | 4–6 |
-| Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Gibanje Svoboda (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) – Zeleni Slovenije (RE) | 0 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
-| Socialni demokrati (S&D) | 0 | 1 | 0% | 0–1 | 0–2 | 0–2 | 0–2 |
-| Levica (GUE/NGL) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Demokrati (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Povežimo Slovenijo (EPP) – Slovenska demokratska stranka (EPP) – Slovenska ljudska stranka (EPP) | 0 | 5 | 86% | 4–6 | 4–7 | 4–7 | 4–7 |
+| Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Gibanje Svoboda (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) – Zeleni Slovenije (RE) | 0 | 3 | 0% | 2–4 | 1–4 | 1–4 | 1–4 |
+| Piratska stranka Slovenije (Greens/EFA) – Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Resni.ca (NI) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Socialni demokrati (S&D) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Dobra država (*) – FOKUS – za Slovenijo s ciljem (*) – Glas upokojencev (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Liberalni demokrati (*) – Lista Roberta Goloba (*) – Mi, socialisti! (*) – Naša dežela (*) – Naša prihodnost (*) – Nova ljudska stranka Slovenije (*) – Pozitivna Slovenija (*) – Stranka ZAUPANJE (*) – Stranka generacij (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Piratska stranka Slovenije (Greens/EFA) – Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Slovenska nacionalna stranka (PfE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| Levica (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
+| Slovenska nacionalna stranka (PfE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Demokrati (EPP) – Nova Slovenija–Krščanski demokrati (EPP) – Povežimo Slovenijo (EPP) – Slovenska demokratska stranka (EPP) – Slovenska ljudska stranka (EPP)
 
@@ -832,10 +833,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 30% | 99.6% |  |
-| 5 | 63% | 69% | Median, Majority |
-| 6 | 6% | 6% |  |
-| 7 | 0% | 0% |  |
+| 4 | 14% | 99.6% |  |
+| 5 | 62% | 86% | Median, Majority |
+| 6 | 19% | 24% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0% | 0% |  |
 
 ### Demokratična stranka upokojencev Slovenije (RE) – Državljanska lista (RE) – Gibanje Svoboda (RE) – Konkretno (RE) – Lista Marjana Šarca (RE) – Stranka Alenke Bratušek (RE) – Stranka modernega centra (RE) – Zeleni Slovenije (RE)
 
@@ -844,31 +846,20 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 77% | 95% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 16% | 94% |  |
+| 3 | 60% | 78% | Median |
 | 4 | 18% | 18% |  |
 | 5 | 0% | 0% | Majority |
 
-### Socialni demokrati (S&D)
+### Piratska stranka Slovenije (Greens/EFA) – Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 71% | 78% | Median |
-| 2 | 7% | 7% |  |
-| 3 | 0% | 0% |  |
-
-### Levica (GUE/NGL)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-levica.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pss–pvp–vesna.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 ### Resni.ca (NI)
@@ -877,8 +868,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 15% | 15% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
+| 2 | 0% | 0% |  |
+
+### Socialni demokrati (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 42% | 100% | Last Result |
+| 1 | 58% | 58% | Median |
 | 2 | 0% | 0% |  |
 
 ### Dobra država (*) – FOKUS – za Slovenijo s ciljem (*) – Glas upokojencev (*) – Glas za otroke in družine (*) – Glas za otroke in družine–Nova ljudska stranka Slovenije (*) – Liberalni demokrati (*) – Lista Roberta Goloba (*) – Mi, socialisti! (*) – Naša dežela (*) – Naša prihodnost (*) – Nova ljudska stranka Slovenije (*) – Pozitivna Slovenija (*) – Stranka ZAUPANJE (*) – Stranka generacij (*)
@@ -889,14 +890,14 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Piratska stranka Slovenije (Greens/EFA) – Prerod – Stranka Vladimirja Prebiliča (Greens/EFA) – VESNA–Zelena stranka (Greens/EFA)
+### Levica (GUE/NGL)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pss–pvp–vesna.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-levica.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 ### Slovenska nacionalna stranka (PfE)
@@ -905,8 +906,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -915,4 +916,4 @@ Only polls for which at least the sample size has been published are included in
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 2,097,152
 + **Total number of simulations done in the polls included in this average:** 10,485,760
-+ **Error estimate:** 4.91%
++ **Error estimate:** 3.89%
