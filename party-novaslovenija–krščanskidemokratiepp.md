@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 4.9–7.3% | 4.5–7.7% | 4.2–8.1% | 3.6–9.0% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.2–7.3% | 3.9–7.7% | 3.7–8.1% | 3.3–9.0% |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 4.4% | 3.7–5.2% | 3.6–5.4% | 3.4–5.6% | 3.1–6.0% |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 6.7% | 6.2–7.2% | 6.1–7.3% | 5.9–7.5% | 5.7–7.7% |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 6.1% | 5.0–7.6% | 4.6–8.0% | 4.4–8.4% | 3.9–9.2% |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 5.2% | 4.2–6.7% | 3.9–7.1% | 3.6–7.5% | 3.2–8.2% |
@@ -104,12 +105,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 5% | 99.6% |  |
-| 4.5–5.5% | 21% | 95% |  |
-| 5.5–6.5% | 39% | 74% | Median |
-| 6.5–7.5% | 28% | 35% |  |
-| 7.5–8.5% | 5% | 7% |  |
+| 2.5–3.5% | 1.4% | 100% |  |
+| 3.5–4.5% | 16% | 98.6% |  |
+| 4.5–5.5% | 22% | 83% |  |
+| 5.5–6.5% | 29% | 61% | Median |
+| 6.5–7.5% | 26% | 32% |  |
+| 7.5–8.5% | 5% | 6% |  |
 | 8.5–9.5% | 1.0% | 1.2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -124,6 +125,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -216,8 +218,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 20% | 20% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.2–3.0% | 1.0–3.3% | 1.0–3.7% | 0.9–4.2% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.2–3.1% | 1.0–3.4% | 1.0–3.7% | 0.9–4.2% |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.8% |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 1.2% | 1.0–1.4% | 0.9–1.5% | 0.9–1.5% | 0.8–1.7% |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 2.4% | 1.7–3.5% | 1.6–3.8% | 1.4–4.1% | 1.1–4.6% |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 2.1% | 1.4–3.1% | 1.3–3.4% | 1.2–3.6% | 0.9–4.2% |
@@ -102,9 +103,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 30% | 100% |  |
-| 1.5–2.5% | 47% | 70% | Median |
-| 2.5–3.5% | 20% | 23% |  |
+| 0.5–1.5% | 25% | 100% |  |
+| 1.5–2.5% | 43% | 75% | Median |
+| 2.5–3.5% | 29% | 32% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -119,6 +120,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
