@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.2–5.4% | 2.0–5.8% | 1.9–6.1% | 1.8–6.8% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.2–5.7% | 2.0–6.1% | 1.9–6.5% | 1.8–7.3% |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 5.1% | 4.1–6.5% | 3.8–6.9% | 3.5–7.2% | 3.1–8.0% |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 4.7% | 4.1–5.5% | 3.9–5.8% | 3.7–6.0% | 3.4–6.4% |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 2.2% | 1.9–2.5% | 1.8–2.6% | 1.8–2.7% | 1.6–2.8% |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 4.4% | 3.5–5.8% | 3.2–6.2% | 3.0–6.5% | 2.6–7.2% |
@@ -105,12 +107,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 19% | 100% |  |
-| 2.5–3.5% | 12% | 81% |  |
-| 3.5–4.5% | 32% | 69% | Median |
-| 4.5–5.5% | 29% | 36% |  |
-| 5.5–6.5% | 7% | 8% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 7% | 81% |  |
+| 3.5–4.5% | 25% | 74% |  |
+| 4.5–5.5% | 35% | 49% | Median |
+| 5.5–6.5% | 12% | 14% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.2% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -122,7 +124,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 0 | 0 | 0 | 0 | 0–1 |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0–1 |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0–1 |
@@ -216,8 +220,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 7% | 7% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.8% | 0.1–1.0% | 0.1–1.2% | 0.0–1.5% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.7% | 0.1–0.9% | 0.0–1.0% | 0.0–1.3% |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0.2% | 0.1–0.7% | 0.1–0.9% | 0.0–1.0% | 0.0–1.3% |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0.4% | 0.2–1.0% | 0.1–1.2% | 0.1–1.3% | 0.1–1.7% |
@@ -102,9 +104,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 73% | 100% | Last Result, Median |
-| 0.5–1.5% | 26% | 27% |  |
-| 1.5–2.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 80% | 100% | Last Result, Median |
+| 0.5–1.5% | 20% | 20% |  |
+| 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -117,6 +119,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
