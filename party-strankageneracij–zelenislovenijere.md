@@ -1,4 +1,4 @@
-# Stranka ZAUPANJE (*)
+# Stranka generacij–Zeleni Slovenije (RE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,23 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.9% | 0.1–2.2% | 0.1–2.4% | 0.1–2.9% |
-| [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0.3% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% | 0.0–1.2% |
-| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.3% | 0.9–2.2% | 0.8–2.4% | 0.7–2.6% | 0.5–3.1% |
-| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.7% | 0.9–5.4% | 0.7–5.6% | 0.6–5.8% | 0.4–6.0% |
+| [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 1.5% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.7–3.0% |
+| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
+| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 5.2% | 4.7–5.7% | 4.6–5.8% | 4.5–6.0% | 4.3–6.2% |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
-| [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo | 1.0% | N/A | N/A | N/A | N/A |
-| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0.2% | 0.1–0.7% | 0.1–0.9% | 0.0–1.0% | 0.0–1.3% |
+| [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
-| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0.4% | N/A | N/A | N/A | N/A |
-| [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.2% | N/A | N/A | N/A | N/A |
-| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.2% | N/A | N/A | N/A | N/A |
-| [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo | 0.2% | N/A | N/A | N/A | N/A |
+| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
-| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0.2% | N/A | N/A | N/A | N/A |
-| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 0.7% | N/A | N/A | N/A | N/A |
+| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0.0% | N/A | N/A | N/A | N/A |
+| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
@@ -38,30 +38,30 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 October 2025](2025-10-26-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 October 2025](2025-10-23-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [20–22 October 2025](2025-10-22-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.5% | N/A | N/A | N/A | N/A |
+| [20–22 October 2025](2025-10-22-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 October 2025](2025-10-20-Valicon.html) | Valicon <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [1–20 October 2025](2025-10-20-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 October 2025](2025-10-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 October 2025](2025-10-09-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 September 2025](2025-09-29-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2025](2025-09-25-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [1–12 September 2025](2025-09-12-IJEK.html) | IJEK <br> Utrip Družbe | 0.6% | N/A | N/A | N/A | N/A |
+| [1–12 September 2025](2025-09-12-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2025](2025-09-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 September 2025](2025-09-04-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 August 2025](2025-08-25-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [18–21 August 2025](2025-08-21-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 August 2025](2025-08-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 August 2025](2025-08-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
-| [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 1.2% | N/A | N/A | N/A | N/A |
+| [1–7 August 2025](2025-08-07-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 July 2025](2025-07-28-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [21–24 July 2025](2025-07-24-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 July 2025](2025-07-09-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 0.8% | N/A | N/A | N/A | N/A |
+| [3–9 July 2025](2025-07-09-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2025](2025-07-03-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 June 2025](2025-06-30-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 June 2025](2025-06-19-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
-| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.6% | N/A | N/A | N/A | N/A |
-| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 0.7% | N/A | N/A | N/A | N/A |
+| [10–12 June 2025](2025-06-12-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
+| [1–12 June 2025](2025-06-12-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 June 2025](2025-06-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 June 2025](2025-06-05-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 May 2025](2025-05-26-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -71,7 +71,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–28 April 2025](2025-04-28-Valicon.html) | Valicon <br> Siol.net | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 April 2025](2025-04-24-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.3% | N/A | N/A | N/A | N/A |
+| [7–10 April 2025](2025-04-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2025](2025-04-04-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 March 2025](2025-03-21-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 March 2025](2025-03-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,16 +105,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Stranka ZAUPANJE (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Stranka generacij–Zeleni Slovenije (RE).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 40% | 100% | Last Result |
-| 0.5–1.5% | 39% | 60% | Median |
-| 1.5–2.5% | 19% | 21% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 43% | 98% |  |
+| 1.5–2.5% | 21% | 56% | Median |
+| 2.5–3.5% | 1.2% | 35% |  |
+| 3.5–4.5% | 1.2% | 33% |  |
+| 4.5–5.5% | 26% | 32% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -128,10 +130,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
-| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si |  |  |  |  |  |
+| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
@@ -220,9 +222,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-strankazaupanje.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-strankageneracij–zelenislovenijere.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Stranka ZAUPANJE (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Stranka generacij–Zeleni Slovenije (RE).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

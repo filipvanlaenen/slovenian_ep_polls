@@ -10,24 +10,29 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.0–3.5% | 1.0–3.8% | 0.9–4.0% | 0.8–4.6% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.3–4.0% | 1.1–4.3% | 1.0–4.5% | 0.7–5.0% |
+| [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 2.4% | 1.8–3.3% | 1.6–3.5% | 1.5–3.7% | 1.3–4.2% |
+| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.5% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% | 0.6–3.3% |
+| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 3.7% | 3.1–4.5% | 3.0–4.7% | 2.8–4.8% | 2.6–5.2% |
+| [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo | 3.3% | N/A | N/A | N/A | N/A |
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.8% | 1.8–4.1% | 1.7–4.4% | 1.4–5.0% |
-| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 1.5% | 1.1–2.0% | 1.0–2.2% | 0.9–2.3% | 0.8–2.6% |
-| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 3.1% | 2.5–3.7% | 2.4–3.9% | 2.3–4.1% | 2.0–4.5% |
-| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 1.1% | 0.9–1.3% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% |
-| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 1.3% | 0.9–2.2% | 0.7–2.4% | 0.6–2.7% | 0.5–3.1% |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 1.5% | N/A | N/A | N/A | N/A |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 3.1% | N/A | N/A | N/A | N/A |
+| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 1.1% | N/A | N/A | N/A | N/A |
+| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 1.3% | N/A | N/A | N/A | N/A |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
-| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.2% | 1.6–3.2% | 1.4–3.5% | 1.3–3.7% | 1.1–4.3% |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.2% | N/A | N/A | N/A | N/A |
 | [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo | 4.4% | N/A | N/A | N/A | N/A |
-| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.9–6.2% | 3.6–6.6% |
-| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 2.6% | 1.9–3.7% | 1.7–4.1% | 1.6–4.3% | 1.3–4.9% |
-| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 5.1% | 4.1–6.5% | 3.8–7.0% | 3.6–7.3% | 3.1–8.0% |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 4.9% | N/A | N/A | N/A | N/A |
+| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 2.6% | N/A | N/A | N/A | N/A |
+| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 5.1% | N/A | N/A | N/A | N/A |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.9% | 1.8–4.2% | 1.6–4.5% | 1.3–5.1% |
-| [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 4.3% | 3.4–5.7% | 3.1–6.1% | 2.9–6.4% | 2.5–7.1% |
-| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 2.7% | 2.0–3.9% | 1.8–4.2% | 1.6–4.5% | 1.3–5.2% |
-| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.7–5.4% |
-| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 3.9% | 2.8–5.7% | 2.5–6.2% | 2.2–6.6% | 1.8–7.6% |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 2.7% | N/A | N/A | N/A | N/A |
+| [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 4.3% | N/A | N/A | N/A | N/A |
+| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 2.7% | N/A | N/A | N/A | N/A |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 3.8% | N/A | N/A | N/A | N/A |
+| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 3.9% | N/A | N/A | N/A | N/A |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija | 3.3% | N/A | N/A | N/A | N/A |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo | 3.5% | N/A | N/A | N/A | N/A |
@@ -104,12 +109,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 39% | 100% |  |
-| 1.5–2.5% | 22% | 61% | Median |
-| 2.5–3.5% | 30% | 39% |  |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 16% | 99.9% |  |
+| 1.5–2.5% | 34% | 84% |  |
+| 2.5–3.5% | 27% | 50% | Median |
+| 3.5–4.5% | 21% | 23% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -122,23 +127,28 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
+| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si |  |  |  |  |  |
+| [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
+| [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 0 | 0 | 0 | 0 | 0 |
-| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
-| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
-| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
+| [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
+| [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
-| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [12–14 January 2026](2026-01-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [6–8 January 2026](2026-01-08-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0–1 |
-| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija | 0 | 0 | 0 | 0 | 0 |
-| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–28 December 2025](2025-12-28-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [15–18 December 2025](2025-12-18-Mediana.html) | Mediana <br> RTV Slovenija |  |  |  |  |  |
+| [1–18 December 2025](2025-12-18-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [15–17 December 2025](2025-12-17-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
-| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0–1 | 0–1 |
-| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
-| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
-| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
+| [8–11 December 2025](2025-12-11-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [1–4 December 2025](2025-12-04-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
+| [22–27 November 2025](2025-11-27-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [21–24 November 2025](2025-11-24-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [1–20 November 2025](2025-11-20-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [10–13 November 2025](2025-11-13-Mediana.html) | Mediana <br> RTV Slovenija |  |  |  |  |  |
 | [10–12 November 2025](2025-11-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [3–6 November 2025](2025-11-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
