@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0–1 |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
