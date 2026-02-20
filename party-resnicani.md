@@ -130,7 +130,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
-| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0–1 |
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
@@ -229,8 +229,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
