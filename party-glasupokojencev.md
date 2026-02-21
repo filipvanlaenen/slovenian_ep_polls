@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.4–2.5% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.9% | 0.7–3.5% | 0.6–3.9% | 0.4–4.7% |
+| [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 2.8% | 2.0–4.0% | 1.8–4.4% | 1.6–4.7% | 1.3–5.4% |
+| [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1.1% | 0.7–1.9% | 0.6–2.1% | 0.5–2.4% | 0.4–2.8% |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.5–2.6% |
 | [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
@@ -19,6 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 1.3% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.5–3.1% |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
+| [1–25 January 2026](2026-01-25-IJEK.html) | IJEK <br> Utrip Družbe | 0.8% | N/A | N/A | N/A | N/A |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 1.5% | N/A | N/A | N/A | N/A |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1.1% | N/A | N/A | N/A | N/A |
@@ -110,10 +113,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 73% | 98% | Median |
-| 1.5–2.5% | 24% | 25% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 59% | 98% | Median |
+| 1.5–2.5% | 25% | 40% |  |
+| 2.5–3.5% | 10% | 14% |  |
+| 3.5–4.5% | 4% | 5% |  |
+| 4.5–5.5% | 0.6% | 0.7% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -125,6 +131,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
+| [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0 | 0 | 0 | 0 | 0 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
 | [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si |  |  |  |  |  |
@@ -133,6 +141,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [1–25 January 2026](2026-01-25-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |

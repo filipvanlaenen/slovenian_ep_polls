@@ -10,15 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.8–10.6% | 5.6–11.0% | 5.4–11.4% | 5.1–12.1% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.9–10.3% | 5.6–10.9% | 5.5–11.3% | 5.1–12.0% |
+| [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 7.5% | 6.2–9.3% | 5.8–9.8% | 5.5–10.3% | 4.9–11.2% |
+| [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 8.2% | 6.9–9.9% | 6.5–10.4% | 6.2–10.8% | 5.6–11.7% |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 7.2% | 6.1–8.5% | 5.8–8.9% | 5.5–9.2% | 5.0–9.9% |
 | [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.2% | 6.0–8.8% | 5.7–9.2% | 5.4–9.6% | 4.9–10.4% |
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 6.0% | 5.5–6.5% | 5.4–6.7% | 5.3–6.8% | 5.0–7.1% |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 10.3% | 9.3–11.4% | 9.0–11.8% | 8.8–12.0% | 8.3–12.6% |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo | 8.8% | N/A | N/A | N/A | N/A |
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 8.3% | 7.0–10.0% | 6.6–10.5% | 6.3–10.9% | 5.7–11.8% |
-| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 7.9% | N/A | N/A | N/A | N/A |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 7.9% | 7.0–9.0% | 6.8–9.3% | 6.6–9.6% | 6.1–10.1% |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 9.9% | N/A | N/A | N/A | N/A |
+| [1–25 January 2026](2026-01-25-IJEK.html) | IJEK <br> Utrip Družbe | 8.8% | N/A | N/A | N/A | N/A |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si | 5.4% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO | 8.5% | N/A | N/A | N/A | N/A |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 6.3% | N/A | N/A | N/A | N/A |
@@ -99,7 +102,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo | 7.6% | N/A | N/A | N/A | N/A |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV | 8.6% | N/A | N/A | N/A | N/A |
 | [15–17 July 2024](2024-07-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 12.9% | N/A | N/A | N/A | N/A |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | N/A | N/A | N/A | N/A |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | N/A | N/A | N/A | N/A |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
 
@@ -113,15 +116,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 30% | 96% |  |
-| 6.5–7.5% | 21% | 66% | Median |
-| 7.5–8.5% | 14% | 45% |  |
-| 8.5–9.5% | 9% | 30% |  |
-| 9.5–10.5% | 12% | 22% |  |
-| 10.5–11.5% | 8% | 10% |  |
-| 11.5–12.5% | 2% | 2% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 23% | 97% |  |
+| 6.5–7.5% | 22% | 73% |  |
+| 7.5–8.5% | 20% | 51% | Median |
+| 8.5–9.5% | 13% | 31% |  |
+| 9.5–10.5% | 11% | 18% |  |
+| 10.5–11.5% | 6% | 8% |  |
+| 11.5–12.5% | 1.3% | 1.4% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -135,14 +138,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 1 | 1 | 1 | 1 | 1 |
 | [9–11 February 2026](2026-02-11-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
+| [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1–2 |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 1 | 1 | 1 | 1 | 0–1 |
-| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina |  |  |  |  |  |
+| [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 1 | 1 | 1 | 1 | 1 |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [1–25 January 2026](2026-01-25-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [17–21 January 2026](2026-01-21-Info360si.html) | Info360.si |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
 | [12–14 January 2026](2026-01-14-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
@@ -235,9 +241,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 82% | 82% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
