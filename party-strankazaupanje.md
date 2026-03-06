@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.7% | 0.1–2.0% | 0.1–2.3% | 0.0–2.8% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.8% | 0.1–1.0% | 0.1–1.2% | 0.0–1.6% |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0.9% | N/A | N/A | N/A | N/A |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.7% | N/A | N/A | N/A | N/A |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 0.2% | 0.1–0.8% | 0.1–1.0% | 0.0–1.2% | 0.0–1.6% |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0.3% | 0.1–0.7% | 0.1–0.8% | 0.1–1.0% | 0.0–1.2% |
@@ -112,11 +115,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 51% | 100% | Last Result |
-| 0.5–1.5% | 35% | 49% | Median |
-| 1.5–2.5% | 13% | 14% |  |
-| 2.5–3.5% | 1.1% | 1.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 73% | 100% | Last Result, Median |
+| 0.5–1.5% | 27% | 27% |  |
+| 1.5–2.5% | 0.5% | 0.6% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -128,6 +130,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |

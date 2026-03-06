@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 15.3–24.9% | 14.9–26.1% | 14.5–27.0% | 13.8–28.5% |
+| N/A | [Poll Average](average.html) | 19.7% | 15.2–23.0% | 14.9–23.8% | 14.7–24.5% | 14.2–25.9% |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 22.5% | N/A | N/A | N/A | N/A |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 27.0% | N/A | N/A | N/A | N/A |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 23.0% | N/A | N/A | N/A | N/A |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 21.5% | 19.2–24.1% | 18.5–24.8% | 18.0–25.4% | 16.9–26.7% |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 20.3% | 18.2–22.6% | 17.6–23.3% | 17.1–23.9% | 16.2–25.0% |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 16.2% | 14.5–18.0% | 14.1–18.5% | 13.7–19.0% | 13.0–19.9% |
@@ -125,25 +128,23 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 2% | 99.7% |  |
-| 14.5–15.5% | 11% | 97% |  |
-| 15.5–16.5% | 12% | 86% |  |
-| 16.5–17.5% | 5% | 74% |  |
-| 17.5–18.5% | 4% | 68% |  |
-| 18.5–19.5% | 6% | 64% |  |
-| 19.5–20.5% | 9% | 59% |  |
-| 20.5–21.5% | 12% | 50% | Median |
-| 21.5–22.5% | 12% | 37% |  |
-| 22.5–23.5% | 8% | 25% |  |
-| 23.5–24.5% | 6% | 17% |  |
-| 24.5–25.5% | 5% | 12% |  |
-| 25.5–26.5% | 3% | 7% |  |
-| 26.5–27.5% | 2% | 4% |  |
-| 27.5–28.5% | 1.0% | 1.5% |  |
-| 28.5–29.5% | 0.4% | 0.5% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 2% | 100% |  |
+| 14.5–15.5% | 16% | 98% |  |
+| 15.5–16.5% | 15% | 83% |  |
+| 16.5–17.5% | 3% | 68% |  |
+| 17.5–18.5% | 4% | 65% |  |
+| 18.5–19.5% | 9% | 60% |  |
+| 19.5–20.5% | 13% | 51% | Median |
+| 20.5–21.5% | 14% | 39% |  |
+| 21.5–22.5% | 11% | 25% |  |
+| 22.5–23.5% | 7% | 14% |  |
+| 23.5–24.5% | 4% | 6% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.6% | 0.8% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -154,7 +155,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 2 | 2 | 2 | 2 | 2–3 |
@@ -260,9 +264,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 45% | 100% |  |
-| 3 | 43% | 55% | Median |
-| 4 | 12% | 12% |  |
+| 2 | 56% | 100% | Median |
+| 3 | 43% | 44% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% | Majority |
 
 
