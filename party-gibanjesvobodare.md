@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 15.2–23.0% | 14.9–23.8% | 14.7–24.5% | 14.2–25.9% |
-| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 22.5% | N/A | N/A | N/A | N/A |
-| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 27.0% | N/A | N/A | N/A | N/A |
-| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 23.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 22.0% | 15.7–26.8% | 15.2–27.8% | 14.9–28.6% | 14.4–29.8% |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 22.5% | 20.3–24.8% | 19.7–25.5% | 19.2–26.1% | 18.2–27.2% |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 27.0% | 25.2–28.9% | 24.7–29.5% | 24.3–29.9% | 23.5–30.9% |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 23.0% | 21.6–24.5% | 21.2–24.9% | 20.8–25.3% | 20.2–26.0% |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 21.5% | 19.2–24.1% | 18.5–24.8% | 18.0–25.4% | 16.9–26.7% |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 20.3% | 18.2–22.6% | 17.6–23.3% | 17.1–23.9% | 16.2–25.0% |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 16.2% | 14.5–18.0% | 14.1–18.5% | 13.7–19.0% | 13.0–19.9% |
@@ -129,22 +129,25 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 2% | 100% |  |
-| 14.5–15.5% | 16% | 98% |  |
-| 15.5–16.5% | 15% | 83% |  |
-| 16.5–17.5% | 3% | 68% |  |
-| 17.5–18.5% | 4% | 65% |  |
-| 18.5–19.5% | 9% | 60% |  |
-| 19.5–20.5% | 13% | 51% | Median |
-| 20.5–21.5% | 14% | 39% |  |
-| 21.5–22.5% | 11% | 25% |  |
-| 22.5–23.5% | 7% | 14% |  |
-| 23.5–24.5% | 4% | 6% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.6% | 0.8% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 13.5–14.5% | 0.9% | 100% |  |
+| 14.5–15.5% | 8% | 99.1% |  |
+| 15.5–16.5% | 7% | 91% |  |
+| 16.5–17.5% | 2% | 84% |  |
+| 17.5–18.5% | 2% | 82% |  |
+| 18.5–19.5% | 5% | 80% |  |
+| 19.5–20.5% | 8% | 75% |  |
+| 20.5–21.5% | 11% | 67% |  |
+| 21.5–22.5% | 14% | 56% | Median |
+| 22.5–23.5% | 13% | 42% |  |
+| 23.5–24.5% | 9% | 30% |  |
+| 24.5–25.5% | 5% | 21% |  |
+| 25.5–26.5% | 5% | 16% |  |
+| 26.5–27.5% | 5% | 11% |  |
+| 27.5–28.5% | 4% | 6% |  |
+| 28.5–29.5% | 2% | 3% |  |
+| 29.5–30.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.1% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -155,10 +158,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
-| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
-| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
-| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 3 | 3 | 3 | 3 | 3 |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–12 February 2026](2026-02-12-Mediana.html) | Mediana <br> RTV SLO | 2 | 2 | 2 | 2 | 2–3 |
@@ -264,9 +267,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 56% | 100% | Median |
-| 3 | 43% | 44% |  |
-| 4 | 1.0% | 1.0% |  |
+| 2 | 29% | 100% |  |
+| 3 | 62% | 71% | Median |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% | Majority |
 
 
