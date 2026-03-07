@@ -164,8 +164,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 5 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 4 | 4 | 4 | 4 | 4 |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 4 | 4 | 3–5 | 3–5 | 3–5 |
@@ -273,9 +273,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 13% | 100% |  |
-| 4 | 67% | 87% | Median |
-| 5 | 20% | 20% | Majority |
+| 3 | 16% | 100% |  |
+| 4 | 61% | 84% | Median |
+| 5 | 23% | 23% | Majority |
 | 6 | 0% | 0% |  |
 
 
