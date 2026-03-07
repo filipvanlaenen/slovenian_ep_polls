@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Mar 2026 16:45:48 +0100</pubDate>
+    <pubDate>Sat, 07 Mar 2026 18:26:38 +0100</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP TV, 23–26 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-02-26-Mediana.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-02-23-Valicon-seats.png"
         length="308693"
         type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 10:59:58 +0100</pubDate>
-      <dc:date>2026-03-07T10:59:58.972582+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 18:26:38 +0100</pubDate>
+      <dc:date>2026-03-07T18:26:38.973801+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Valicon for TSmedia, 20–23 February 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-02-23-Valicon-coalitions-seats.png"
         length="171459"
         type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 10:59:58 +0100</pubDate>
-      <dc:date>2026-03-07T10:59:58.972582+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 18:26:38 +0100</pubDate>
+      <dc:date>2026-03-07T18:26:38.973801+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Valicon for TSmedia, 20–23 February 2026 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-02-23-Valicon.png"
         length="466325"
         type="image/png"/>
-      <pubDate>Sat, 07 Mar 2026 10:59:58 +0100</pubDate>
-      <dc:date>2026-03-07T10:59:58.972582+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 18:26:38 +0100</pubDate>
+      <dc:date>2026-03-07T18:26:38.973801+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IJEK for Utrip Družbe, 1–14 February 2026 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Sat, 21 Feb 2026 21:38:08 +0100</pubDate>
       <dc:date>2026-02-21T21:38:08.279049+01:00</dc:date>
     </item>
-    <dc:date>2026-03-07T16:45:48.843186+01:00</dc:date>
+    <dc:date>2026-03-07T18:26:38.973801+01:00</dc:date>
   </channel>
 </rss>
