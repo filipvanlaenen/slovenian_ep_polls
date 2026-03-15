@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.8% | 1.7–4.2% | 1.6–4.6% | 1.3–5.3% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.9% | 1.7–4.3% | 1.6–4.6% | 1.3–5.3% |
+| [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 3.4% | 2.7–4.5% | 2.5–4.7% | 2.3–5.0% | 2.0–5.5% |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.0–4.9% | 1.7–5.6% |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 2.7% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.6–4.4% |
 | [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 2.2% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
@@ -117,10 +118,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 47% | 98% |  |
-| 2.5–3.5% | 36% | 51% | Median |
-| 3.5–4.5% | 12% | 15% |  |
-| 4.5–5.5% | 2% | 3% |  |
+| 1.5–2.5% | 46% | 98% |  |
+| 2.5–3.5% | 35% | 52% | Median |
+| 3.5–4.5% | 14% | 17% |  |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -134,6 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
