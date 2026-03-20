@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.6–5.0% | 1.4–5.5% | 1.2–6.0% | 1.0–6.9% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.3–5.1% | 1.0–5.6% | 0.9–6.0% | 0.7–6.9% |
+| [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO | 2.2% | 1.7–3.1% | 1.5–3.4% | 1.4–3.6% | 1.1–4.1% |
+| [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.2% | 0.5–2.6% |
+| [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.4% | 3.0–5.8% |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 3.6% | 2.8–4.6% | 2.6–4.9% | 2.4–5.2% | 2.1–5.7% |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 3.3% | 2.5–4.5% | 2.3–4.8% | 2.1–5.2% | 1.8–5.8% |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -116,14 +119,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 24% | 91% |  |
-| 2.5–3.5% | 32% | 67% | Median |
-| 3.5–4.5% | 20% | 35% |  |
-| 4.5–5.5% | 11% | 16% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 16% | 99.9% |  |
+| 1.5–2.5% | 23% | 84% |  |
+| 2.5–3.5% | 19% | 61% | Median |
+| 3.5–4.5% | 23% | 42% |  |
+| 4.5–5.5% | 15% | 20% |  |
 | 5.5–6.5% | 4% | 5% |  |
-| 6.5–7.5% | 0.8% | 1.0% |  |
+| 6.5–7.5% | 0.8% | 0.9% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -137,6 +140,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0 | 0 |
+| [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
+| [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia | 0 | 0 | 0 | 0 | 0 |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |

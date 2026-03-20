@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.1% | 0.1–1.3% | 0.1–1.4% | 0.0–1.7% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.8% | 0.1–1.0% | 0.1–1.2% | 0.0–1.6% |
+| [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO | 0.0% | N/A | N/A | N/A | N/A |
+| [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
+| [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 0.5% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% | 0.1–1.7% |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0.9% | 0.5–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.5% |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
@@ -116,9 +119,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 42% | 100% | Last Result |
-| 0.5–1.5% | 57% | 58% | Median |
-| 1.5–2.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 73% | 100% | Last Result, Median |
+| 0.5–1.5% | 27% | 27% |  |
+| 1.5–2.5% | 0.5% | 0.6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -131,6 +134,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO |  |  |  |  |  |
+| [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0 | 0 | 0 | 0 | 0 |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
