@@ -10,13 +10,30 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 5.9–9.4% | 5.6–9.8% | 5.4–10.2% | 4.9–11.0% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.2–9.4% | 5.0–9.9% | 4.8–10.2% | 4.5–11.0% |
+| [18–20 March 2026](2026-03-20-Valicon.html) | Valicon <br> TSmedia | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
+| [18–20 March 2026](2026-03-20-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.7% | 6.6–9.0% | 6.3–9.3% | 6.1–9.7% | 5.6–10.3% |
+| [16–18 March 2026](2026-03-18-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.2% | N/A | N/A | N/A | N/A |
+| [16–18 March 2026](2026-03-18-Mediana.html) | Mediana <br> RTV SLO | 5.5% | 4.8–6.3% | 4.6–6.5% | 4.5–6.7% | 4.2–7.1% |
+| [16–18 March 2026](2026-03-18-IJEK.html) | IJEK <br> Utrip Družbe | 8.1% | 6.9–9.6% | 6.6–10.0% | 6.3–10.4% | 5.7–11.2% |
+| [14–17 March 2026](2026-03-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.7% | N/A | N/A | N/A | N/A |
+| [14–17 March 2026](2026-03-17-Info360si.html) | Info360.si | 5.3% | 4.9–5.7% | 4.8–5.8% | 4.7–5.9% | 4.6–6.1% |
+| [13–16 March 2026](2026-03-16-Valicon.html) | Valicon <br> TSmedia | 7.1% | N/A | N/A | N/A | N/A |
+| [13–16 March 2026](2026-03-16-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.0% | N/A | N/A | N/A | N/A |
+| [10–16 March 2026](2026-03-16-IJEK.html) | IJEK <br> Utrip Družbe | 11.8% | N/A | N/A | N/A | N/A |
+| [12–14 March 2026](2026-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.3% | N/A | N/A | N/A | N/A |
+| [11–13 March 2026](2026-03-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.8% | N/A | N/A | N/A | N/A |
 | [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO | 6.6% | 5.5–7.9% | 5.2–8.3% | 5.0–8.6% | 4.5–9.3% |
+| [6–10 March 2026](2026-03-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 7.6% | 6.5–9.1% | 6.1–9.5% | 5.9–9.9% | 5.3–10.6% |
 | [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.3% | 6.0–10.9% |
+| [1–10 March 2026](2026-03-10-IJEK.html) | IJEK <br> Utrip Družbe | 11.3% | N/A | N/A | N/A | N/A |
 | [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia | 8.6% | 7.7–9.6% | 7.4–9.9% | 7.2–10.2% | 6.8–10.7% |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 6.8% | 5.8–8.2% | 5.5–8.6% | 5.2–8.9% | 4.8–9.6% |
+| [26 February–2 March 2026](2026-03-02-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 8.6% | N/A | N/A | N/A | N/A |
+| [24–26 February 2026](2026-02-26-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 10.5% | 9.0–12.3% | 8.6–12.8% | 8.2–13.3% | 7.6–14.2% |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 6.5% | 5.3–8.0% | 5.0–8.4% | 4.7–8.8% | 4.3–9.6% |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.2% | 7.2–9.5% | 6.9–9.8% | 6.6–10.1% | 6.2–10.8% |
+| [20–24 February 2026](2026-02-24-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 7.4% | N/A | N/A | N/A | N/A |
 | [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 8.5% | 7.6–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 7.5% | 6.2–9.3% | 5.8–9.8% | 5.5–10.3% | 4.9–11.2% |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 8.2% | 6.9–9.9% | 6.5–10.4% | 6.2–10.8% | 5.6–11.7% |
@@ -123,15 +140,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% |  |
-| 5.5–6.5% | 23% | 96% |  |
-| 6.5–7.5% | 20% | 73% |  |
-| 7.5–8.5% | 26% | 53% | Median |
-| 8.5–9.5% | 19% | 27% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 1.1% | 1.3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 21% | 99.4% |  |
+| 5.5–6.5% | 15% | 78% |  |
+| 6.5–7.5% | 16% | 63% | Median |
+| 7.5–8.5% | 23% | 48% |  |
+| 8.5–9.5% | 17% | 25% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 1.2% | 1.4% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -144,12 +161,29 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–20 March 2026](2026-03-20-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
+| [18–20 March 2026](2026-03-20-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–18 March 2026](2026-03-18-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [16–18 March 2026](2026-03-18-Mediana.html) | Mediana <br> RTV SLO | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–18 March 2026](2026-03-18-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [14–17 March 2026](2026-03-17-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [14–17 March 2026](2026-03-17-Info360si.html) | Info360.si | 0 | 0 | 0 | 0 | 0 |
+| [13–16 March 2026](2026-03-16-Valicon.html) | Valicon <br> TSmedia |  |  |  |  |  |
+| [13–16 March 2026](2026-03-16-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [10–16 March 2026](2026-03-16-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
+| [12–14 March 2026](2026-03-14-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [11–13 March 2026](2026-03-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [9–12 March 2026](2026-03-12-Mediana.html) | Mediana <br> RTV SLO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–10 March 2026](2026-03-10-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 March 2026](2026-03-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–10 March 2026](2026-03-10-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [6–9 March 2026](2026-03-09-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
 | [2–5 March 2026](2026-03-05-Mediana.html) | Mediana <br> Delo | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 February–2 March 2026](2026-03-02-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
+| [24–26 February 2026](2026-02-26-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 1 | 1–2 |
 | [23–26 February 2026](2026-02-26-Mediana.html) | Mediana <br> POP TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–25 February 2026](2026-02-25-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
+| [20–24 February 2026](2026-02-24-ParsifalSC.html) | Parsifal SC <br> Nova24TV |  |  |  |  |  |
 | [20–23 February 2026](2026-02-23-Valicon.html) | Valicon <br> TSmedia | 1 | 1 | 1 | 1 | 1 |
 | [1–14 February 2026](2026-02-14-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–13 February 2026](2026-02-13-ParsifalSC.html) | Parsifal SC <br> Nova24TV | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -254,9 +288,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
+| 2 | 0% | 0% |  |
 
 
