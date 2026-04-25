@@ -187,7 +187,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [13–15 April 2026](2026-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [13–15 April 2026](2026-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [1–10 April 2026](2026-04-10-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–9 April 2026](2026-04-09-Mediana.html) | Mediana <br> Delo | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–20 March 2026](2026-03-20-Valicon.html) | Valicon <br> TSmedia | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -320,8 +320,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 50% | 100% | Median |
-| 4 | 47% | 50% |  |
+| 3 | 53% | 100% | Median |
+| 4 | 44% | 47% |  |
 | 5 | 3% | 3% | Majority |
 | 6 | 0% | 0% |  |
 
