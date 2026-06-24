@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.1–8.1% | 4.7–8.5% | 4.5–8.9% | 4.0–9.7% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.4–9.2% | 5.1–9.9% | 4.9–10.4% | 4.5–11.3% |
+| [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 7.1% | 6.0–8.5% | 5.7–8.9% | 5.4–9.2% | 5.0–9.9% |
+| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 8.8% | 7.5–10.3% | 7.1–10.8% | 6.8–11.2% | 6.2–12.0% |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 5.6% | 4.6–7.1% | 4.3–7.5% | 4.0–7.8% | 3.6–8.6% |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe | 6.9% | 5.7–8.3% | 5.4–8.7% | 5.2–9.1% | 4.7–9.8% |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 7.3% | 6.2–8.7% | 5.9–9.1% | 5.6–9.5% | 5.1–10.2% |
@@ -148,16 +150,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 20% | 97% |  |
-| 5.5–6.5% | 33% | 77% | Median |
-| 6.5–7.5% | 25% | 44% |  |
-| 7.5–8.5% | 14% | 19% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 12% | 99.3% |  |
+| 5.5–6.5% | 25% | 87% |  |
+| 6.5–7.5% | 24% | 62% | Median |
+| 7.5–8.5% | 19% | 38% |  |
+| 8.5–9.5% | 12% | 19% |  |
+| 9.5–10.5% | 5% | 7% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,7 +171,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -305,8 +310,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 39% | 39% |  |
+| 0 | 35% | 100% | Last Result |
+| 1 | 65% | 65% | Median |
 | 2 | 0% | 0% |  |
 
 
