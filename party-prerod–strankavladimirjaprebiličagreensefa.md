@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.5–4.1% | 1.3–4.4% | 1.2–4.8% | 0.9–5.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.9% | 1.9–4.1% | 1.7–4.4% | 1.3–5.0% |
+| [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 2.4% | 1.8–3.5% | 1.6–3.8% | 1.4–4.0% | 1.2–4.6% |
+| [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 2.9% | 2.2–4.1% | 2.0–4.4% | 1.8–4.7% | 1.5–5.4% |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 1.7% | 1.2–2.5% | 1.1–2.7% | 1.0–2.9% | 0.8–3.3% |
 | [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 3.9% | 3.1–5.2% | 2.8–5.5% | 2.6–5.8% | 2.3–6.5% |
@@ -148,12 +150,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 23% | 89% |  |
-| 2.5–3.5% | 39% | 66% | Median |
-| 3.5–4.5% | 22% | 26% |  |
-| 4.5–5.5% | 4% | 4% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 25% | 98% |  |
+| 2.5–3.5% | 53% | 74% | Median |
+| 3.5–4.5% | 19% | 20% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -166,6 +168,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 0 | 0 | 0 | 0 | 0 |
+| [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 0 | 0 | 0 | 0 | 0 |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 0 | 0 | 0 | 0 | 0 |
 | [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 0 | 0 | 0 | 0 | 0–1 |
@@ -304,8 +308,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
