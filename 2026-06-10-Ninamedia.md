@@ -10,10 +10,11 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Slovenska demokratska stranka (EPP) | 0.0% | 28.3% | 26.1–30.7% |25.5–31.3% |24.9–31.9% |23.9–33.1% |
 | Gibanje Svoboda (RE) | 0.0% | 26.6% | 24.4–28.9% |23.8–29.6% |23.3–30.1% |22.3–31.3% |
+| Slovenska demokratska stranka (EPP) | 0.0% | 21.9% | 19.9–24.1% |19.3–24.7% |18.8–25.3% |17.9–26.3% |
 | Socialni demokrati (S&D) | 0.0% | 9.1% | 7.8–10.7% |7.4–11.1% |7.1–11.6% |6.5–12.4% |
 | Nova Slovenija–Krščanski demokrati (EPP) | 0.0% | 8.8% | 7.5–10.3% |7.1–10.8% |6.8–11.2% |6.2–12.0% |
+| Slovenska demokratska stranka (NI) | 0.0% | 6.4% | 5.3–7.8% |5.0–8.2% |4.8–8.6% |4.3–9.3% |
 | Levica (GUE/NGL) | 0.0% | 5.5% | 4.5–6.8% |4.2–7.2% |4.0–7.5% |3.5–8.2% |
 | Demokrati (EPP) | 0.0% | 4.2% | 3.4–5.4% |3.1–5.8% |2.9–6.1% |2.5–6.7% |
 | Resni.ca (NI) | 0.0% | 3.9% | 3.1–5.1% |2.9–5.4% |2.7–5.7% |2.3–6.3% |
@@ -31,29 +32,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 3 |3 |3–4 |2–4 |
-| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#gibanje-svoboda-(re)">Gibanje Svoboda (RE)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#slovenska-demokratska-stranka-(epp)">Slovenska demokratska stranka (EPP)</a> | 0 | 3 | 2–4 |2–4 |2–4 |2–4 |
+| <a href="#socialni-demokrati-(s&d)">Socialni demokrati (S&D)</a> | 0 | 1 | 1 |1 |1 |0–1 |
+| <a href="#nova-slovenija–krščanski-demokrati-(epp)">Nova Slovenija–Krščanski demokrati (EPP)</a> | 0 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#slovenska-demokratska-stranka-(ni)">Slovenska demokratska stranka (NI)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#levica-(gue/ngl)">Levica (GUE/NGL)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#demokrati-(epp)">Demokrati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#resni.ca-(ni)">Resni.ca (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#vesna–zelena-stranka-(greens/efa)">VESNA–Zelena stranka (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-
-### Slovenska demokratska stranka (EPP)
-
-*For a full overview of the results for this party, see the [Slovenska demokratska stranka (EPP)](party-slovenskademokratskastrankaepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-06-10-Ninamedia-seats-pmf-slovenskademokratskastrankaepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 88% | 99.9% | Median |
-| 4 | 12% | 12% |  |
-| 5 | 0% | 0% | Majority |
 
 ### Gibanje Svoboda (RE)
 
@@ -65,9 +52,24 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 95% | 98% | Median |
-| 4 | 3% | 3% |  |
+| 2 | 0% | 100% |  |
+| 3 | 73% | 100% | Median |
+| 4 | 27% | 27% |  |
+| 5 | 0% | 0% | Majority |
+
+### Slovenska demokratska stranka (EPP)
+
+*For a full overview of the results for this party, see the [Slovenska demokratska stranka (EPP)](party-slovenskademokratskastrankaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-06-10-Ninamedia-seats-pmf-slovenskademokratskastrankaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 10% | 100% |  |
+| 3 | 72% | 90% | Median |
+| 4 | 17% | 17% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Socialni demokrati (S&D)
@@ -78,9 +80,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 98.6% | 98.7% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Nova Slovenija–Krščanski demokrati (EPP)
 
@@ -90,8 +93,20 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 91% | 91% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 97% | 97% | Median |
+| 2 | 0% | 0% |  |
+
+### Slovenska demokratska stranka (NI)
+
+*For a full overview of the results for this party, see the [Slovenska demokratska stranka (NI)](party-slovenskademokratskastrankani.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-06-10-Ninamedia-seats-pmf-slovenskademokratskastrankani.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
@@ -102,8 +117,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokrati (EPP)
@@ -114,7 +129,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0.2% | 0.2% |  |
+| 2 | 0% | 0% |  |
 
 ### Resni.ca (NI)
 
@@ -124,7 +141,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 ### VESNA–Zelena stranka (Greens/EFA)
 
@@ -145,9 +164,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Socialni demokrati (S&D) | 0 | 1 | 0% | 1 | 0–1 | 0–1 | 0–1 |
-| Levica (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
-| Resni.ca (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Socialni demokrati (S&D) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
+| Levica (GUE/NGL) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
+| Slovenska demokratska stranka (NI) – Resni.ca (NI) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Socialni demokrati (S&D)
 
@@ -155,9 +174,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 98.6% | 98.7% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Levica (GUE/NGL)
 
@@ -165,17 +185,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
-### Resni.ca (NI)
+### Slovenska demokratska stranka (NI) – Resni.ca (NI)
 
-![Graph with seats probability mass function not yet produced](2026-06-10-Ninamedia-coalitions-seats-pmf-res.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-10-Ninamedia-coalitions-seats-pmf-sds–res.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -190,5 +212,5 @@
 
 + **Sample size:** 640
 + **Simulations done:** 2,097,152
-+ **Error estimate:** 0.75%
++ **Error estimate:** 3.06%
 

@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 22.8–29.3% | 22.1–30.1% | 21.4–30.8% | 20.3–32.1% |
+| N/A | [Poll Average](average.html) | 26.3% | 23.3–29.1% | 22.4–29.9% | 21.8–30.6% | 20.5–31.9% |
 | [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 27.6% | 25.3–30.1% | 24.7–30.8% | 24.1–31.4% | 23.0–32.6% |
 | [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 24.3% | 22.1–26.8% | 21.4–27.5% | 20.9–28.1% | 19.8–29.3% |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 26.7% | N/A | N/A | N/A | N/A |
-| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 26.6% | N/A | N/A | N/A | N/A |
+| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 26.6% | 24.4–28.9% | 23.8–29.6% | 23.3–30.1% | 22.3–31.3% |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 26.5% | N/A | N/A | N/A | N/A |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe | 24.4% | N/A | N/A | N/A | N/A |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 28.9% | N/A | N/A | N/A | N/A |
@@ -169,22 +169,21 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.6% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.2% |  |
-| 21.5–22.5% | 5% | 97% |  |
-| 22.5–23.5% | 9% | 92% |  |
-| 23.5–24.5% | 12% | 83% |  |
-| 24.5–25.5% | 14% | 71% |  |
-| 25.5–26.5% | 15% | 57% | Median |
-| 26.5–27.5% | 14% | 42% |  |
-| 27.5–28.5% | 12% | 28% |  |
-| 28.5–29.5% | 9% | 17% |  |
-| 29.5–30.5% | 5% | 8% |  |
+| 19.5–20.5% | 0.4% | 99.9% |  |
+| 20.5–21.5% | 1.4% | 99.5% |  |
+| 21.5–22.5% | 4% | 98% |  |
+| 22.5–23.5% | 7% | 94% |  |
+| 23.5–24.5% | 11% | 88% |  |
+| 24.5–25.5% | 14% | 77% |  |
+| 25.5–26.5% | 17% | 62% | Median |
+| 26.5–27.5% | 17% | 45% |  |
+| 27.5–28.5% | 13% | 29% |  |
+| 28.5–29.5% | 9% | 16% |  |
+| 29.5–30.5% | 4% | 7% |  |
 | 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.8% | 1.0% |  |
-| 32.5–33.5% | 0.2% | 0.3% |  |
-| 33.5–34.5% | 0% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 31.5–32.5% | 0.6% | 0.8% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -195,11 +194,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [8–10 June 2026](2026-06-10-Ninamedia.html) | Ninamedia <br> Dnevnik | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
@@ -338,9 +337,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.6% | 100% |  |
-| 3 | 54% | 99.4% | Median |
-| 4 | 45% | 45% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 60% | 99.6% | Median |
+| 4 | 39% | 39% |  |
 | 5 | 0% | 0% | Majority |
 
 
