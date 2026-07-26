@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.4–10.9% | 7.0–11.4% | 6.8–11.9% | 6.3–12.9% |
+| N/A | [Poll Average](average.html) | 8.4% | 6.9–10.6% | 6.6–11.2% | 6.3–11.7% | 5.7–12.7% |
+| [13–15 July 2026](2026-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 9.8% | 8.4–11.5% | 8.0–12.0% | 7.7–12.4% | 7.0–13.3% |
+| [6–9 July 2026](2026-07-09-Mediana.html) | Mediana <br> Delo | 7.4% | 6.3–8.9% | 6.0–9.3% | 5.7–9.6% | 5.3–10.3% |
 | [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 9.9% | 8.5–11.7% | 8.0–12.2% | 7.7–12.6% | 7.1–13.5% |
 | [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 9.0% | 7.6–10.8% | 7.2–11.3% | 6.9–11.7% | 6.3–12.6% |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo | 10.2% | N/A | N/A | N/A | N/A |
@@ -139,7 +141,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Mediana.html) | Mediana <br> Delo | 7.6% | N/A | N/A | N/A | N/A |
 | [22–25 July 2024](2024-07-25-Mediana.html) | Mediana <br> POP TV | 8.6% | N/A | N/A | N/A | N/A |
 | [15–17 July 2024](2024-07-17-Ninamedia.html) | Ninamedia <br> Dnevnik | 12.9% | N/A | N/A | N/A | N/A |
-| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 10.1% | N/A | N/A | N/A | N/A |
+| [2–4 July 2024](2024-07-04-Mediana.html) | Mediana <br> Delo | 9.9% | N/A | N/A | N/A | N/A |
 | [18–20 June 2024](2024-06-20-Mediana.html) | Mediana <br> POP TV | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 June 2024](2024-06-19-Ninamedia.html) | Ninamedia <br> Dnevnik | 10.9% | N/A | N/A | N/A | N/A |
 
@@ -154,15 +156,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.3% | 100% |  |
-| 6.5–7.5% | 12% | 98.7% |  |
-| 7.5–8.5% | 26% | 87% |  |
-| 8.5–9.5% | 26% | 61% | Median |
-| 9.5–10.5% | 20% | 34% |  |
-| 10.5–11.5% | 10% | 15% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.8% | 0.9% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 5% | 99.7% |  |
+| 6.5–7.5% | 19% | 95% |  |
+| 7.5–8.5% | 29% | 76% | Median |
+| 8.5–9.5% | 22% | 47% |  |
+| 9.5–10.5% | 14% | 25% |  |
+| 10.5–11.5% | 8% | 11% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.6% | 0.7% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -175,7 +177,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 July 2026](2026-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 1 |
+| [6–9 July 2026](2026-07-09-Mediana.html) | Mediana <br> Delo | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP | 1 | 1 | 1 | 1 | 1–2 |
 | [8–19 June 2026](2026-06-19-IJEK.html) | IJEK <br> Utrip Družbe | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–11 June 2026](2026-06-11-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
@@ -316,9 +320,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 98% | 98.7% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 88% | 88% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 
