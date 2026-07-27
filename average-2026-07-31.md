@@ -541,8 +541,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 75% | 99.2% | Median |
+| 2 | 0.9% | 100% |  |
+| 3 | 74% | 99.1% | Median |
 | 4 | 25% | 25% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -602,8 +602,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 
 ### Povežimo Slovenijo (EPP)
@@ -628,8 +628,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 10% | 100% |  |
-| 3 | 83% | 90% | Median |
+| 2 | 11% | 100% |  |
+| 3 | 83% | 89% | Median |
 | 4 | 6% | 6% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -673,8 +673,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 48% | 48% |  |
 | 2 | 0% | 0% |  |
 
 ### Dobra država (*)
@@ -801,7 +801,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
 | 3 | 42% | 98% |  |
-| 4 | 52% | 56% | Median |
+| 4 | 52% | 55% | Median |
 | 5 | 4% | 4% | Majority |
 | 6 | 0% | 0% |  |
 
@@ -813,8 +813,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.8% | 100% |  |
-| 3 | 75% | 99.2% | Median |
+| 2 | 0.9% | 100% |  |
+| 3 | 74% | 99.1% | Median |
 | 4 | 25% | 25% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -824,8 +824,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result, Median |
-| 1 | 56% | 70% |  |
+| 0 | 29% | 100% | Last Result, Median |
+| 1 | 57% | 71% |  |
 | 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 
@@ -881,5 +881,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 3.75%
