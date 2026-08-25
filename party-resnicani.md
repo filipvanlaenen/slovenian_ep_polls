@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.4–6.8% | 4.1–7.2% | 3.9–7.6% | 3.4–8.3% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.7–6.4% | 2.4–6.8% | 2.2–7.2% | 1.9–8.0% |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP | 5.4% | 4.4–6.8% | 4.1–7.3% | 3.9–7.6% | 3.4–8.4% |
-| [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.1% | N/A | N/A | N/A | N/A |
+| [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.1% | 2.4–4.2% | 2.2–4.5% | 2.1–4.7% | 1.8–5.3% |
 | [3–6 August 2026](2026-08-06-Mediana.html) | Mediana <br> Delo | 3.1% | N/A | N/A | N/A | N/A |
 | [20–23 July 2026](2026-07-23-Mediana.html) | Mediana <br> POP | 3.9% | N/A | N/A | N/A | N/A |
 | [13–15 July 2026](2026-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.0% | N/A | N/A | N/A | N/A |
@@ -157,14 +157,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 13% | 99.1% |  |
-| 4.5–5.5% | 37% | 86% |  |
-| 5.5–6.5% | 34% | 49% | Median |
-| 6.5–7.5% | 13% | 16% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 28% | 93% |  |
+| 3.5–4.5% | 21% | 66% | Median |
+| 4.5–5.5% | 20% | 45% |  |
+| 5.5–6.5% | 17% | 25% |  |
+| 6.5–7.5% | 6% | 8% |  |
+| 7.5–8.5% | 1.3% | 1.4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -176,9 +176,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
+| [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [3–6 August 2026](2026-08-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [20–23 July 2026](2026-07-23-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [13–15 July 2026](2026-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
@@ -323,8 +323,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 
