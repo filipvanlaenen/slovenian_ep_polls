@@ -50,8 +50,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 96% | 98% | Median |
+| 2 | 1.5% | 100% |  |
+| 3 | 96% | 98.5% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% | Majority |
 
@@ -65,9 +65,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 27% | 100% |  |
-| 3 | 72% | 73% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 25% | 100% |  |
+| 3 | 74% | 75% | Median |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% | Majority |
 
 ### Socialni demokrati (S&D)
@@ -78,8 +78,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 99.4% | 99.5% | Median |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -116,8 +116,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 ### Demokrati (EPP)
@@ -172,8 +172,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 99.4% | 99.5% | Median |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 99.5% | 99.6% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -183,8 +183,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -199,6 +199,6 @@
 ### Calculations
 
 + **Sample size:** 603
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 2.38%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.98%
 

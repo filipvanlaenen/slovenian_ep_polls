@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP | 0.0% | N/A | N/A | N/A | N/A |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
-| [8–12 May 2026](2026-05-12-Valicon.html) | Valicon <br> Siol | 1.3% | N/A | N/A | N/A | N/A |
+| [8–12 May 2026](2026-05-12-Valicon.html) | Valicon <br> Siol | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
 | [5–7 May 2026](2026-05-07-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 April 2026](2026-04-23-Mediana.html) | Mediana <br> POP | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 April 2026](2026-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 0.0% | N/A | N/A | N/A | N/A |
@@ -185,7 +185,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–21 May 2026](2026-05-21-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [4–20 May 2026](2026-05-20-IJEK.html) | IJEK <br> Utrip Družbe |  |  |  |  |  |
 | [11–13 May 2026](2026-05-13-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
-| [8–12 May 2026](2026-05-12-Valicon.html) | Valicon <br> Siol |  |  |  |  |  |
+| [8–12 May 2026](2026-05-12-Valicon.html) | Valicon <br> Siol | 0 | 0 | 0 | 0 | 0 |
 | [5–7 May 2026](2026-05-07-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [13–15 April 2026](2026-04-15-Ninamedia.html) | Ninamedia <br> Dnevnik |  |  |  |  |  |
