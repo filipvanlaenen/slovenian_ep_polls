@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovenian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Aug 2026 21:20:09 +0200</pubDate>
+    <pubDate>Thu, 27 Aug 2026 16:34:00 +0200</pubDate>
     <item>
       <title>Opinion Poll by Mediana for POP, 17–20 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-20-Mediana.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-20-Mediana-seats.png"
         length="376784"
         type="image/png"/>
-      <pubDate>Tue, 25 Aug 2026 20:58:24 +0200</pubDate>
-      <dc:date>2026-08-25T20:58:24.808587+02:00</dc:date>
+      <pubDate>Wed, 26 Aug 2026 18:16:28 +0200</pubDate>
+      <dc:date>2026-08-26T18:16:28.710297+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP, 17–20 August 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-20-Mediana-coalitions-seats.png"
         length="277346"
         type="image/png"/>
-      <pubDate>Tue, 25 Aug 2026 20:58:24 +0200</pubDate>
-      <dc:date>2026-08-25T20:58:24.808587+02:00</dc:date>
+      <pubDate>Wed, 26 Aug 2026 18:16:28 +0200</pubDate>
+      <dc:date>2026-08-26T18:16:28.710297+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Mediana for POP, 17–20 August 2026 – Voting Intentions</title>
@@ -36,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-20-Mediana.png"
         length="428649"
         type="image/png"/>
-      <pubDate>Tue, 25 Aug 2026 20:58:24 +0200</pubDate>
-      <dc:date>2026-08-25T20:58:24.808587+02:00</dc:date>
+      <pubDate>Wed, 26 Aug 2026 18:16:28 +0200</pubDate>
+      <dc:date>2026-08-26T18:16:28.710297+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 August 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-12-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nič od tega (*): 0 seats&lt;/li&gt;&lt;li&gt;Stranka generacij (*): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Zeleni Slovenije (RE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-12-Ninamedia-seats.png"
+        length="386156"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 20:46:54 +0200</pubDate>
+      <dc:date>2026-08-26T20:46:54.963406+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 August 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-12-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-12-Ninamedia-coalitions-seats.png"
+        length="241251"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 20:46:54 +0200</pubDate>
+      <dc:date>2026-08-26T20:46:54.963406+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ninamedia for Dnevnik, 10–12 August 2026 – Voting Intentions</title>
@@ -46,9 +66,129 @@
       <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-08-12-Ninamedia.png"
         length="519492"
         type="image/png"/>
-      <pubDate>Tue, 25 Aug 2026 21:20:09 +0200</pubDate>
-      <dc:date>2026-08-25T21:20:09.551313+02:00</dc:date>
+      <pubDate>Wed, 26 Aug 2026 20:46:54 +0200</pubDate>
+      <dc:date>2026-08-26T20:46:54.963406+02:00</dc:date>
     </item>
-    <dc:date>2026-08-25T21:20:09.551313+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Mediana for POP, 20–23 July 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana-seats.png"
+        length="393524"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 21:04:00 +0200</pubDate>
+      <dc:date>2026-08-26T21:04:00.176175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP, 20–23 July 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana-coalitions-seats.png"
+        length="288359"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 21:04:00 +0200</pubDate>
+      <dc:date>2026-08-26T21:04:00.176175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Mediana for POP, 20–23 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.7–7.3%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.0–9.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 1.5–4.1%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 1.5–4.1%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 22.7–29.7%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.3–8.1%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 4.7–8.7%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.5–4.1%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 2.6–5.7%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 19.0–25.7%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 2.1–4.9%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 5.8–10.2%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.5–4.1%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.7–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-23-Mediana.png"
+        length="455398"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 21:04:00 +0200</pubDate>
+      <dc:date>2026-08-26T21:04:00.176175+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 13–15 July 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia-seats.png"
+        length="251103"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:29:58 +0200</pubDate>
+      <dc:date>2026-08-26T22:29:58.921809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 13–15 July 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia-coalitions-seats.png"
+        length="214979"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:29:58 +0200</pubDate>
+      <dc:date>2026-08-26T22:29:58.921809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ninamedia for Dnevnik, 13–15 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 2.8–6.1%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 6.3–10.8%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 1.9–4.7%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 17.4–23.8%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 7.7–12.4%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 21.4–28.3%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 7.4–12.1%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 4.3–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-07-15-Ninamedia.png"
+        length="296155"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:29:58 +0200</pubDate>
+      <dc:date>2026-08-26T22:29:58.921809+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 8–19 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK-seats.png"
+        length="371519"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:46:22 +0200</pubDate>
+      <dc:date>2026-08-26T22:46:22.853699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 8–19 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK-coalitions-seats.png"
+        length="276856"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:46:22 +0200</pubDate>
+      <dc:date>2026-08-26T22:46:22.853699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IJEK for Utrip Družbe, 8–19 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.1–6.7%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 5.1–9.5%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 1.0–3.4%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 1.8–4.7%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 20.9–28.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 4.5–8.6%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 4.2–8.2%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 1.4–4.1%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 4.7–8.8%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 17.3–24.1%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 2.1–5.2%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.9–11.7%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.5–4.3%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.6–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-06-19-IJEK.png"
+        length="464528"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 22:46:22 +0200</pubDate>
+      <dc:date>2026-08-26T22:46:22.853699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon for Siol, 8–12 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0 seats&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 0 seats&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon-seats.png"
+        length="345266"
+        type="image/png"/>
+      <pubDate>Thu, 27 Aug 2026 16:34:00 +0200</pubDate>
+      <dc:date>2026-08-27T16:34:00.949762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon for Siol, 8–12 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon-coalitions-seats.png"
+        length="238932"
+        type="image/png"/>
+      <pubDate>Thu, 27 Aug 2026 16:34:00 +0200</pubDate>
+      <dc:date>2026-08-27T16:34:00.949762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Valicon for Siol, 8–12 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.6–5.9%&lt;/li&gt;&lt;li&gt;Nova Slovenija–Krščanski demokrati (EPP): 4.6–7.0%&lt;/li&gt;&lt;li&gt;Slovenska nacionalna stranka (PfE): 2.0–3.8%&lt;/li&gt;&lt;li&gt;Prerod – Stranka Vladimirja Prebiliča (Greens/EFA): 2.4–4.3%&lt;/li&gt;&lt;li&gt;Gibanje Svoboda (RE): 23.1–27.7%&lt;/li&gt;&lt;li&gt;Mi, socialisti! (*): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Levica (GUE/NGL): 3.1–5.2%&lt;/li&gt;&lt;li&gt;Glas upokojencev (*): 0.5–1.5%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (NI): 4.6–7.0%&lt;/li&gt;&lt;li&gt;Piratska stranka Slovenije (Greens/EFA): 3.8–6.1%&lt;/li&gt;&lt;li&gt;Resni.ca (NI): 6.3–9.1%&lt;/li&gt;&lt;li&gt;Slovenska demokratska stranka (EPP): 17.4–21.5%&lt;/li&gt;&lt;li&gt;VESNA–Zelena stranka (Greens/EFA): 1.5–3.0%&lt;/li&gt;&lt;li&gt;Socialni demokrati (S&amp;amp;D): 6.5–9.3%&lt;/li&gt;&lt;li&gt;Slovenska ljudska stranka (EPP): 1.5–3.0%&lt;/li&gt;&lt;li&gt;FOKUS – za Slovenijo s ciljem (*): 0.7–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovenian_ep_polls/2026-05-12-Valicon.png"
+        length="468049"
+        type="image/png"/>
+      <pubDate>Thu, 27 Aug 2026 16:34:00 +0200</pubDate>
+      <dc:date>2026-08-27T16:34:00.949762+02:00</dc:date>
+    </item>
+    <dc:date>2026-08-27T16:34:00.949762+02:00</dc:date>
   </channel>
 </rss>
