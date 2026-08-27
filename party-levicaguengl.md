@@ -181,7 +181,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0–1 | 0–1 |
 | [3–6 August 2026](2026-08-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
-| [20–23 July 2026](2026-07-23-Mediana.html) | Mediana <br> POP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–23 July 2026](2026-07-23-Mediana.html) | Mediana <br> POP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 July 2026](2026-07-15-Ninamedia.html) | Ninamedia <br> Dnevnik | 1 | 1 | 1 | 1 | 0–1 |
 | [6–9 July 2026](2026-07-09-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [22–24 June 2026](2026-06-24-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
