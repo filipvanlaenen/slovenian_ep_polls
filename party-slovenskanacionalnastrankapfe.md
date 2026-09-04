@@ -61,7 +61,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–11 February 2026](2026-02-11-Info360si.html) | Info360.si | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 February 2026](2026-02-08-Valicon.html) | Valicon <br> TSmedia | 3.7% | N/A | N/A | N/A | N/A |
 | [2–5 February 2026](2026-02-05-Mediana.html) | Mediana <br> Delo | 3.3% | N/A | N/A | N/A | N/A |
-| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 2.5% | N/A | N/A | N/A | N/A |
+| [26–29 January 2026](2026-01-29-Mediana.html) | Mediana <br> POP TV | 2.7% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-Ninamedia.html) | Ninamedia <br> Mladina | 1.5% | N/A | N/A | N/A | N/A |
 | [23–25 January 2026](2026-01-25-Valicon.html) | Valicon <br> TSmedia | 3.1% | N/A | N/A | N/A | N/A |
 | [1–25 January 2026](2026-01-25-IJEK.html) | IJEK <br> Utrip Družbe | 3.3% | N/A | N/A | N/A | N/A |
