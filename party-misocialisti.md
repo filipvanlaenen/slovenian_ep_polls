@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
+| [7–10 September 2026](2026-09-10-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 1.4% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
 | [3–6 August 2026](2026-08-06-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
@@ -172,6 +173,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–10 September 2026](2026-09-10-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
 | [3–6 August 2026](2026-08-06-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
