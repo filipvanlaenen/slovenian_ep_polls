@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.4% | 2.3–4.7% | 2.2–5.0% | 1.8–5.7% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.6% | 2.2–4.9% | 1.9–5.4% |
+| [21–24 September 2026](2026-09-24-Mediana.html) | Mediana <br> POP TV | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 September 2026](2026-09-10-Mediana.html) | Mediana <br> Delo | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.2–4.9% | 1.9–5.4% |
@@ -157,12 +158,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 48% | 90% | Median |
-| 3.5–4.5% | 34% | 42% |  |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.6% | 0.7% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 51% | 91% | Median |
+| 3.5–4.5% | 34% | 40% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -175,6 +176,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–24 September 2026](2026-09-24-Mediana.html) | Mediana <br> POP TV |  |  |  |  |  |
 | [7–10 September 2026](2026-09-10-Mediana.html) | Mediana <br> Delo |  |  |  |  |  |
 | [17–20 August 2026](2026-08-20-Mediana.html) | Mediana <br> POP |  |  |  |  |  |
 | [10–12 August 2026](2026-08-12-Ninamedia.html) | Ninamedia <br> Dnevnik | 0 | 0 | 0 | 0 | 0 |
